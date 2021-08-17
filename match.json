@@ -1,5 +1,41 @@
 {
 "hits" : [
+
+{
+     "user" : "Borussia Dortmund vs Bayer Munich",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "DFL SUPER CUP⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/6/61/DFL-Supercup_logo_%282017%29.svg/340px-DFL-Supercup_logo_%282017%29.svg.png"
+    },
+
+
+{
+     "user" : "Monaco vs Shakhtar Donetsk",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Uefa Champions league qualifiers ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+
+
+
+{
+     "user" : "Fc Sheriff vs Dinamo Zagreb",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Uefa Champions league qualifiers ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+
+
+
+{
+     "user" : "Fc Salzburg vs Broendby IF",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Uefa Champions league qualifiers ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+
+
+
 {
      "user" : "LIVE SPORTS",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
