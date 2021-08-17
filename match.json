@@ -2,11 +2,27 @@
 "hits" : [
 
 {
-     "user" : "Borussia Dortmund vs Bayer Munich",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+     "user" : "Borussia Dortmund vs Bayer Munich SD",
+    "pageUrl" : "http://92.43.140.200/s82/04.m3u8",
     "type" : "DFL SUPER CUP⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/6/61/DFL-Supercup_logo_%282017%29.svg/340px-DFL-Supercup_logo_%282017%29.svg.png"
     },
+
+{
+     "user" : "Borussia Dortmund vs Bayer Munich HD 1",
+    "pageUrl" : "http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8",
+    "type" : "DFL SUPER CUP⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/6/61/DFL-Supercup_logo_%282017%29.svg/340px-DFL-Supercup_logo_%282017%29.svg.png"
+    },
+
+
+{
+     "user" : "Borussia Dortmund vs Bayer Munich HD2 ",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
+    "type" : "DFL SUPER CUP⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/6/61/DFL-Supercup_logo_%282017%29.svg/340px-DFL-Supercup_logo_%282017%29.svg.png"
+    },
+
 
 
 {
