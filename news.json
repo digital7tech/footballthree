@@ -1,40 +1,91 @@
 
 [
-        {
-            "name": "Benfica vs PSV Eindhoven",
-            "description":"",
-            "Rating": "20:00",
-            "episode": 1,
-            "categorie":"Uefa Championsleague | Qualifiers | Championsleague",
-            "studio":"Champions League",
-            "img": "https://static.dw.com/image/16392542_303.jpg"
-        },
-
-
-
-        {
-            "name": "Malmo FF vs Ludogorets Razgrad",
-            "description":"",
-            "Rating": "20:00",
-            "episode": 1,
-            "categorie":"Uefa Championsleague | Qualifiers | Championsleague",
-            "studio":"Champions League",
-            "img": "https://static.dw.com/image/16392542_303.jpg"
-        },
-
-{
-            "name": "Young Boys vs Ferencvaros",
-            "description":"",
-            "Rating": "20:00",
-            "episode": 1,
-            "categorie":"Uefa Championsleague | Qualifiers | Championsleague",
-            "studio":"Champions League",
-            "img": "https://static.dw.com/image/16392542_303.jpg"
-        },
+        
 
 
 {
-            "name": "Young Boys vs Ferencvaros",
+            "name": "Omonia Nicosia vs Royal Antwerp",
+            "description":"",
+            "Rating": "18:00",
+            "episode": 1,
+            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
+            "studio":"Uefa Europa League",
+            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+        },
+
+{
+            "name": "Randers Fc vs Galatasaray",
+            "description":"",
+            "Rating": "18:00",
+            "episode": 1,
+            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
+            "studio":"Uefa Europa League",
+            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+        },
+
+
+
+{
+            "name": "Slavia Prague vs Legia Warsaw",
+            "description":"",
+            "Rating": "18:00",
+            "episode": 1,
+            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
+            "studio":"Uefa Europa League",
+            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+        }, 
+
+
+
+{
+            "name": "Mura vs Surm Graz",
+            "description":"",
+            "Rating": "19:00",
+            "episode": 1,
+            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
+            "studio":"Uefa Europa League",
+            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+        },
+
+
+
+{
+            "name": "Fernanbache vs HJK",
+            "description":"",
+            "Rating": "19:45",
+            "episode": 1,
+            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
+            "studio":"Uefa Europa League",
+            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+        },
+
+
+{
+            "name": "Olympiakos vs Slovan Bratislava",
+            "description":"",
+            "Rating": "20:00",
+            "episode": 1,
+            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
+            "studio":"Uefa Europa League",
+            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+        }, 
+
+
+
+{
+            "name": "Rangers vs Alashkert FC",
+            "description":"",
+            "Rating": "20:00",
+            "episode": 1,
+            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
+            "studio":"Uefa Europa League",
+            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+        },
+
+
+
+{
+            "name": "Rapid Wien vs Zorya",
             "description":"",
             "Rating": "20:00",
             "episode": 1,
