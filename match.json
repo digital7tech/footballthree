@@ -3,14 +3,14 @@
 
   {
      "user" : "	Kups vs Union Berlin",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
     "type" : "Europe - UEFA Europa Conference League ⚽️ ",
     "webFormatUrl" :"https://topsoccerblog.com/wp-content/uploads/2021/02/20210207_144646.jpg"
     },
  
   {
      "user" : "	Trabzonspor vs Roma",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
     "type" : "Europe - UEFA Europa Conference League ⚽️ ",
     "webFormatUrl" :"https://topsoccerblog.com/wp-content/uploads/2021/02/20210207_144646.jpg"
     },
@@ -19,27 +19,27 @@
  
   {
      "user" : "RENNES VS Rosenborg",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
     "type" : "Europe - UEFA Europa Conference League ⚽️ ",
     "webFormatUrl" :"https://topsoccerblog.com/wp-content/uploads/2021/02/20210207_144646.jpg"
     },
  
   {
      "user" : "	Feyernoord vs Elfsborg",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
     "type" : "Europe - UEFA Europa Conference League ⚽️ ",
     "webFormatUrl" :"https://topsoccerblog.com/wp-content/uploads/2021/02/20210207_144646.jpg"
     },
  
   {
      "user" : "	Paços de Ferreira vs Tottenham Hotspur",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
     "type" : "Europe - UEFA Europa Conference League ⚽️ ",
     "webFormatUrl" :"https://topsoccerblog.com/wp-content/uploads/2021/02/20210207_144646.jpg"
     },
  {
      "user" : "LIVE SPORTS",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
     "type" : "LIVE SPORTS ⚽️ ",
     "webFormatUrl" :"https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
     }
