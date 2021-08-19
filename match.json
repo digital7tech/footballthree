@@ -1,35 +1,36 @@
 {
 "hits" :[
- {
-     "user" : "United Arab Emirates vs Tahiti",
+
+  {
+     "user" : "	Kups vs Union Berlin",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
-    "type" : "FIFA Beach Soccer World Cup ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/5/55/2021_FIFA_Beach_Soccer_World_Cup.png"
+    "type" : "Europe - UEFA Europa Conference League ⚽️ ",
+    "webFormatUrl" :"https://topsoccerblog.com/wp-content/uploads/2021/02/20210207_144646.jpg"
     },
- {
-     "user" : "	Paraguay vs Japan",
+ 
+  {
+     "user" : "	Trabzonspor vs Roma",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
-    "type" : "FIFA Beach Soccer World Cup ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/5/55/2021_FIFA_Beach_Soccer_World_Cup.png"
+    "type" : "Europe - UEFA Europa Conference League ⚽️ ",
+    "webFormatUrl" :"https://topsoccerblog.com/wp-content/uploads/2021/02/20210207_144646.jpg"
     },
- {
-     "user" : "Mozambique vs Spain",
+
+
+ 
+  {
+     "user" : "RENNES VS Rosenborg",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
-    "type" : "FIFA Beach Soccer World Cup ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/5/55/2021_FIFA_Beach_Soccer_World_Cup.png"
+    "type" : "Europe - UEFA Europa Conference League ⚽️ ",
+    "webFormatUrl" :"https://topsoccerblog.com/wp-content/uploads/2021/02/20210207_144646.jpg"
     },
- {
-     "user" : "	Football Union Of Russia vs United States",
+ 
+  {
+     "user" : "	Feyernoord vs Elfsborg",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
-    "type" : "FIFA Beach Soccer World Cup ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/5/55/2021_FIFA_Beach_Soccer_World_Cup.png"
+    "type" : "Europe - UEFA Europa Conference League ⚽️ ",
+    "webFormatUrl" :"https://topsoccerblog.com/wp-content/uploads/2021/02/20210207_144646.jpg"
     },
- {
-     "user" : "	Russia vs USA",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
-    "type" : "FIFA Beach Soccer World Cup ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/5/55/2021_FIFA_Beach_Soccer_World_Cup.png"
-    },
+ 
   {
      "user" : "	Paços de Ferreira vs Tottenham Hotspur",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
