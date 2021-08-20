@@ -4,94 +4,58 @@
 
 
 {
-            "name": "Omonia Nicosia vs Royal Antwerp",
+            "name": "Real betis vs Cadiz",
             "description":"",
-            "Rating": "18:00",
+            "Rating": "20:00",
             "episode": 1,
-            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
-            "studio":"Uefa Europa League",
-            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+            "categorie":"Spanish La liga",
+            "studio":"La liga",
+            "img": "https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
         },
 
 {
-            "name": "Randers Fc vs Galatasaray",
+            "name": "RB Leipzig vs Vfg Stuttgart",
             "description":"",
-            "Rating": "18:00",
+            "Rating": "19:30",
             "episode": 1,
-            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
-            "studio":"Uefa Europa League",
-            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+            "categorie":"German Bundesliga",
+            "studio":"BUNDESLIGA",
+            "img": "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
         },
 
 
 
 {
-            "name": "Slavia Prague vs Legia Warsaw",
+            "name": "Brest vs Paris Saint-Germain",
             "description":"",
-            "Rating": "18:00",
+            "Rating": "20:00",
             "episode": 1,
-            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
-            "studio":"Uefa Europa League",
-            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+            "categorie":"Uber Eat ligue 1",
+            "studio":"French league",
+            "img": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
         }, 
 
 
 
 {
-            "name": "Mura vs Surm Graz",
+            "name": "Arouca vs Famalicao",
             "description":"",
             "Rating": "19:00",
             "episode": 1,
-            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
-            "studio":"Uefa Europa League",
-            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-        },
-
-
-
-{
-            "name": "Fernanbache vs HJK",
-            "description":"",
-            "Rating": "19:45",
-            "episode": 1,
-            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
-            "studio":"Uefa Europa League",
-            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+            "categorie":"Primeira Liga",
+            "studio":"Portuguese League",
+            "img": "https://1000marcas.net/wp-content/uploads/2020/03/Portuguese-Primeira-Liga-Logo-1.png"
         },
 
 
 {
-            "name": "Olympiakos vs Slovan Bratislava",
+            "name": "Moreirense vs SC Braga",
             "description":"",
-            "Rating": "20:00",
+            "Rating": "19:00",
             "episode": 1,
-            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
-            "studio":"Uefa Europa League",
-            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-        }, 
-
-
-
-{
-            "name": "Rangers vs Alashkert FC",
-            "description":"",
-            "Rating": "20:00",
-            "episode": 1,
-            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
-            "studio":"Uefa Europa League",
-            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-        },
-
-
-
-{
-            "name": "Rapid Wien vs Zorya",
-            "description":"",
-            "Rating": "20:00",
-            "episode": 1,
-            "categorie":"Uefa Europa league | Qualifiers | Uefa EURO League",
-            "studio":"Uefa Europa League",
-            "img": "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+            "categorie":"Primeira Liga",
+            "studio":"Portuguese League",
+            "img": "https://1000marcas.net/wp-content/uploads/2020/03/Portuguese-Primeira-Liga-Logo-1.png"
         }
 
     ]
