@@ -1,66 +1,6 @@
 {
 "hits" :[
 
- 
-
- 
-  
- 
-
-  
- {
-     "user" : "RB Leipzig vs Vfg Stuttgart SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
-    "type" : "German Bundesliga ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-    },
-
-
-  
- {
-     "user" : "RB Leipzig vs Vfg Stuttgart HD",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
-    "type" : "German Bundesliga ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-    },
-
-
- {
-     "user" : "Bristol City vs Swansea",
-    "pageUrl" : "http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8",
-    "type" : "English Championship ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-
-
- {
-     "user" : "Brest vs Paris Saint-Germain SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "French LIGUE 1⚽️ ",
-    "webFormatUrl" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
-    },
-
-  
- {
-     "user" : "Brest vs Paris Saint-Germain HD",
-    "pageUrl" : "http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8",
-    "type" : "French LIGUE 1⚽️ ",
-    "webFormatUrl" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
-    },
-
- {
-     "user" : "Real Betis vs Cadiz SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "Spanish La liga ⚽️ ",
-    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
-    },
-{
-     "user" : "Real Betis vs Cadiz HD",
-    "pageUrl" : "http://77.83.117.60:8888/02_PremierHD4_480p/chunklist.m3u8",
-    "type" : "Spanish La liga ⚽️ ",
-    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
-    },
-
  {
      "user" : "Moreirense vs SC Braga",
     "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8",
