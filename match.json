@@ -2,49 +2,17 @@
 "hits" : [
    
 
-{
-     "user" : "Empoli vs Lazio SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
-    "type" : "Italy - Serie A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
 
-   {
-     "user" : "Empoli vs Lazio HD1",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
-    "type" : "Italy - Serie A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-   {
-     "user" : "Empoli vs Lazio HD2",
-    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8",
-    "type" : "Italy - Serie A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-   {
-     "user" : "Torino vs Atalanta SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/110.m3u8",
-    "type" : "Italy - Serie A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-
-
-{
-     "user" : "Torino vs Atalanta HD",
-    "pageUrl" : "http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/playlist.m3u8",
-    "type" : "Italy - Serie A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-
-  {
-     "user" : "SAINT-ETIENNE VS LILLE",
-    "pageUrl" : "http://93.157.62.180/ArenaSport1/index.m3u8",
-    "type" : "French LIGUE 1⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
     {
-     "user" : "Athletic Club vs Barcelona SD",
+     "user" : "Athletic Club vs Barcelona SD 1",
     "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8",
+    "type" : "Spain - La Liga ⚽️",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+    },
+
+{
+     "user" : "Athletic Club vs Barcelona SD 2",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/110.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
