@@ -1,23 +1,6 @@
 {
 "hits" : [
-   {
-     "user" : "	Granada vs Valencia",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
-   {
-     "user" : "Espanyol vs Villarreal HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
-{
-     "user" : "Espanyol vs Villarreal SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
+   
 
 {
      "user" : "Empoli vs Lazio SD",
@@ -61,13 +44,13 @@
     },
     {
      "user" : "Athletic Club vs Barcelona SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
     {
      "user" : "Athletic Club vs Barcelona HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8",
+    "pageUrl" : "http://31.220.41.88:8081/live/tsn3.stream/playlist.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
