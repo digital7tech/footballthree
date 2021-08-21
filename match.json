@@ -33,12 +33,7 @@
     "type" : "Germany - Bundesliga ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
     },
-   {
-     "user" : "Manchester City vs Norwich City SD 1",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
-    "type" : "England - Premier League ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
+   
 
 
 {
@@ -54,8 +49,15 @@
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
    {
-     "user" : "	Aston Villa vs Newcastle United",
+     "user" : "	Aston Villa vs Newcastle United SD1",
     "pageUrl" : "https://www.livedoomovie.com/02_PremierHD3_480p/chunklist.m3u8",
+    "type" : "England - Premier League ⚽️",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+
+{
+     "user" : "	Aston Villa vs Newcastle United SD2",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
