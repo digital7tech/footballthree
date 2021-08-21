@@ -37,19 +37,19 @@
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
     
-
 {
      "user" : "	Hellas Verona vs Sassuolo SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/110.m3u8",
+    "type" : "Italy - Serie A ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+{
+     "user" : "	Hellas Verona vs Sassuolo HD",
     "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
-    {
-     "user" : "	Hellas Verona vs Sassuolo HD",
-    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8",
-    "type" : "Italy - Serie A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
+    
     {
      "user" : "	Hellas Verona vs Sassuolo HD 2",
     "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
