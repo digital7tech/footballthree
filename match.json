@@ -45,17 +45,12 @@
     },
 {
      "user" : "	Hellas Verona vs Sassuolo HD",
-    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
+    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
     
-    {
-     "user" : "	Hellas Verona vs Sassuolo HD 2",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-    "type" : "Italy - Serie A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
+    
     {
      "user" : "Brighton & Hove Albion vs Watford SD",
     "pageUrl" : "https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
