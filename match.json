@@ -17,7 +17,12 @@
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
-
+{
+     "user" : "Internazionale vs Genoa SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
+    "type" : "Italy - Serie A ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
 {
      "user" : "Internazionale vs Genoa HD1",
     "pageUrl" : "https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
@@ -31,12 +36,7 @@
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
-    {
-     "user" : "Internazionale vs Genoa HD3",
-    "pageUrl" : "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8",
-    "type" : "Italy - Serie A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
+    
 
 {
      "user" : "	Hellas Verona vs Sassuolo SD",
