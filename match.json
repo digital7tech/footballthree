@@ -2,58 +2,7 @@
 "hits" : [
    
      
-{
-     "user" : "Manchester City vs Norwich City SD 1",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
-    "type" : "England - Premier League ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-   
-   
-{
-     "user" : "Manchester City vs Norwich City SD 2",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-   {
-     "user" : "Manchester City vs Norwich City HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-   {
-     "user" : "	Aston Villa vs Newcastle United SD1",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD3_480p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
 
-{
-     "user" : "	Aston Villa vs Newcastle United SD2",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-   {
-     "user" : "Crystal Palace vs Brentford",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-{
-     "user" : "Leeds United vs Everton SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/105.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-  
-   {
-     "user" : "Leeds United vs Everton HD",
-    "pageUrl" : "http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
 {
      "user" : "	Deportivo Alavés vs Mallorca SD",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
@@ -68,45 +17,60 @@
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
+
+{
+     "user" : "Internazionale vs Genoa HD1",
+    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+
    {
-     "user" : "Internazionale vs Genoa SD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+     "user" : "Internazionale vs Genoa HD2",
+    "pageUrl" : "http://93.157.62.180/ArenaSport4/index.m3u8",
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
     {
-     "user" : "Internazionale vs Genoa HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+     "user" : "Internazionale vs Genoa HD3",
+    "pageUrl" : "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8",
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
-    {
+
+{
      "user" : "	Hellas Verona vs Sassuolo SD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
     {
      "user" : "	Hellas Verona vs Sassuolo HD",
+    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+    {
+     "user" : "	Hellas Verona vs Sassuolo HD 2",
     "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
     {
      "user" : "Brighton & Hove Albion vs Watford SD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
    {
      "user" : "Brighton & Hove Albion vs Watford HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
     {
      "user" : "	Bayer Leverkusen vs Borussia M'gladbach",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "http://173.199.120.51/hls/ten2.m3u8",
     "type" : "Germany - Bundesliga ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
     },
