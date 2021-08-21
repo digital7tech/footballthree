@@ -3,25 +3,7 @@
    
 
 
-    {
-     "user" : "Athletic Club vs Barcelona SD 1",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
-
-{
-     "user" : "Athletic Club vs Barcelona SD 2",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
-    {
-     "user" : "Athletic Club vs Barcelona HD",
-    "pageUrl" : "http://31.220.41.88:8081/live/tsn3.stream/playlist.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
+    
  {
      "user" : "LIVE SPORTS",
     "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
