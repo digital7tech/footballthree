@@ -34,20 +34,28 @@
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
     },
    {
-     "user" : "Manchester City vs Norwich City SD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+     "user" : "Manchester City vs Norwich City SD 1",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
+    "type" : "England - Premier League ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+
+
+{
+     "user" : "Manchester City vs Norwich City SD 2",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
    {
      "user" : "Manchester City vs Norwich City HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
    {
      "user" : "	Aston Villa vs Newcastle United",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD3_480p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
@@ -57,9 +65,17 @@
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
+{
+     "user" : "Leeds United vs Everton SD",
+    "pageUrl" : "http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8",
+    "type" : "England - Premier League ⚽️",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+  {
+
    {
-     "user" : "Leeds United vs Everton",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+     "user" : "Leeds United vs Everton HD",
+    "pageUrl" : "http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
