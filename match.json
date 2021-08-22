@@ -1,69 +1,7 @@
 {
 "hits" : [
     
- {
-     "user" : "Southampton vs Manchester United SD 1",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
 
- {
-     "user" : "Southampton vs Manchester United SD 2",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-    {
-     "user" : "Southampton vs Manchester United HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-    {
-     "user" : "Wolverhampton Wanderers vs Tottenham Hotspur SD 1",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD3_480p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-
-
-{
-     "user" : "Wolverhampton Wanderers vs Tottenham Hotspur SD 2",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-    {
-     "user" : "Wolverhampton Wanderers vs Tottenham Hotspur HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-    {
-     "user" : "Metz vs Reims",
-    "pageUrl" : "http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8",
-    "type" : "France - Ligue 1 ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
-    },
-    {
-     "user" : "Strasbourg vs Troyes",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/105.m3u8",
-    "type" : "France - Ligue 1 ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
-    },
-    {
-     "user" : "	Bordeaux vs Angers SCO",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-    "type" : "France - Ligue 1 ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
-    },
-    {
-     "user" : "	Montpellier vs Lorient",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
-    "type" : "France - Ligue 1 ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
-    },
     {
      "user" : "	Hoffenheim vs Union Berlin HD",
     "pageUrl" : "http://173.199.120.51/hls/ten2.m3u8",
@@ -71,8 +9,15 @@
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
     },
     {
-     "user" : "	Real Sociedad vs Rayo Vallecano SD",
+     "user" : "	Real Sociedad vs Rayo Vallecano SD 1",
     "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8",
+    "type" : "Spain - La Liga ⚽️",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+    },
+
+{
+     "user" : "	Real Sociedad vs Rayo Vallecano SD 2",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
@@ -90,25 +35,25 @@
     },
     {
      "user" : "Arsenal vs Chelsea SD 1",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
      {
      "user" : "Arsenal vs Chelsea SD 2",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
      {
      "user" : "Arsenal vs Chelsea HD 1",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
      {
      "user" : "Arsenal vs Chelsea HD 2",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
