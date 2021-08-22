@@ -2,31 +2,8 @@
 "hits" : [
     
 
-    {
-     "user" : "	Hoffenheim vs Union Berlin HD",
-    "pageUrl" : "http://173.199.120.51/hls/ten2.m3u8",
-    "type" : "Germany - Bundesliga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },
-    {
-     "user" : "	Real Sociedad vs Rayo Vallecano SD 1",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
-
-{
-     "user" : "	Real Sociedad vs Rayo Vallecano SD 2",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
-    {
-     "user" : "	Real Sociedad vs Rayo Vallecano HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
+    
+    
     {
      "user" : "Rennes vs Nantes",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
@@ -83,15 +60,17 @@
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
+   
    {
-     "user" : "Bologna vs Salernitana SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
+     "user" : "Bologna vs Salernitana HD 1",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
-   {
-     "user" : "Bologna vs Salernitana HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
+
+{
+     "user" : "Bologna vs Salernitana HD 2",
+    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
