@@ -1,19 +1,6 @@
 {
 "hits" : [
-    {
-     "user" : "Olympique Lyonnais vs Clermont",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/105.m3u8",
-    "type" : "France - Ligue 1 ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
-    },
-
-
-{
-     "user" : "Olympique Lyonnais vs Clermont HD",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-    "type" : "France - Ligue 1 ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
-    },
+    
  {
      "user" : "Southampton vs Manchester United SD 1",
     "pageUrl" : "https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
@@ -55,25 +42,25 @@
     },
     {
      "user" : "Metz vs Reims",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "http://93.157.62.180/ArenaSport2/index.m3u8",
     "type" : "France - Ligue 1 ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
     },
     {
      "user" : "Strasbourg vs Troyes",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8",
     "type" : "France - Ligue 1 ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
     },
     {
      "user" : "	Bordeaux vs Angers SCO",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "France - Ligue 1 ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
     },
     {
      "user" : "	Montpellier vs Lorient",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
     "type" : "France - Ligue 1 ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
     },
