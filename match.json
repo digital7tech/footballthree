@@ -5,12 +5,7 @@
     
     
    
-     {
-     "user" : "Bayern München vs Köln HD",
-    "pageUrl" : "http://173.199.120.51/hls/ten2.m3u8",
-    "type" : "Germany - Bundesliga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },
+     
     {
      "user" : "Udinese vs Juventus SD",
     "pageUrl" : "https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
@@ -61,25 +56,40 @@
     
    {
      "user" : "Napoli vs Venezia SD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
    {
-     "user" : "Napoli vs Venezia HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+     "user" : "Napoli vs Venezia HD 1",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+
+{
+     "user" : "Napoli vs Venezia HD 2",
+    "pageUrl" : "https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8",
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
    {
      "user" : "	Roma vs Fiorentina SD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
    {
-     "user" : "Roma vs Fiorentina HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+     "user" : "Roma vs Fiorentina HD 1",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+
+
+{
+     "user" : "Roma vs Fiorentina HD 2",
+    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
