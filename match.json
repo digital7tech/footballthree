@@ -1,46 +1,5 @@
 {
 "hits" : [
-    
-
-    
-    
-   
-     
-    {
-     "user" : "Udinese vs Juventus SD",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
-    "type" : "Italy - Serie A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-   {
-     "user" : "Udinese vs Juventus HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
-    "type" : "Italy - Serie A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-
-
-{
-     "user" : "Udinese vs Juventus HD 2",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "Italy - Serie A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-   
-   {
-     "user" : "Bologna vs Salernitana HD 1",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
-    "type" : "Italy - Serie A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-
-{
-     "user" : "Bologna vs Salernitana HD 2",
-    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
-    "type" : "Italy - Serie A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-    
     {
      "user" : "Atlético Madrid vs Elche SD",
     "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8",
@@ -93,15 +52,24 @@
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
+
+
+{
+     "user" : "NICE vs MARSEILLE",
+    "pageUrl" : "http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/playlist.m3u8",
+    "type" : "FRENCH LIGUE 1⚽️",
+    "webFormatUrl" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
+    },
+
    {
      "user" : "Levante vs Real Madrid SD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
     {
      "user" : "Levante vs Real Madrid HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
