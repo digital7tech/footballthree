@@ -4,31 +4,76 @@
 
 
 {
-            "name": "Real betis vs Cadiz",
+            "name": "Southampton vs Manchester United",
             "description":"",
-            "Rating": "20:00",
+            "Rating": "14:00",
             "episode": 1,
-            "categorie":"Spanish La liga",
-            "studio":"La liga",
-            "img": "https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
+            "categorie":"England - Premier League",
+            "studio":"England - Premier League",
+            "img": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+        },
+        {
+            "name": "Wolverhampton Wanderers vs Tottenham Hotspur",
+            "description":"",
+            "Rating": "14:00",
+            "episode": 1,
+            "categorie":"England - Premier League",
+            "studio":"England - Premier League",
+            "img": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
         },
 
 {
-            "name": "RB Leipzig vs Vfg Stuttgart",
+            "name": "Metz vs Reims",
             "description":"",
-            "Rating": "19:30",
+            "Rating": "14:00",
             "episode": 1,
-            "categorie":"German Bundesliga",
-            "studio":"BUNDESLIGA",
-            "img": "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+            "categorie":"France - Ligue 1",
+            "studio":"France - Ligue 1",
+            "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
+        },
+        {
+            "name": "Metz vs Reims",
+            "description":"",
+            "Rating": "12:00",
+            "episode": 1,
+            "categorie":"France - Ligue 1",
+            "studio":"France - Ligue 1",
+            "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
+        },
+        {
+            "name": "Bordeaux vs Angers SCO",
+            "description":"",
+            "Rating": "14:00",
+            "episode": 1,
+            "categorie":"France - Ligue 1",
+            "studio":"France - Ligue 1",
+            "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
+        },
+        {
+            "name": "Montpellier vs Lorient",
+            "description":"",
+            "Rating": "14:00",
+            "episode": 1,
+            "categorie":"France - Ligue 1",
+            "studio":"France - Ligue 1",
+            "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
         },
 
 
 
 {
-            "name": "Brest vs Paris Saint-Germain",
+            "name": "Rennes vs Nantes",
             "description":"",
-            "Rating": "20:00",
+            "Rating": "16:00",
+            "episode": 1,
+            "categorie":"Uber Eat ligue 1",
+            "studio":"French league",
+            "img": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
+        }, 
+        {
+            "name": "	Nice vs Olympique Marseille",
+            "description":"",
+            "Rating": "19:45",
             "episode": 1,
             "categorie":"Uber Eat ligue 1",
             "studio":"French league",
@@ -38,24 +83,68 @@
 
 
 {
-            "name": "Arouca vs Famalicao",
+            "name": "	Real Sociedad vs Rayo Vallecano",
             "description":"",
-            "Rating": "19:00",
+            "Rating": "16;00",
             "episode": 1,
-            "categorie":"Primeira Liga",
-            "studio":"Portuguese League",
-            "img": "https://1000marcas.net/wp-content/uploads/2020/03/Portuguese-Primeira-Liga-Logo-1.png"
+            "categorie":"Spain - La Liga",
+            "studio":"Spain - La Liga",
+            "img": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
         },
-
-
-{
-            "name": "Moreirense vs SC Braga",
+       
+        {
+            "name": "Atlético Madrid vs Elche",
+            "description":"",
+            "Rating": "18:30",
+            "episode": 1,
+            "categorie":"Spain - La Liga",
+            "studio":"Spain - La Liga",
+            "img": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+        },
+        {
+            "name": "	Levante vs Real Madrid",
+            "description":"",
+            "Rating": "21;00",
+            "episode": 1,
+            "categorie":"Spain - La Liga",
+            "studio":"Spain - La Liga",
+            "img": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+        },
+        {
+            "name": "Bologna vs Salernitana",
             "description":"",
             "Rating": "19:00",
             "episode": 1,
-            "categorie":"Primeira Liga",
-            "studio":"Portuguese League",
-            "img": "https://1000marcas.net/wp-content/uploads/2020/03/Portuguese-Primeira-Liga-Logo-1.png"
+            "categorie":"Italy - Serie A",
+            "studio":"Italy - Serie A",
+            "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+        },
+         {
+            "name": "	Udinese vs Juventus",
+            "description":"",
+            "Rating": "19:00",
+            "episode": 1,
+            "categorie":"Italy - Serie A",
+            "studio":"Italy - Serie A",
+            "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+        },
+         {
+            "name": "Napoli vs Venezia",
+            "description":"",
+            "Rating": "19:00",
+            "episode": 1,
+            "categorie":"Italy - Serie A",
+            "studio":"Italy - Serie A",
+            "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+        }, {
+            "name": "Roma vs Fiorentina",
+            "description":"",
+            "Rating": "19:00",
+            "episode": 1,
+            "categorie":"Italy - Serie A",
+            "studio":"Italy - Serie A",
+            "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
         }
+       
 
     ]
