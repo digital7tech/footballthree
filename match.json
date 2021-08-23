@@ -1,25 +1,7 @@
 {
 "hits" : [
     
-   {
-     "user" : "	Getafe vs Sevilla SD",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
-     {
-     "user" : "	Getafe vs Sevilla HD 1",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
-
-{
-     "user" : "	Getafe vs Sevilla HD 2",
-    "pageUrl" : "http://92.43.140.200/s81/04.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
+   
     {
      "user" : "Sampdoria vs Milan SD",
     "pageUrl" : "https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
