@@ -4,88 +4,24 @@
 
 
 {
-            "name": "Southampton vs Manchester United",
+            "name": "WESTHAM VS LEICESTER CITY",
             "description":"",
-            "Rating": "14:00",
+            "Rating": "20:00",
             "episode": 1,
             "categorie":"England - Premier League",
             "studio":"England - Premier League",
             "img": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
         },
-        {
-            "name": "Wolverhampton Wanderers vs Tottenham Hotspur",
-            "description":"",
-            "Rating": "14:00",
-            "episode": 1,
-            "categorie":"England - Premier League",
-            "studio":"England - Premier League",
-            "img": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-        },
+        
 
-{
-            "name": "Metz vs Reims",
-            "description":"",
-            "Rating": "14:00",
-            "episode": 1,
-            "categorie":"France - Ligue 1",
-            "studio":"France - Ligue 1",
-            "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
-        },
-        {
-            "name": "Metz vs Reims",
-            "description":"",
-            "Rating": "12:00",
-            "episode": 1,
-            "categorie":"France - Ligue 1",
-            "studio":"France - Ligue 1",
-            "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
-        },
-        {
-            "name": "Bordeaux vs Angers SCO",
-            "description":"",
-            "Rating": "14:00",
-            "episode": 1,
-            "categorie":"France - Ligue 1",
-            "studio":"France - Ligue 1",
-            "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
-        },
-        {
-            "name": "Montpellier vs Lorient",
-            "description":"",
-            "Rating": "14:00",
-            "episode": 1,
-            "categorie":"France - Ligue 1",
-            "studio":"France - Ligue 1",
-            "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
-        },
+
 
 
 
 {
-            "name": "Rennes vs Nantes",
+            "name": "GETAFE VS SEVILLA",
             "description":"",
-            "Rating": "16:00",
-            "episode": 1,
-            "categorie":"Uber Eat ligue 1",
-            "studio":"French league",
-            "img": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
-        }, 
-        {
-            "name": "	Nice vs Olympique Marseille",
-            "description":"",
-            "Rating": "19:45",
-            "episode": 1,
-            "categorie":"Uber Eat ligue 1",
-            "studio":"French league",
-            "img": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
-        }, 
-
-
-
-{
-            "name": "	Real Sociedad vs Rayo Vallecano",
-            "description":"",
-            "Rating": "16;00",
+            "Rating": "19;00",
             "episode": 1,
             "categorie":"Spain - La Liga",
             "studio":"Spain - La Liga",
@@ -93,51 +29,26 @@
         },
        
         {
-            "name": "Atlético Madrid vs Elche",
+            "name": "OSASUNA VS CELTA VIGO",
             "description":"",
-            "Rating": "18:30",
+            "Rating": "21:00",
             "episode": 1,
             "categorie":"Spain - La Liga",
             "studio":"Spain - La Liga",
             "img": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
         },
+        
         {
-            "name": "	Levante vs Real Madrid",
+            "name": "CAGLIARI VS SPEZIA",
             "description":"",
-            "Rating": "21;00",
-            "episode": 1,
-            "categorie":"Spain - La Liga",
-            "studio":"Spain - La Liga",
-            "img": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-        },
-        {
-            "name": "Bologna vs Salernitana",
-            "description":"",
-            "Rating": "19:00",
+            "Rating": "17:30",
             "episode": 1,
             "categorie":"Italy - Serie A",
             "studio":"Italy - Serie A",
             "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
         },
-         {
-            "name": "	Udinese vs Juventus",
-            "description":"",
-            "Rating": "19:00",
-            "episode": 1,
-            "categorie":"Italy - Serie A",
-            "studio":"Italy - Serie A",
-            "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-        },
-         {
-            "name": "Napoli vs Venezia",
-            "description":"",
-            "Rating": "19:00",
-            "episode": 1,
-            "categorie":"Italy - Serie A",
-            "studio":"Italy - Serie A",
-            "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-        }, {
-            "name": "Roma vs Fiorentina",
+          {
+            "name": "SAMPDORIA VS AC MILAN",
             "description":"",
             "Rating": "19:00",
             "episode": 1,
