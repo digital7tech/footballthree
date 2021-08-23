@@ -59,16 +59,32 @@
     },
      {
      "user" : "	Osasuna vs Celta de Vigo SD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
      {
      "user" : "	Osasuna vs Celta de Vigo HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
+
+{
+     "user" : "	Osasuna vs Celta de Vigo HD 2",
+    "pageUrl" : "http://92.43.140.200/s81/04.m3u8",
+    "type" : "Spain - La Liga ⚽️",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+    },
+
+
+{
+     "user" : "	Osasuna vs Celta de Vigo HD 3",
+    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Spain - La Liga ⚽️",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+    },
+
      {
      "user" : "Boavista vs Santa Clara",
     "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
