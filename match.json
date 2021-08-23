@@ -34,10 +34,17 @@
     },
     {
      "user" : "Sampdoria vs Milan HD2",
-    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
+    "pageUrl" : "http://93.157.62.180/ArenaSport1/index.m3u8",
     "type" : "Italy - Serie A ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
+{
+     "user" : "Sampdoria vs Milan HD3",
+    "pageUrl" : "http://92.43.140.200/s82/04.m3u8",
+    "type" : "Italy - Serie A ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+
      {
      "user" : "West Ham United vs Leicester City SD",
     "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
