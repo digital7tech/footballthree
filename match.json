@@ -62,14 +62,14 @@
 
 {
      "user" : "	Osasuna vs Celta de Vigo HD 3",
-    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://93.157.62.180/ArenaSport1/index.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
 
      {
      "user" : "Boavista vs Santa Clara",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "Portugal - Primeira Liga ⚽️",
     "webFormatUrl" :"https://www.soccertimes.com/wp-content/uploads/2018/05/primeira-liga-logo.jpg"
     },
