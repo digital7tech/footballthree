@@ -7,12 +7,33 @@
     "type" : "Germany - DFB Pokal ⚽️",
     "webFormatUrl" :"https://i.pinimg.com/originals/20/d4/2e/20d42e726de3b58e982f107bb8167607.jpg"
     },
-     {
-     "user" : "West Bromwich Albion vs Arsenal",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
+
+{
+     "user" : "West Bromwich Albion vs Arsenal SD",
+    "pageUrl" : "https://www.livedoomovie.com/01_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "England - League Cup ⚽️",
     "webFormatUrl" :"https://e7.pngegg.com/pngimages/383/660/png-clipart-english-football-league-efl-championship-2011-12-football-league-cup-efl-league-one-2012-football-league-cup-final-england-text-logo.png"
     },
+     {
+     "user" : "West Bromwich Albion vs Arsenal HD1",
+    "pageUrl" : "https://www.livedoomovie.com/01_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "England - League Cup ⚽️",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/383/660/png-clipart-english-football-league-efl-championship-2011-12-football-league-cup-efl-league-one-2012-football-league-cup-final-england-text-logo.png"
+    },
+{
+     "user" : "West Bromwich Albion vs Arsenal HD2",
+    "pageUrl" : "http://93.157.62.180/ArenaSport4/index.m3u8",
+    "type" : "England - League Cup ⚽️",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/383/660/png-clipart-english-football-league-efl-championship-2011-12-football-league-cup-efl-league-one-2012-football-league-cup-final-england-text-logo.png"
+    },
+
+{
+     "user" : "West Bromwich Albion vs Arsenal HD3",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
+    "type" : "England - League Cup ⚽️",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/383/660/png-clipart-english-football-league-efl-championship-2011-12-football-league-cup-efl-league-one-2012-football-league-cup-final-england-text-logo.png"
+    },
+
      {
      "user" : "Brøndby vs Salzburg",
     "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
