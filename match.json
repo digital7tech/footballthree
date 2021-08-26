@@ -3,58 +3,10 @@
     
     
      
-     {
-     "user" : "Roma vs Trabzonspor",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
-    "type" : "Europe - UEFA Europa Conference League ⚽️",
-    "webFormatUrl" :"https://thumbs.dreamstime.com/b/uefa-europa-conference-league-logo-vector-illustrated-official-210043040.jpg"
-    },
-     {
-     "user" : "	Rosenborg vs Rennes",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/110.m3u8",
-    "type" : "Europe - UEFA Europa Conference League ⚽️",
-    "webFormatUrl" :"https://thumbs.dreamstime.com/b/uefa-europa-conference-league-logo-vector-illustrated-official-210043040.jpg"
-    },
-     {
-     "user" : "Elfsborg vs Feyenoord",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "type" : "Europe - UEFA Europa League ⚽️",
-    "webFormatUrl" :"https://thumbs.dreamstime.com/b/uefa-europa-conference-league-logo-vector-illustrated-official-210043040.jpg"
-    },
-     {
-     "user" : "Vitesse vs Anderlecht",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/111.m3u8",
-    "type" : "Europe - UEFA Europa League ⚽️",
-    "webFormatUrl" :"https://thumbs.dreamstime.com/b/uefa-europa-conference-league-logo-vector-illustrated-official-210043040.jpg"
-    },
-     {
-     "user" : "	CFR Cluj vs Crvena Zvezda",
-    "pageUrl" : "http://93.157.62.180/ArenaSport1/index.m3u8",
-    "type" : "Europe - UEFA Europa League ⚽️",
-    "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-    },
-     {
-     "user" : "Slovan Bratislava vs Olympiakos Piraeus	",
-    "pageUrl" : "http://93.157.62.180/ArenaSport4/index.m3u8",
-    "type" : "Europe - UEFA Europa League ⚽️",
-    "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-    },
-     {
-     "user" : "	Tottenham Hotspur vs Paços de Ferreira",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "Europe - UEFA Europa League ⚽️",
-    "webFormatUrl" :"https://thumbs.dreamstime.com/b/uefa-europa-conference-league-logo-vector-illustrated-official-210043040.jpg"
-    },
-     {
-     "user" : "Partizan vs Santa Clara",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "type" : "Europe - UEFA Europa League ⚽️",
-    "webFormatUrl" :"https://thumbs.dreamstime.com/b/uefa-europa-conference-league-logo-vector-illustrated-official-210043040.jpg"
-    },
-   
+     
  {
      "user" : "LIVE SPORTS",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
+    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
     "type" : "LIVE SPORTS ⚽️",
     "webFormatUrl" :"https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
     }
