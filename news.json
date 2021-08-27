@@ -1,25 +1,12 @@
-
 [
         
 
 
-{
-            "name": "WESTHAM VS LEICESTER CITY",
-            "description":"",
-            "Rating": "20:00",
-            "episode": 1,
-            "categorie":"England - Premier League",
-            "studio":"England - Premier League",
-            "img": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-        },
-        
-
-
 
 
 
 {
-            "name": "GETAFE VS SEVILLA",
+            "name": "Mallorca vs Espanyol",
             "description":"",
             "Rating": "19;00",
             "episode": 1,
@@ -29,7 +16,7 @@
         },
        
         {
-            "name": "OSASUNA VS CELTA VIGO",
+            "name": "Valencia vs Deportivo Alavés",
             "description":"",
             "Rating": "21:00",
             "episode": 1,
@@ -39,7 +26,7 @@
         },
         
         {
-            "name": "CAGLIARI VS SPEZIA",
+            "name": "Udinese vs Venezia",
             "description":"",
             "Rating": "17:30",
             "episode": 1,
@@ -48,14 +35,23 @@
             "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
         },
           {
-            "name": "SAMPDORIA VS AC MILAN",
+            "name": "Verona vs Inter",
             "description":"",
-            "Rating": "19:00",
+            "Rating": "19:45",
             "episode": 1,
             "categorie":"Italy - Serie A",
             "studio":"Italy - Serie A",
             "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+        },
+
+       {
+            "name": "Borussia Dortmund vs Hoffenheim",
+            "description":"",
+            "Rating": "19:45",
+            "episode": 1,
+            "categorie":"German- Bundesliga",
+            "studio":"German Bundesliga",
+            "img": "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
         }
-       
 
     ]
