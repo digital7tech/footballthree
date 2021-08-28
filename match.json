@@ -30,8 +30,17 @@
     "type" : "Germany - Bundesliga ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
     },
+
+
+
      {
-     "user" : "Arminia Bielefeld vs Eintracht Frankfurt",
+     "user" : "Arminia Bielefeld vs Eintracht Frankfurt ZD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
+    "type" : "Germany - Bundesliga ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+    },
+     {
+     "user" : "Arminia Bielefeld vs Eintracht Frankfurt HD",
     "pageUrl" : "http://92.43.140.200/s82/04.m3u8",
     "type" : "Germany - Bundesliga ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
