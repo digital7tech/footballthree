@@ -4,36 +4,7 @@
     
    
 
-     {
-     "user" : "Manchester City vs Arsenal SD 1",
-    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-     {
-     "user" : "Manchester City vs Arsenal SD 2",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-      {
-     "user" : "Manchester City vs Arsenal HD1",
-    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-      {
-     "user" : "Manchester City vs Arsenal HD2",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-{
-     "user" : "Manchester City vs Arsenal HD3",
-    "pageUrl" : "http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
+   
 
      {
      "user" : "Köln vs Bochum",
@@ -67,61 +38,61 @@
     },
      {
      "user" : "	Aston Villa vs Brentford SD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
       {
      "user" : "	Aston Villa vs Brentford HD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
       {
      "user" : "Norwich City vs Leicester City SD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD3_480p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
       {
      "user" : "Norwich City vs Leicester City HD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
       {
      "user" : "	Newcastle United vs Southampton SD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
       {
      "user" : "	Newcastle United vs Southampton HD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
       {
      "user" : "Brighton & Hove Albion vs Everton SD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
       {
      "user" : "Brighton & Hove Albion vs Everton HD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
       {
      "user" : "West Ham United vs Crystal Palace SD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
       {
      "user" : "West Ham United vs Crystal Palace HD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
