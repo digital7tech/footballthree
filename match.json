@@ -1,45 +1,7 @@
 {
 "hits" :[
      
-    {
-     "user" : "	Juventus vs Empoli SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-      {
-     "user" : "	Juventus vs Empoli HD1",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-{
-     "user" : "	Juventus vs Empoli HD2",
-    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-    {
-     "user" : "	Fiorentina vs Torino SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/105.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-      {
-     "user" : "	Fiorentina vs Torino HD 1",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-
-      {
-     "user" : "	Fiorentina vs Torino HD 2",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
+    
      {
      "user" : "Olympique Marseille vs Saint-Étienne",
     "pageUrl" : "https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8",
