@@ -6,105 +6,8 @@
 
    
 
-     {
-     "user" : "Köln vs Bochum",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/111.m3u8",
-    "type" : "Germany - Bundesliga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },
-     {
-     "user" : "Augsburg vs Bayer Leverkusen",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/110.m3u8",
-    "type" : "Germany - Bundesliga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },
-     {
-     "user" : "	Mainz 05 vs Greuther Fürth",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/112.m3u8",
-    "type" : "Germany - Bundesliga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },
-     {
-     "user" : "	Stuttgart vs Freiburg",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/113.m3u8",
-    "type" : "Germany - Bundesliga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },
-
-
-
-     {
-     "user" : "Arminia Bielefeld vs Eintracht Frankfurt ZD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
-    "type" : "Germany - Bundesliga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },
-     {
-     "user" : "Arminia Bielefeld vs Eintracht Frankfurt HD",
-    "pageUrl" : "http://92.43.140.200/s82/04.m3u8",
-    "type" : "Germany - Bundesliga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },
-     {
-     "user" : "	Aston Villa vs Brentford SD",
-    "pageUrl" : "https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-      {
-     "user" : "	Aston Villa vs Brentford HD",
-    "pageUrl" : "https://sport.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-      {
-     "user" : "Norwich City vs Leicester City SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-      {
-     "user" : "Norwich City vs Leicester City HD",
-    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-      {
-     "user" : "	Newcastle United vs Southampton SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/105.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-      {
-     "user" : "	Newcastle United vs Southampton HD",
-    "pageUrl" : "https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-      {
-     "user" : "Brighton & Hove Albion vs Everton SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-      {
-     "user" : "Brighton & Hove Albion vs Everton HD",
-    "pageUrl" : "https://sport.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-      {
-     "user" : "West Ham United vs Crystal Palace SD",
-    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-      {
-     "user" : "West Ham United vs Crystal Palace HD",
-    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
+     
+    
      {
      "user" : "Vizela vs Boavista",
     "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
@@ -133,49 +36,72 @@
     
      {
      "user" : "	Liverpool vs Chelsea SD 1",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
      {
      "user" : "	Liverpool vs Chelsea SD 2",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
       {
      "user" : "	Liverpool vs Chelsea HD1",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
       {
      "user" : "	Liverpool vs Chelsea HD2",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
+{
+     "user" : "	Liverpool vs Chelsea HD3",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "England - Premier League ⚽️",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+
        {
      "user" : "	Lazio vs Spezia SD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
+       {
+     "user" : "	Lazio vs Spezia HD 1",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8",
+    "type" : "England - Premier League ⚽️",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },
+
+
       {
-     "user" : "	Lazio vs Spezia HD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+     "user" : "	Lazio vs Spezia HD 2",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
+
      {
      "user" : "	Atalanta vs Bologna SD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
+    "type" : "England - Premier League ⚽️",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },
+
+     {
+     "user" : "	Atalanta vs Bologna HD 1",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
       {
-     "user" : "	Atalanta vs Bologna HD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+     "user" : "	Atalanta vs Bologna HD 2",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
