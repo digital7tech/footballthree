@@ -2,25 +2,7 @@
 "hits" :[
       
    
-      {
-     "user" : "Barcelona vs Getafe SD",
-    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
        {
-     "user" : "Barcelona vs Getafe HD 1",
-    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
-       {
-     "user" : "Barcelona vs Getafe HD 2",
-    "pageUrl" : "http://ott-cdn.ucom.am/s81/03.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-    },
-        {
      
  
      "user" : "Wolves vs Manchester United SD",
@@ -129,25 +111,33 @@
     },
       {
      "user" : "Cádiz vs Osasuna SD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
        {
      "user" : "Cádiz vs Osasuna HD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
       {
      "user" : "Rayo Vallecano vs Granada SD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD3_480p/chunklist.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
        {
-     "user" : "Rayo Vallecano vs Granada HD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+     "user" : "Rayo Vallecano vs Granada HD 1",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8",
+    "type" : "Spain - La Liga ⚽️",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+    },
+
+
+       {
+     "user" : "Rayo Vallecano vs Granada HD 2",
+    "pageUrl" : "http://92.43.140.204:80/s81/index.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
     },
