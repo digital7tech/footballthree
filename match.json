@@ -4,31 +4,47 @@
      
  
      "user" : "Burnley vs Leeds United SD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD3_480p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
       {
      
  
-     "user" : "Burnley vs Leeds United HD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+     "user" : "Burnley vs Leeds United HD1",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8",
+    "type" : "England - Premier League ⚽️",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+
+
+      {
+     
+ 
+     "user" : "Burnley vs Leeds United HD2",
+    "pageUrl" : "https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
       {
-     
- 
-     "user" : "Tottenham Hotspur vs Watford SD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+      "user" : "Tottenham Hotspur vs Watford SD",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
-      {
+
+
+    {
+      "user" : "Tottenham Hotspur vs Watford HD1",
+    "pageUrl" : "https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
+    "type" : "England - Premier League ⚽️",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+  {
      
  
-     "user" : "Tottenham Hotspur vs Watford HD",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+     "user" : "Tottenham Hotspur vs Watford HD2",
+    "pageUrl" : "https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
