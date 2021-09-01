@@ -1,46 +1,32 @@
 {
 
 "hits" :[
- {
-     "user" : "Kazakhstan vs Ukraine HD1",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
- {
-     "user" : "Kazakhstan vs Ukraine HD2",
-    "pageUrl" : "http://173.199.120.51/hls/ten2.m3u8",
+
+  {
+     "user" : "Russia vs Croatia",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
 
 {
-     "user" : "Kazakhstan vs Ukraine HD3",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+     "user" : "Denmark vs Scotland HD1(ENGLISH)",
+    "pageUrl" : "http://103.153.175.254:8080/hls/stream10.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
- {
-     "user" : "Guinea-Bissau vs Guinea",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
-  {
-     "user" : "Russia vs Croatia",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
-   {
-     "user" : "Denmark vs Scotland HD1",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
+
    {
      "user" : "Denmark vs Scotland HD2",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
+    "type" : "World Cup Qualifying ⚽️ ",
+    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
+    },
+
+
+   {
+     "user" : "Denmark vs Scotland HD3",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy2.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
@@ -52,16 +38,17 @@
     },
   {
      "user" : "Norway vs Netherlands HD2",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
  {
      "user" : "	Portugal vs Ireland Republic HD1",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://173.199.120.51/hls/ten2.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
+
  {
      "user" : "	Portugal vs Ireland Republic HD2",
     "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
@@ -69,14 +56,20 @@
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
  {
+     "user" : "	Portugal vs Ireland Republic HD3",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
+    "type" : "World Cup Qualifying ⚽️ ",
+    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
+    },
+ {
      "user" : "France vs Bosnia and Herzegovina HD1",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
  {
      "user" : "France vs Bosnia and Herzegovina HD2",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://173.199.120.51/hls/ten2.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
