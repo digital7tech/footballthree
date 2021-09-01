@@ -9,7 +9,14 @@
     },
  {
      "user" : "Kazakhstan vs Ukraine HD2",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://173.199.120.51/hls/ten1.m3u8",
+    "type" : "World Cup Qualifying ⚽️ ",
+    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
+    },
+
+{
+     "user" : "Kazakhstan vs Ukraine HD3",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
