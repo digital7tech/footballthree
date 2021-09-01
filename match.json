@@ -32,7 +32,7 @@
     },
   {
      "user" : "Norway vs Netherlands HD1",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
@@ -45,18 +45,25 @@
 
 
  {
-     "user" : "	Portugal vs Ireland Republic HD2",
+     "user" : "	Portugal vs Ireland Republic HD1",
     "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
  {
-     "user" : "	Portugal vs Ireland Republic HD3",
+     "user" : "	Portugal vs Ireland Republic HD2",
     "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
  {
+     "user" : "France vs Bosnia and Herzegovina SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+    "type" : "World Cup Qualifying ⚽️ ",
+    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
+    },
+
+{
      "user" : "France vs Bosnia and Herzegovina HD1",
     "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
@@ -64,7 +71,7 @@
     },
  {
      "user" : "France vs Bosnia and Herzegovina HD2",
-    "pageUrl" : "http://173.199.120.51/hls/ten2.m3u8",
+    "pageUrl" : "http://173.199.120.51/hls/ten1.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
