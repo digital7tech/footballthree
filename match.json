@@ -2,19 +2,7 @@
 
 "hits" :[
 
- {
-     "user" : "Bolivia vs Colombia",
-    "pageUrl" : "http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
-  {
-     "user" : "	Ecuador vs Paraguay",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
-  
+ 
  {
      "user" : "LIVE SPORTS",
     "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
