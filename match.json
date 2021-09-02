@@ -3,19 +3,19 @@
 "hits" :[
  {
      "user" : "Namibia vs Congo",
-    "pageUrl" : "https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
   {
      "user" : "Georgia vs Kosovo  HD1",
-    "pageUrl" : "http://173.199.120.51/hls/ten2.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
   {
-     "user" : "Georgia vs Kosovo HD2",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+     "user" : "Georgia vs Kosovo HD2 (ENGLISH)",
+    "pageUrl" : "https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
