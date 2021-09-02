@@ -4,16 +4,16 @@
 
  
  {
-     "user" : "Venezuela vs Argentina SD",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+     "user" : "Venezuela vs Argentina HD",
+    "pageUrl" : "http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170900.m3u8",
     "type" : "FIFA WORLD CUP QUALIFIERS (CONMEBOL) ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
 
 
  {
-     "user" : "Venezuela vs Argentina HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+     "user" : "Venezuela vs Argentina SD",
+    "pageUrl" : "http://31.220.41.90:8081/live/klub1.stream/playlist.m3u8",
     "type" : "FIFA WORLD CUP QUALIFIERS (CONMEBOL) ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -21,7 +21,7 @@
 
  {
      "user" : "Canada vs Honduras HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://31.220.41.90:8081/live/klub2.stream/playlist.m3u8",
     "type" : "FIFA WORLD CUP QUALIFIERS (CONCACAF) ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -29,7 +29,7 @@
 
  {
      "user" : "Canada vs Honduras HD 2",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://31.220.41.90:8081/live/klub2.stream/playlist.m3u8",
     "type" : "FIFA WORLD CUP QUALIFIERS (CONCACAF) ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -44,14 +44,14 @@
 
  {
      "user" : "Chile vs Brazil HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy2.m3u8",
     "type" : "FIFA WORLD CUP QUALIFIERS (CONMEBOL) ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
 
 {
      "user" : "Peru vs Uruguay SD",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "FIFA WORLD CUP QUALIFIERS (CONMEBOL) ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -59,7 +59,7 @@
 
  {
      "user" : "Peru vs Uruguay HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
     "type" : "FIFA WORLD CUP QUALIFIERS (CONMEBOL) ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -67,7 +67,7 @@
 
  {
      "user" : "Mexico vs Jamaica HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://31.220.41.90:8081/live/klub1.stream/playlist.m3u8",
     "type" : "FIFA WORLD CUP QUALIFIERS (CONCACAF) ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -76,7 +76,7 @@
 
  {
      "user" : "El Salvador vs USA HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://31.220.41.90:8081/live/klub2.stream/playlist.m3u8",
     "type" : "FIFA WORLD CUP QUALIFIERS (CONCACAF) ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
