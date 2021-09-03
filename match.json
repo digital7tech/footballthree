@@ -4,7 +4,38 @@
 
  
  
+ {
+     "user" : "Nigeria vs Liberia SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+    "type" : "World Cup Qualifiers (CAF)⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
+    },
 
+
+ {
+     "user" : "Nigeria vs Liberia HD",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
+    "type" : "World Cup Qualifiers (CAF)⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
+    },
+
+
+
+ {
+     "user" : "Cameroon vs Malawi SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
+    "type" : "World Cup Qualifiers (CAF)⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
+    },
+
+
+
+ {
+     "user" : "Cameroon vs Malawi HD",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "World Cup Qualifiers (CAF)⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
+    },
  {
      "user" : "LIVE SPORTS",
     "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
