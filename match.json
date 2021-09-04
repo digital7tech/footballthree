@@ -23,6 +23,12 @@
     },
 
 
+ {
+     "user" : "Serbia vs Luxembourg SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "World Cup Qualifiers (UEFA)⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
+    },
 
 
  {
@@ -32,6 +38,14 @@
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
 
+
+
+ {
+     "user" : "Latvia vs Norway SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
+    "type" : "World Cup Qualifiers (UEFA)⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
+    },
  {
      "user" : "Latvia vs Norway HD",
     "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8",
