@@ -4,25 +4,11 @@
 
  
  
- {
-     "user" : "Finland vs Kazakhstan SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "World Cup Qualifiers (UEFA)⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
-    },
-
-
- {
-     "user" : "Finland vs Kazakhstan HD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "World Cup Qualifiers (UEFA)⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
-    },
 
 
  {
      "user" : "Cyprus vs Russia SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "World Cup Qualifiers (UEFA)⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -31,16 +17,31 @@
 
  {
      "user" : "Cyprus vs Russia HD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "World Cup Qualifiers (UEFA)⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
 
 
 
+
+ {
+     "user" : "Serbia vs Luxembourg HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8",
+    "type" : "World Cup Qualifiers (UEFA)⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
+    },
+
  {
      "user" : "Latvia vs Norway HD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8",
+    "type" : "World Cup Qualifiers (UEFA)⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
+    },
+
+ {
+     "user" : "Slovenia vs Malta HD",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
     "type" : "World Cup Qualifiers (UEFA)⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -48,15 +49,7 @@
 
  {
      "user" : "Ireland Republic vs Azerbaijan HD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "World Cup Qualifiers (UEFA)⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
-    },
-
-
- {
-     "user" : "Finland vs Kazakhstan SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8",
     "type" : "World Cup Qualifiers (UEFA)⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
