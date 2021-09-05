@@ -17,7 +17,7 @@
 
 
      "user" : "	Belarus vs Wales HD1",
-    "pageUrl" : "http://tvflix03.ddns.net/Ten2HD/tracks-v1a1/mono.m3u8",
+    "pageUrl" : "http://jupiter.bdcabletv.com/ENC-7/video.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
@@ -29,6 +29,16 @@
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
+ {
+
+
+     "user" : "	Belarus vs Wales SD",
+    "pageUrl" : "http://173.199.120.51/hls/ten2.m3u8",
+    "type" : "World Cup Qualifying ⚽️ ",
+    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
+    },
+
+
 
   {
 
