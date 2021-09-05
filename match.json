@@ -108,19 +108,7 @@
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
- {
-    "user" : "Brazil vs Argentina SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
-
- {
-    "user" : "Brazil vs Argentina HD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
+ 
   {
     "user" : "Ecuador vs Chile SD 1",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
