@@ -5,38 +5,24 @@
  
  
 
- {
-
-
-     "user" : "	Rwanda vs Kenya",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
- {
-
-
-     "user" : "	Belarus vs Wales SD",
-    "pageUrl" : "http://173.199.120.51/hls/ten2.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
- {
-
-
-     "user" : "	Belarus vs Wales HD2",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
 
 
 
   {
 
 
-     "user" : "Albania vs Hungary",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+     "user" : "Albania vs Hungary HD1",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8",
+    "type" : "World Cup Qualifying ⚽️ ",
+    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
+    },
+
+
+{
+
+
+     "user" : "Albania vs Hungary HD2",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
@@ -44,7 +30,7 @@
 
 
      "user" : "England vs Andorra SD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+    "pageUrl" : "http://173.199.120.51/hls/ten2.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
@@ -52,23 +38,32 @@
 
 
      "user" : "England vs Andorra HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
    {
 
 
-     "user" : "Bulgaria vs Lithuania HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+     "user" : "Bulgaria vs Lithuania HD 1",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8",
+    "type" : "World Cup Qualifying ⚽️ ",
+    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
+    },
+
+  {
+
+
+     "user" : "Bulgaria vs Lithuania HD 2",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy2.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
   {
 
 
-     "user" : "Kosovo vs Greece HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+     "user" : "	Iceland vs North Macedonia HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
     },
