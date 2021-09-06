@@ -6,45 +6,7 @@
  
  
  
-  {
-    "user" : "Ecuador vs Chile SD 1",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
-   {
-    "user" : "Ecuador vs Chile HD1",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
-
- {
-    "user" : "	Uruguay vs Bolivia HD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
-
-{
-    "user" : "Paraguay vs Colombia SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
-  {
-    "user" : "Paraguay vs Colombia HD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
-{
-    "user" : "Paraguay vs Colombia HD2",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "World Cup Qualifying ⚽️ ",
-    "webFormatUrl" :"https://logowik.com/content/uploads/images/fifa-world-cup-qatar-20229564.jpg"
-    },
-
+ 
 
 
 
