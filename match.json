@@ -7,10 +7,12 @@
 
 
      "user" : "Kosovo vs Spain SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
+
+
 
   {
 
@@ -23,8 +25,8 @@
    {
 
 
-     "user" : "Kosovo vs Spain HD2",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy2.m3u8",
+     "user" : "Kosovo vs Spain HD2(ENGLISH)",
+    "pageUrl" : "http://jupiter.bdcabletv.com/ENC-7/video.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -52,7 +54,7 @@
 
 
      "user" : "Poland vs England HD (ENGLISH)",
-    "pageUrl" : "http://jupiter.bdcabletv.com/ENC-19/video.m3u8",
+    "pageUrl" : "http://jupiter.bdcabletv.com/ENC-7/video.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -72,15 +74,25 @@
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
+
+
   {
 
 
-     "user" : "	Belarus vs Belgium HD1",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8",
+     "user" : "	Belarus vs Belgium SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
 
+{
+
+
+     "user" : "	Belarus vs Belgium HD1",
+    "pageUrl" : "http://5.yaciaptk.xyz/live/6151278887/index.m3u8",
+    "type" : "World Cup Qualifying ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
+    },
 {
 
 
@@ -118,6 +130,17 @@
 
 
      "user" : "	Italy vs Lithuania SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "World Cup Qualifying ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
+    },
+
+
+
+  {
+
+
+     "user" : "	Italy vs Lithuania HD",
     "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
