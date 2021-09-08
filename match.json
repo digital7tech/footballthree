@@ -6,7 +6,7 @@
 
 
      "user" : "	Armenia vs Liechtenstein SD",
-    "pageUrl" : "http://jupiter.bdcabletv.com/ENC-7/video.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -14,7 +14,7 @@
 
 
      "user" : "	Armenia vs Liechtenstein HD",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://jupiter.bdcabletv.com/ENC-7/video.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -23,7 +23,7 @@
 
 
      "user" : "Kosovo vs Spain SD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
