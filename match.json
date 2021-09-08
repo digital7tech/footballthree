@@ -6,6 +6,15 @@
 
 
      "user" : "	Armenia vs Liechtenstein SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
+    "type" : "World Cup Qualifying ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
+    },
+
+{
+
+
+     "user" : "	Armenia vs Liechtenstein HD1",
     "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
@@ -13,7 +22,7 @@
 {
 
 
-     "user" : "	Armenia vs Liechtenstein HD",
+     "user" : "	Armenia vs Liechtenstein HD2",
     "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
