@@ -8,7 +8,7 @@
 
 
      "user" : "Paraguay vs Venezuela SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -28,7 +28,7 @@
 
 
      "user" : "Uruguay vs Ecuador SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -49,7 +49,7 @@
 
 
      "user" : "Columbia vs Chile SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -69,7 +69,7 @@
 
 
      "user" : "Argentina vs Bolivia SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
@@ -89,7 +89,7 @@
 
 
      "user" : "Brazil vs Peru SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
     "type" : "World Cup Qualifying ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"
     },
