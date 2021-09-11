@@ -107,16 +107,16 @@
  {
 
 
-     "user" : "Atalanta vs Fiorentina SD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+     "user" : "Atalanta vs Fiorentina HD1",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
  {
 
 
-     "user" : "Atalanta vs Fiorentina HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+     "user" : "Atalanta vs Fiorentina HD2",
+    "pageUrl" : "http://stbm.tk:8080/TringSport1HD/video.m3u8?token=test",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
@@ -124,7 +124,7 @@
 
 
      "user" : "Athletic Club vs Mallorca SD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD4_480p/chunklist.m3u8",
     "type" : "Spain - La Liga ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
     },
@@ -132,7 +132,7 @@
 
 
      "user" : "Athletic Club vs Mallorca  HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+    "pageUrl" : "http://92.43.140.200/s81/04.m3u8",
     "type" : "Spain - La Liga ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
     },
@@ -140,7 +140,7 @@
 
 
      "user" : "Monaco vs Olympique Marseille HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+    "pageUrl" : "http://92.43.140.200/s82/04.m3u8",
     "type" : "France - Ligue 1 ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
     },
@@ -148,7 +148,7 @@
 
 
      "user" : "Sporting CP vs Porto HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "Portugal - Primeira Liga ⚽️ ",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Portuguese-Primeira-Liga-logo.jpg"
     },
