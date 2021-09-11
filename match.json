@@ -5,24 +5,7 @@
    
  
 
- {
-
-
-     "user" : "	Empoli vs Venezia HD",
-    "pageUrl" : "http://95.107.132.106/out/u/683_3.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-
-
-{
-
-
-     "user" : "	Empoli vs Venezia SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
+ 
 
   {
 
@@ -205,15 +188,24 @@
 
 
      "user" : "Napoli vs Juventus SD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+    "pageUrl" : "http://95.107.132.106/out/u/683_3.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
  {
 
 
-     "user" : "Napoli vs Juventus HD",
-    "pageUrl" : "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+     "user" : "Napoli vs Juventus HD1",
+    "pageUrl" : "http://95.107.132.106/out/u/683_3.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+
+{
+
+
+     "user" : "Napoli vs Juventus HD2",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
