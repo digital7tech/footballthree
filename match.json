@@ -4,11 +4,243 @@
   {
 
 
-     "user" : "Sporting CP vs Porto HD",
+     "user" : "Sampdoria vs Internazionale HD1",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+   {
+
+
+     "user" : "Sampdoria vs Internazionale HD2",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+   {
+
+
+     "user" : "Sampdoria vs Internazionale SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+    {
+
+
+     "user" : "Espanyol vs Atlético Madrid SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
+    },
+   {
+
+
+     "user" : "Espanyol vs Atlético Madrid HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
+    },
+  {
+
+
+     "user" : "Cagliari vs Genoa HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+   {
+
+
+     "user" : "Cagliari vs Genoa SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+  {
+
+
+     "user" : "	Spezia vs Udinese HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+   {
+
+
+     "user" : "	Spezia vs Udinese SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+  {
+
+
+     "user" : "	Torino vs Salernitana HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+   {
+
+
+     "user" : "	Torino vs Salernitana SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+  {
+
+
+     "user" : "	Eintracht Frankfurt vs Stuttgart HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Germany - Bundesliga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+    },
+   {
+
+
+     "user" : "	Osasuna vs Valencia SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
+    },
+   {
+
+
+     "user" : "	Osasuna vs Valencia HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
+    },
+     {
+
+
+     "user" : "	Leeds United vs Liverpool HD1",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "England - Premier League ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+   {
+
+
+     "user" : "	Leeds United vs Liverpool HD2",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "England - Premier League ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    }, {
+
+
+     "user" : "	Leeds United vs Liverpool SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "England - Premier League ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+    {
+
+
+     "user" : "Bochum vs Hertha BSC HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Germany - Bundesliga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+    },
+   {
+
+
+     "user" : "	Milan vs Lazio HD1",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+   {
+
+
+     "user" : "	Milan vs Lazio HD2",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+   {
+
+
+     "user" : "	Milan vs Lazio SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+   {
+
+
+     "user" : "	Cádiz vs Real Sociedad SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
+    },
+   {
+
+
+     "user" : "	Cádiz vs Real Sociedad HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
+    },
+   {
+
+
+     "user" : "Borussia M'gladbach vs Arminia Bielefeld HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Germany - Bundesliga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+    },
+  {
+
+
+     "user" : "	Roma vs Sassuolo HD1",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+   {
+
+
+     "user" : "	Roma vs Sassuolo HD2",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+   {
+
+
+     "user" : "	Roma vs Sassuolo SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+   {
+
+
+     "user" : "	Real Madrid vs Celta de Vigo SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
+    },
+   {
+
+
+     "user" : "	Real Madrid vs Celta de Vigo HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
+    },
+   {
+
+
+     "user" : "	Vitória Guimarães vs Belenenses HD",
     "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "Portugal - Primeira Liga ⚽️ ",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Portuguese-Primeira-Liga-logo.jpg"
     },
+
  {
 
 
