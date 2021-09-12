@@ -1,39 +1,7 @@
 {
 
 "hits" : [
-  {
-
-
-     "user" : "Sampdoria vs Internazionale HD1",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-   {
-
-
-     "user" : "Sampdoria vs Internazionale HD2",
-    "pageUrl" : "http://92.43.140.200/s82/04.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-
-{
-
-
-     "user" : "Sampdoria vs Internazionale HD3",
-    "pageUrl" : "http://95.107.132.106/out/u/683_3.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-   {
-
-
-     "user" : "Sampdoria vs Internazionale SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/118.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
+ 
     {
 
 
@@ -64,7 +32,7 @@
 
 
      "user" : "Cagliari vs Genoa HD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
@@ -72,7 +40,7 @@
 
 
      "user" : "Cagliari vs Genoa SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://stbm.tk:8080/TringSport3HD/video.m3u8?token=test",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
@@ -80,7 +48,7 @@
 
 
      "user" : "	Spezia vs Udinese HD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
@@ -88,7 +56,7 @@
 
 
      "user" : "	Spezia vs Udinese SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
