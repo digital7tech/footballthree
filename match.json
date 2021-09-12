@@ -64,7 +64,7 @@
 
 
      "user" : "	Milan vs Lazio HD1",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://92.43.140.204:80/s81/index.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
@@ -72,7 +72,7 @@
 
 
      "user" : "	Milan vs Lazio HD2",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
@@ -80,7 +80,7 @@
 
 
      "user" : "	Milan vs Lazio SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
