@@ -37,16 +37,26 @@
     {
 
 
-     "user" : "Espanyol vs Atlético Madrid SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+     "user" : "Espanyol vs Atlético Madrid HD1",
+    "pageUrl" : "http://92.43.140.204:80/s81/index.m3u8",
     "type" : "Spain - La Liga ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
     },
    {
 
 
-     "user" : "Espanyol vs Atlético Madrid HD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+     "user" : "Espanyol vs Atlético Madrid HD2",
+    "pageUrl" : "http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
+    },
+
+
+{
+
+
+     "user" : "Espanyol vs Atlético Madrid SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
     "type" : "Spain - La Liga ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
     },
