@@ -31,11 +31,22 @@
   {
 
 
-     "user" : "Cagliari vs Genoa HD",
+     "user" : "Cagliari vs Genoa HD 1",
     "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
+
+{
+
+
+     "user" : "Cagliari vs Genoa HD 2",
+    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD4_480p/chunklist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+
+
    {
 
 
@@ -56,7 +67,7 @@
 
 
      "user" : "	Spezia vs Udinese SD",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
