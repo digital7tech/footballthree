@@ -2,76 +2,7 @@
 
 "hits" : [
  
-    {
-
-
-     "user" : "Espanyol vs Atlético Madrid HD1",
-    "pageUrl" : "http://92.43.140.204:80/s81/index.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
-    },
-   {
-
-
-     "user" : "Espanyol vs Atlético Madrid HD2",
-    "pageUrl" : "http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
-    },
-
-
-{
-
-
-     "user" : "Espanyol vs Atlético Madrid SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
-    },
-
-{
-
-
-     "user" : "Cagliari vs Genoa HD 2",
-    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD4_480p/chunklist.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-
-
-   {
-
-
-     "user" : "Cagliari vs Genoa SD",
-    "pageUrl" : "http://stbm.tk:8080/TringSport3HD/video.m3u8?token=test",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-  
-   {
-
-
-     "user" : "	Spezia vs Udinese SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-  {
-
-
-     "user" : "	Torino vs Salernitana HD",
-    "pageUrl" : "http://stbm.tk:8080/TringSport2HD/video.m3u8?token=test",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-   {
-
-
-     "user" : "	Torino vs Salernitana SD",
-    "pageUrl" : "http://stbm.tk:8080/TringSport2HD/video.m3u8?token=test",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
+   
   {
 
 
@@ -102,7 +33,7 @@
 
 
      "user" : "	Leeds United vs Liverpool HD1",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
@@ -110,7 +41,7 @@
 
 
      "user" : "	Leeds United vs Liverpool HD2",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     }, {
