@@ -3,71 +3,7 @@
 "hits" : [
  
    
-   {
-
-
-     "user" : "Getafe vs Elche SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
-    },
- 
-   {
-
-
-     "user" : "Getafe vs Elche HD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LaLiga_Santander_%282%29.svg/1200px-LaLiga_Santander_%282%29.svg.png"
-    },
-  {
-
-
-     "user" : "Bologna vs Hellas Verona SD",
-    "pageUrl" : "http://stbm.tk:8080/TringSport1HD/video.m3u8?token=test",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-   {
-
-
-     "user" : "Bologna vs Hellas Verona HD1",
-    "pageUrl" : "http://stbm.tk:8080/TringSport1HD/video.m3u8?token=test",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-   {
-
-
-     "user" : "Bologna vs Hellas Verona HD2",
-    "pageUrl" : "http://stbm.tk:8080/TringSport1HD/video.m3u8?token=test",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-  {
-
-
-     "user" : "	Everton vs Burnley SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-  {
-
-
-     "user" : "	Everton vs Burnley HD1",
-    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-  {
-
-
-     "user" : "	Everton vs Burnley HD2",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
+   
      
  
  
