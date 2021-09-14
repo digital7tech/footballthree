@@ -11,10 +11,130 @@
   {
 
 
-     "user" : "Tondela vs Estoril HD",
+     "user" : "	Sevilla vs Salzburg SD",
     "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "Portugal - Primeira Liga ⚽️ ",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/Portuguese-Primeira-Liga-logo.jpg"
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "	Sevilla vs Salzburg HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "	Young Boys vs Manchester United SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "	Young Boys vs Manchester United HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "	Chelsea vs Zenit SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "	Chelsea vs Zenit HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "Malmö FF vs Juventus SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "Malmö FF vs Juventus HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "	Barcelona vs Bayern München SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "	Barcelona vs Bayern München HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "	Villarreal vs Atalanta SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "	Villarreal vs Atalanta HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "	Dynamo Kyiv vs Benfica SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "	Dynamo Kyiv vs Benfica HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "	Lille vs Wolfsburg SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+  {
+
+
+     "user" : "	Lille vs Wolfsburg HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
     },
  {
 
