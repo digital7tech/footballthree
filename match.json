@@ -13,32 +13,7 @@
     
      
     
-  {
-     "user" : "Aston Villa vs Everton",
-    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD1_480p/chunklist.m3u8",
-    "type" : "England - Premier League  ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },   
-        {
-     "user" : "Elche vs Levante",
-    "pageUrl" : "http://92.43.140.200/s81/04.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },  
-         {
-     "user" : "Köln vs RB Leipzig",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
-    "type" : "Germany - Bundesliga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },   
-      
-      {
-     "user" : "Salernitana vs Atalanta",
-    "pageUrl" : "http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2294.m3u8",
-    "type" : "Italy - Serie A  ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },   
-        
+  
      
        {
      "user" : "Deportivo Alavés vs Osasuna",
