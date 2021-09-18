@@ -1,6 +1,141 @@
 {  
 
 "hits" : [
+      {
+     "user" : "Wolverhampton Wanderers vs Brentford",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - Premier League  ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },   
+      
+      {
+     "user" : "Rayo Vallecano vs Getafe",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Spain - La Liga ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },  
+      
+        {
+     "user" : "Genoa vs Fiorentina",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Italy - Serie A  ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },   
+         
+      
+      {
+     "user" : "Bayern München vs Bochum ",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Germany - Bundesliga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+    },   
+      
+      {
+     "user" : "Arminia Bielefeld vs Hoffenheim  HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Germany - Bundesliga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+    },  
+      {
+     "user" : "Augsburg vs Borussia M'gladbach",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Germany - Bundesliga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+    },  
+      {
+     "user" : "Mainz 05 vs Freiburg",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Germany - Bundesliga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+    },  
+
+        {
+     "user" : "Burnley vs Arsenal",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - Premier League  ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },   
+      
+        {
+     "user" : "Norwich City vs Watford",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - Premier League  ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },   
+      
+          
+       {
+     "user" : "Liverpool vs Crystal Palace ",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - Premier League ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },  
+       
+       {
+     "user" : "Manchester City vs Southampton",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - Premier League ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },  
+   
+     
+   {
+     "user" : "Atlético Madrid vs Athletic Club",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Spain - La Liga ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },  
+      
+     
+        
+       {
+     "user" : "Internazionale vs Bologna",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Italy - Serie A  ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },   
+     
+    
+  {
+     "user" : "Aston Villa vs Everton",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - Premier League  ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },   
+        {
+     "user" : "Elche vs Levante",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Spain - La Liga ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },  
+         {
+     "user" : "Köln vs RB Leipzig",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Germany - Bundesliga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+    },   
+      
+      {
+     "user" : "Salernitana vs Atalanta",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Italy - Serie A  ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },   
+        
+     
+       {
+     "user" : "Deportivo Alavés vs Osasuna",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Spain - La Liga ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },  
+      
+{
+     "user" : "LIVE SPORTS",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LIVE SPORTS ⚽️ ",
+    "webFormatUrl" :"https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
+    }
 
 ]
 
