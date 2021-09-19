@@ -4,21 +4,21 @@
       
       
          
-      
+      {
+     "user" : "Empoli vs Sampdoria SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/110.m3u8",
+    "type" : "Italy - Serie A  ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    }, 
       {
      "user" : "Empoli vs Sampdoria HD1",
     "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
     "type" : "Italy - Serie A  ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },   
+        
         {
      "user" : "Empoli vs Sampdoria HD2",
-    "pageUrl" : "http://93.152.174.144:4000/play/btsport2/index.m3u8",
-    "type" : "Italy - Serie A  ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    }, 
-        {
-     "user" : "Empoli vs Sampdoria HD3",
     "pageUrl" : "http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2294.m3u8",
     "type" : "Italy - Serie A  ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
