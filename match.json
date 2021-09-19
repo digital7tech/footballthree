@@ -8,31 +8,7 @@
          
       
         
-      {
-     "user" : "Venezia vs Spezia HD1",
-    "pageUrl" : "https://95-213-224-182.livesports24.online:443/mfootball2rus.m3u8",
-    "type" : "Italy - Serie A  ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },   
-        {
-     "user" : "Venezia vs Spezia HD2",
-    "pageUrl" : "https://95-213-224-182.livesports24.online:443/mfootball2rus.m3u8",
-    "type" : "Italy - Serie A  ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },  
-{
-     "user" : "Stuttgart vs Bayer Leverkusen HD",
-    "pageUrl" : "https://cdn.nowhdtime.com.bd/SonyTen3/index.m3u8",
-    "type" : "Germany - Bundesliga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },  
        
-   {
-     "user" : "Stuttgart vs Bayer Leverkusen HD2",
-    "pageUrl" : "http://ott-cdn.ucom.am/s82/03.m3u8",
-    "type" : "Germany - Bundesliga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },  
      
       {
      "user" : "Real Sociedad vs Sevilla SD",
@@ -74,7 +50,7 @@
     },  
        {
      "user" : "Tottenham Hotspur vs Chelsea HD2",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/it-skysport-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDY6MzMgUE0maGFzaF92YWx1ZT1WaFBmZXplc3JsSmNDcDJwZnltY3NnPT0mdmFsaWRtaW51dGVzPTIw",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDc6MTUgUE0maGFzaF92YWx1ZT1tWWV4dk1rTE0xUzdWVlNSOUh4dFVRPT0mdmFsaWRtaW51dGVzPTIwmFsaWRtaW51dGVzPTIw",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },  
@@ -98,13 +74,13 @@
     },  
       {
      "user" : "Hellas Verona vs Roma HD1",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/03.m3u8",
     "type" : "Italy - Serie A  ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },   
         {
      "user" : "Hellas Verona vs Roma HD2",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy2.m3u8",
     "type" : "Italy - Serie A  ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },  
