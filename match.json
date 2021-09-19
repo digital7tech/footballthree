@@ -37,31 +37,31 @@
     },  
        {
      "user" : "	West Ham United vs Manchester United SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "England - Premier League  ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },   
        {
      "user" : "West Ham United vs Manchester United  HD1",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },  
        {
-     "user" : "West Ham United vs Manchester United  HD2",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+     "user" : "West Ham United vs Manchester United  SD2",
+    "pageUrl" : "https://mgzinminlwin.github.io/360p/pm-bein1.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },  
       {
      "user" : "	Brighton & Hove Albion vs Leicester City SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "https://mgzinminlwin.github.io/360p/pm-bein2.m3u8",
     "type" : "England - Premier League  ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },   
        {
      "user" : "	Brighton & Hove Albion vs Leicester City HD1",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD3_480p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },   
