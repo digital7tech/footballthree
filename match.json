@@ -4,72 +4,7 @@
       
       
       
-       {
-     "user" : "Real Betis vs Espanyol SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },  
-       
-      {
-     "user" : "Real Betis vs Espanyol HD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },  
-         {
-     "user" : "Wolfsburg vs Eintracht Frankfurt HD",
-    "pageUrl" : "https://46-166-142-27.livesports24.online/rumatchf3.m3u8",
-    "type" : "Germany - Bundesliga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    }, 
-       {
-     "user" : "Juventus vs Milan HD1",
-    "pageUrl" : "http://ott-cdn.ucom.am/s82/03.m3u8",
-    "type" : "Italy - Serie A  ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },   
-        {
-     "user" : "Juventus vs Milan HD2",
-    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
-    "type" : "Italy - Serie A  ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },  
-      
-       {
-     "user" : "	PSG vs Olympique Lyonnais SD",
-    "pageUrl" : "https://mgzinminlwin.github.io/360p/pm-bein1.m3u8",
-    "type" : "France - Ligue 1 ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/French-Ligue-1-logo.png"
-    }, 
-
-{
-     "user" : "	PSG vs Olympique Lyonnais HD1",
-    "pageUrl" : "https://mgzinminlwin.github.io/360p/bein2.m3u8",
-    "type" : "France - Ligue 1 ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/French-Ligue-1-logo.png"
-    }, 
-
-{
-     "user" : "	PSG vs Olympique Lyonnais HD2",
-    "pageUrl" : "http://ott-cdn.ucom.am/s81/03.m3u8",
-    "type" : "France - Ligue 1 ⚽️",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/French-Ligue-1-logo.png"
-    }, 
-      
-        {
-     "user" : "Valencia vs Real Madrid SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },  
-       
-      {
-     "user" : "Valencia vs Real Madrid HD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    }, 
+        
       {   
       
  "user" : "LIVE SPORTS",
