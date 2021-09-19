@@ -6,37 +6,8 @@
          
       
          
-       {
-     "user" : "	West Ham United vs Manchester United SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDc6MzYgUE0maGFzaF92YWx1ZT13c0wyZ213S2tIMGlUWFUwK0VHQ3lBPT0mdmFsaWRtaW51dGVzPTIw",
-    "type" : "England - Premier League  ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },   
-       {
-     "user" : "West Ham United vs Manchester United  HD1",
-    "pageUrl" : "http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },  
-       {
-     "user" : "West Ham United vs Manchester United  SD2",
-    "pageUrl" : "https://mgzinminlwin.github.io/360p/pm-bein1.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },  
-      {
-     "user" : "	Brighton & Hove Albion vs Leicester City SD",
-    "pageUrl" : "https://mgzinminlwin.github.io/360p/pm-bein2.m3u8",
-    "type" : "England - Premier League  ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },   
-       {
-     "user" : "	Brighton & Hove Albion vs Leicester City HD1",
-    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD3_480p/chunklist.m3u8",
-    "type" : "England - Premier League ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },   
-         
+      
+        
       {
      "user" : "Venezia vs Spezia HD1",
     "pageUrl" : "https://95-213-224-182.livesports24.online:443/mfootball2rus.m3u8",
@@ -84,19 +55,26 @@
     },  
       {
      "user" : "Tottenham Hotspur vs Chelsea SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "https://mgzinminlwin.github.io/360p/pm-bein1.m3u8",
+    "type" : "England - Premier League  ⚽️",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },   
+
+{
+     "user" : "Tottenham Hotspur vs Chelsea SD2",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
     "type" : "England - Premier League  ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },   
        {
-     "user" : "Tottenham Hotspur vs Chelsea HD1",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+     "user" : "Tottenham Hotspur vs Chelsea HD1(ENGLISH)",
+    "pageUrl" : "http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },  
        {
      "user" : "Tottenham Hotspur vs Chelsea HD2",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/it-skysport-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDY6MzMgUE0maGFzaF92YWx1ZT1WaFBmZXplc3JsSmNDcDJwZnltY3NnPT0mdmFsaWRtaW51dGVzPTIw",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },  
