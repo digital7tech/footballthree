@@ -25,7 +25,7 @@
     },   
        {
      "user" : "West Ham United vs Manchester United  HD1",
-    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8",
+    "pageUrl" : "http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },  
@@ -76,14 +76,14 @@
      
       {
      "user" : "Real Sociedad vs Sevilla SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
     },  
        
       {
      "user" : "Real Sociedad vs Sevilla HD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
     },  
