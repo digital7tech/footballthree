@@ -2,65 +2,7 @@
 
 "hits" : [ 
       
-        {   
-      
- "user" : "Udinese vs Napoli SD",
-    "pageUrl" : "http://ott-cdn.ucom.am/s82/03.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-{   
-      
- "user" : "Udinese vs Napoli HD1",
-    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-{   
-      
- "user" : "Udinese vs Napoli HD2",
-    "pageUrl" : "http://ott-cdn.ucom.am/s82/03.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-
-{   
-      
- "user" : "Barcelona vs Granada  SD1",
-    "pageUrl" : "https://mgzinminlwin.github.io/360p/pm-bein1.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
-    },
-{   
-      
- "user" : "Barcelona vs Granada  SD2",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
-    },
-
-
-{   
-      
- "user" : "Barcelona vs Granada  HD1",
-    "pageUrl" : "http://ott-cdn.ucom.am/s81/03.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
-    },
-
-
-{   
-      
- "user" : "Barcelona vs Granada HD2",
-    "pageUrl" : "https://mgzinminlwin.github.io/720p/pm-Bein1.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
-    },
-
-
+       
 
 
 
