@@ -9,17 +9,35 @@
         {   
       
  "user" : "Bologna vs Genoa SD",
-    "pageUrl" : "http://ott-cdn.ucom.am/s82/03.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/124.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
        {   
       
- "user" : "Bologna vs Genoa HD",
-    "pageUrl" : "http://ott-cdn.ucom.am/s82/03.m3u8",
+ "user" : "Bologna vs Genoa HD1",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
+
+{   
+      
+ "user" : "Bologna vs Genoa HD2",
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/03.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },
+
+
+{   
+      
+ "user" : "Bologna vs Genoa HD3",
+    "pageUrl" : "http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },
+
   
     {   
       
