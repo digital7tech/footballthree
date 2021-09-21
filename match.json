@@ -8,13 +8,140 @@
 
         {   
       
- "user" : "LIVE SPORTS",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
-    "type" : "LIVE SPORTS ⚽️ ",
-    "webFormatUrl" :"https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
+ "user" : "Bologna vs Genoa SD",
+    "pageUrl" : "http://ott-cdn.ucom.am/s82/03.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },
+       {   
+      
+ "user" : "Bologna vs Genoa HD",
+    "pageUrl" : "http://ott-cdn.ucom.am/s82/03.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
   
+    {   
       
+ "user" : "Getafe vs Atlético Madrid  SD
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/03.3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
+    },
+      {   
+      
+ "user" : "Getafe vs Atlético Madrid  HD",
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/03.3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
+    },
+
+{   
+      
+ "user" : "	Atalanta vs Sassuolo SD",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },
+      {   
+      
+ "user" : "	Atalanta vs Sassuolo HD",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },
+      {   
+      
+ "user" : "Fiorentina vs Internazionale SD",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },
+        {   
+      
+ "user" : "	Fulham vs Leeds United SD",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+       {   
+      
+ "user" : "	Fulham vs Leeds United HD",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+        {   
+      
+ "user" : "	Norwich City vs Liverpool SD,
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+        {   
+      
+ "user" : "	Norwich City vs Liverpool HD",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+       
+          {   
+      
+ "user" : "Queens Park Rangers vs Everton SD
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+       {   
+      
+ "user" : "Queens Park Rangers vs Everton HD",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+        {   
+      
+ "user" : "	Manchester City vs Wycombe Wanderers SD",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+        {   
+      
+ "user" : "	Manchester City vs Wycombe Wanderers HD",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+        {   
+      
+ "user" : "Levante vs Celta de Vigo  SD
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/03.3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
+    },
+      {   
+      
+ "user" : "Levante vs Celta de Vigo  HD",
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/03.3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
+    },
+        {   
+      
+ "user" : "	Athletic Club vs Rayo Vallecano  SD
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/03.3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
+    },
+      {   
+      
+ "user" : "	Athletic Club vs Rayo Vallecano HD",
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/03.3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
+    },
         
       {   
       
