@@ -63,22 +63,39 @@
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },      {   
       
- "user" : "Sevilla vs Valencia HD",
-    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+ "user" : "Sevilla vs Valencia SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },
+
+{   
+      
+ "user" : "Sevilla vs Valencia HD1",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },
+
+
+{   
+      
+ "user" : "Sevilla vs Valencia HD2",
+    "pageUrl" : "http://ux38.gcdn.co/SSLaLiga/tracks-v1a1/mono.m3u8",
     "type" : "Spain - La Liga ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
     },
         {   
       
  "user" : "Espanyol vs Deportivo Alavés SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "https://mgzinminlwin.github.io/360p/bein4.m3u8",
     "type" : "Spain - La Liga ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
     },
         {   
       
  "user" : "	Espanyol vs Deportivo Alavés HD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "https://mgzinminlwin.github.io/360p/bein4.m3u8",
     "type" : "Spain - La Liga ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
     },
