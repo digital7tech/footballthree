@@ -1,7 +1,202 @@
 {  
 
 "hits" : [
-       
+        {   
+      
+ "user" : "Spezia vs Juventus SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+         {   
+      
+ "user" : "Spezia vs Juventus HD1",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+         {   
+      
+ "user" : "Spezia vs Juventus HD2",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+         {   
+      
+ "user" : "Salernitana vs Hellas Verona SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+         {   
+      
+ "user" : "Salernitana vs Hellas Verona SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+        {   
+      
+ "user" : "Sevilla vs Valencia SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },
+        {   
+      
+ "user" : "Sevilla vs Valencia HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },
+        {   
+      
+ "user" : "Espanyol vs Deportivo Alavés SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },
+        {   
+      
+ "user" : "	Espanyol vs Deportivo Alavés HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },
+        {   
+      
+ "user" : "Milan vs Venezia SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+         {   
+      
+ "user" : "Milan vs Venezia HD1",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+       {   
+      
+ "user" : "Milan vs Venezia HD2",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+        {   
+      
+ "user" : "Cagliari vs Empoli SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+        {   
+      
+ "user" : "Cagliari vs Empoli HD2",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+        {   
+      
+ "user" : "Chelsea vs Aston Villa  SD1",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+        {   
+      
+ "user" : "Chelsea vs Aston Villa  SD2",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+       {   
+      
+ "user" : "Chelsea vs Aston Villa  HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+        {   
+      
+ "user" : "Manchester United vs WestHam SD1",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+        {   
+      
+ "user" : "Manchester United vs WestHam SD2",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+       {   
+      
+ "user" : "Manchester United vs WestHam  HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+       {   
+      
+ "user" : "Wolves vs Tottenham SD1",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+        {   
+      
+ "user" : "Wolves vs Tottenham  SD2",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+       {   
+      
+ "user" : "Wolves vs Tottenham   HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "England - League Cup ⚽️ ",
+    "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
+    },
+         {   
+      
+ "user" : "Metz vs PSG  HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "France - Ligue 1 ⚽️ ",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/French-Ligue-1-logo.png
+    },
+        {   
+      
+ "user" : "Real Madrid vs Mallorca SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },
+        {   
+      
+ "user" : "Real Madrid vs Mallorca HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },
+        {   
+      
+ "user" : "	Villarreal vs Elche SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },
+        {   
+      
+ "user" : "	Villarreal vs Elche HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "Spain - La Liga ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+    },
         
       {   
       
