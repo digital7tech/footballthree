@@ -109,14 +109,25 @@
          {   
       
  "user" : "Milan vs Venezia HD1",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/03.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
+
+
        {   
       
  "user" : "Milan vs Venezia HD2",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+
+
+{   
+      
+ "user" : "Milan vs Venezia HD3",
+    "pageUrl" : "http://ux38.gcdn.co/SSVariety3/tracks-v1a1/mono.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
@@ -129,8 +140,17 @@
     },
         {   
       
+ "user" : "Cagliari vs Empoli HD1",
+    "pageUrl" : "http://ux38.gcdn.co/SSAction/tracks-v1a1/mono.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+
+
+        {   
+      
  "user" : "Cagliari vs Empoli HD2",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://ux38.gcdn.co/UKS79/tracks-v1a1/mono.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
@@ -143,15 +163,15 @@
     },
         {   
       
- "user" : "Chelsea vs Aston Villa  SD2",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+ "user" : "Chelsea vs Aston Villa  HD1",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
     "type" : "England - League Cup ⚽️ ",
     "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
     },
        {   
       
- "user" : "Chelsea vs Aston Villa  HD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+ "user" : "Chelsea vs Aston Villa  HD2",
+    "pageUrl" : "http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8",
     "type" : "England - League Cup ⚽️ ",
     "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
     },
@@ -165,14 +185,14 @@
         {   
       
  "user" : "Manchester United vs WestHam SD2",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDc6MzYgUE0maGFzaF92YWx1ZT13c0wyZ213S2tIMGlUWFUwK0VHQ3lBPT0mdmFsaWRtaW51dGVzPTIw",
     "type" : "England - League Cup ⚽️ ",
     "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
     },
        {   
       
  "user" : "Manchester United vs WestHam  HD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8",
     "type" : "England - League Cup ⚽️ ",
     "webFormatUrl" :"https://e7.pngegg.com/pngimages/732/435/png-clipart-2017-18-efl-cup-carabao-energy-drink-english-football-league-manchester-city-f-c-premier-league-premier-league-label-sport.png"
     },
@@ -200,7 +220,7 @@
          {   
       
  "user" : "Metz vs PSG  HD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "https://mgzinminlwin.github.io/360p/bein2.m3u8",
     "type" : "France - Ligue 1 ⚽️ ",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/French-Ligue-1-logo.png"
     },
