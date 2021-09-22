@@ -4,49 +4,67 @@
         {   
       
  "user" : "Spezia vs Juventus SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/17.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
          {   
       
  "user" : "Spezia vs Juventus HD1",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/03.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
          {   
       
  "user" : "Spezia vs Juventus HD2",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+
+{   
+      
+ "user" : "Spezia vs Juventus HD3",
+    "pageUrl" : "http://ux38.gcdn.co/SSVariety3/tracks-v1a1/mono.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },
+
+
+      {   
+      
+ "user" : "Spezia vs Juventus HD4",
+    "pageUrl" : "http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2246.m3u8",
+    "type" : "Italy - Serie A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+    },   {   
+      
+ "user" : "Salernitana vs Hellas Verona SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/17.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
          {   
       
- "user" : "Salernitana vs Hellas Verona SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+ "user" : "Salernitana vs Hellas Verona HD1",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },
-         {   
+       
+
+
+  {   
       
- "user" : "Salernitana vs Hellas Verona SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+ "user" : "Salernitana vs Hellas Verona HD2",
+    "pageUrl" : "http://ux38.gcdn.co/UKS79/tracks-v1a1/mono.m3u8",
     "type" : "Italy - Serie A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-        {   
-      
- "user" : "Sevilla vs Valencia SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },
-        {   
+    },      {   
       
  "user" : "Sevilla vs Valencia HD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
     "type" : "Spain - La Liga ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
     },
