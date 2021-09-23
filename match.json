@@ -1,136 +1,136 @@
-{  
+{
 
-"hits" : [
-           
-       {
- "user" : "Torino vs Lazio SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlst.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-            {
- "user" : "Torino vs Lazio HD1",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/plylist.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-            {
- "user" : "Torino vs Lazio HD2",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/paylist.m3u8",
-    "type" : "Italy - Serie A ⚽️ "
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-         {   
-      
- "user" : "Sampdoria vs Napoli SD",
-    "pageUrl" : "http://ott-cdn.uco.am/s81/03.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-           {   
-      
- "user" : "Sampdoria vs Napoli HD1",
-    "pageUrl" : "http://ott-cdn.ucom.a/s81/03.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-           {   
-      
- "user" : "Sampdoria vs Napoli HD2",
-    "pageUrl" : "http://ott-cdn.ucom.am/s81/3.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
+	"hits": [
 
+		{
+			"user": "Torino vs Lazio SD",
+			"pageUrl": "http://stream.tvtap.live:8081/live/ptvsports.stream/playlst.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+			"user": "Torino vs Lazio HD1",
+			"pageUrl": "http://stream.tvtap.live:8081/live/ptvsports.stream/plylist.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+			"user": "Torino vs Lazio HD2",
+			"pageUrl": "http://stream.tvtap.live:8081/live/ptvsports.stream/paylist.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
 
-      
- {   
-      
- "user" : "Osasuna vs Real Betis SD",
-    "pageUrl" : "https://mgzinminlwin.github.io/360/pm-bein1.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },
-        {   
-      
- "user" : "Osasuna vs Real Betis HD",
-    "pageUrl" : "https://mgzinminlwin.github.io/360pbein4.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },
+			"user": "Sampdoria vs Napoli SD",
+			"pageUrl": "http://ott-cdn.uco.am/s81/03.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+			"user": "Sampdoria vs Napoli HD1",
+			"pageUrl": "http://ott-cdn.ucom.a/s81/03.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+			"user": "Sampdoria vs Napoli HD2",
+			"pageUrl": "http://ott-cdn.ucom.am/s81/3.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
 
 
-        {   
-      
- "user" : "Granada vs Real Sociedad SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/pvsports.stream/playlist.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },
-        {   
-      
- "user" : "Granada vs Real Sociedad HD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/pvsports.stream/playlist.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    }  
-           
-             {
- "user" : "Roma vs Udinese SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvports.stream/playlist.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-            {
- "user" : "Roma vs Udinese HD1",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsprts.stream/playlist.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
-            {
- "user" : "Roma vs Udinese HD2",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvspots.stream/playlist.m3u8",
-    "type" : "Italy - Serie A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-    },
- {   
-      
- "user" : "Cádiz vs Barcelona SD",
-    "pageUrl" : "https://mgzinminlwin.github.io/360p/pm-bin1.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },
-        {   
-      
- "user" : "Cádiz vs Barcelona HD1",
-    "pageUrl" : "https://mgzinminlwin.github.io/360p/ben4.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },
-{   
-      
- "user" : "Cádiz vs Barcelona HD2",
-    "pageUrl" : "https://mgzinminlwin.github.io/360pbein4.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },
-{   
-      
- "user" : "Cádiz vs Barcelona HD3",
-    "pageUrl" : "https://mgzinminlwin.github.io/360p/bin4.m3u8",
-    "type" : "Spain - La Liga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },
-       
-      {   
-      
- "user" : "LIVE SPORTS",
-    "pageUrl" : "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-    "type" : "LIVE SPORTS ⚽️ ",
-    "webFormatUrl" :"https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
-    }
 
-]
+		{
+
+			"user": "Osasuna vs Real Betis SD",
+			"pageUrl": "https://mgzinminlwin.github.io/360/pm-bein1.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		{
+
+			"user": "Osasuna vs Real Betis HD",
+			"pageUrl": "https://mgzinminlwin.github.io/360pbein4.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+
+
+		{
+
+			"user": "Granada vs Real Sociedad SD",
+			"pageUrl": "http://stream.tvtap.live:8081/live/pvsports.stream/playlist.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		{
+
+			"user": "Granada vs Real Sociedad HD",
+			"pageUrl": "http://stream.tvtap.live:8081/live/pvsports.stream/playlist.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+
+		{
+			"user": "Roma vs Udinese SD",
+			"pageUrl": "http://stream.tvtap.live:8081/live/ptvports.stream/playlist.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+			"user": "Roma vs Udinese HD1",
+			"pageUrl": "http://stream.tvtap.live:8081/live/ptvsprts.stream/playlist.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+			"user": "Roma vs Udinese HD2",
+			"pageUrl": "http://stream.tvtap.live:8081/live/ptvspots.stream/playlist.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+			"user": "Cádiz vs Barcelona SD",
+			"pageUrl": "https://mgzinminlwin.github.io/360p/pm-bin1.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		{
+
+			"user": "Cádiz vs Barcelona HD1",
+			"pageUrl": "https://mgzinminlwin.github.io/360p/ben4.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		{
+
+			"user": "Cádiz vs Barcelona HD2",
+			"pageUrl": "https://mgzinminlwin.github.io/360pbein4.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		{
+
+			"user": "Cádiz vs Barcelona HD3",
+			"pageUrl": "https://mgzinminlwin.github.io/360p/bin4.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+
+		{
+
+			"user": "LIVE SPORTS",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "LIVE SPORTS ⚽️ ",
+			"webFormatUrl": "https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
+		}
+
+	]
 
 
 }
