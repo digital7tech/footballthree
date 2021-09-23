@@ -10,30 +10,18 @@
 		},
 		{
 			"user": "Torino vs Lazio HD1",
-			"pageUrl": "http://ott-cdn.ucom.am/s82/03.m3u8",
+			"pageUrl": "http://ux38.gcdn.co/SSVariety2/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
 			"user": "Torino vs Lazio HD2",
-			"pageUrl": "http://ux38.gcdn.co/SSVariety2/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-
-{
-			"user": "Torino vs Lazio HD3",
-			"pageUrl": "http://ux38.gcdn.co/UKS78/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-
-{
-			"user": "Torino vs Lazio HD4",
 			"pageUrl": "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
+
+
 		{
 
 			"user": "Sampdoria vs Napoli SD",
@@ -44,22 +32,16 @@
 		{
 
 			"user": "Sampdoria vs Napoli HD1",
-			"pageUrl": "http://ott-cdn.ucom.am/s82/03.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-			"user": "Sampdoria vs Napoli HD2",
 			"pageUrl": "http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 
+
 	{
 
 			"user": "Sampdoria vs Napoli HD3",
-			"pageUrl": "http://ux38.gcdn.co/SSVariety3/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://ux38.gcdn.co/SSVariety2/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -69,9 +51,7 @@
 
 			"user": "Sampdoria vs Napoli HD4",
 			"pageUrl": "https://95-213-224-182.livesports24.online:443/mfootball2rus.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
+			"type": "Italy 
 
 		{
 
