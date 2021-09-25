@@ -7,42 +7,7 @@
 
 
 
-		{
 
-			"user": "Internazionale vs Atalanta SD",
-			"pageUrl": "http://95.107.132.106/outu/683_1.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-
-	{
-
-			"user": "Internazionale vs Atalanta HD",
-			"pageUrl": "http://95.107.132.106/out/u/683_1.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-			"user": "Internazionale vs Atalanta HD1",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},{
-
-			"user": "Internazionale vs Atalanta HD2",
-			"pageUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-
-{
-
-			"user": "Internazionale vs Atalanta HD3",
-			"pageUrl": "http://ux38.gcdn.co/SSVariety3/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
 {
 
 			"user": "Brentford vs Liverpool SD1",
@@ -102,55 +67,71 @@
 		{
 
 			"user": "Genoa vs Hellas Verona SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LCKLE/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
 
 			"user": "Genoa vs Hellas Verona HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://95.107.132.106/out/u/683_1.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},{
 
 			"user": "Genoa vs Hellas Verona HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://sport.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+
+{
+
+			"user": "Genoa vs Hellas Verona HD3",
+			"pageUrl": "http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 {
 
 			"user": "Real Madrid vs Villarreal SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://mgzinminlwin.github.io/360p/pm-bein1.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
 		{
 
 			"user": "Real Madrid vs Villarreal HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://mgzinminlwin.github.io/720p/pm-Bein1.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+
+{
+
+			"user": "Real Madrid vs Villarreal HD2",
+			"pageUrl": "http://51.178.133.59:8080/SS2-HD/video.m3u8?token=test",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
 		{
 
 			"user": "PSG vs Montpellier SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://mgzinminlwin.github.io/360p/bein2.m3u8",
 			"type": "France - Ligue 1 ⚽️ ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/French-Ligue-1-logo.png"
 		},
 		{
 
 			"user": "PSG vs Montpellier HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://mgzinminlwin.github.io/720p/Bein2.m3u8",
 			"type": "France - Ligue 1 ⚽️ ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/French-Ligue-1-logo.png"
 		},
 		{
 
 			"user": "Olympique Lyonnais vs Lorient HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://mgzinminlwin.github.io/360p/bein3.m3u8",
 			"type": "France - Ligue 1 ⚽️ ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/French-Ligue-1-logo.png"
 		},
