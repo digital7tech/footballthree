@@ -1,27 +1,7 @@
 {
 
 	"hits": [
-		{
 
-			"user": "Juventus vs Sampdoria SD",
-			"pageUrl": "http://cdn.addressingethernet.xyz/hls/108.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-			"user": "Juventus vs Sampdoria HD1",
-			"pageUrl": "http://cdn.addressingethernet.xyz/hls/108.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-			"user": "Juventus vs Sampdoria HD2",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
 {
 
 			"user": "Mallorca vs Osasuna SD",
