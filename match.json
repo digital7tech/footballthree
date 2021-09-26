@@ -25,13 +25,13 @@
 {
 
 			"user": "Mallorca vs Osasuna SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://cdn.addressingethernet.xyz/hls/103.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
 		{
 
-			"user": "Mallorca vs Osasuna SD",
+			"user": "Mallorca vs Osasuna HD",
 			"pageUrl": "http://ux38.gcdn.co/SSLaLiga/tracks-v1a1/mono.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
