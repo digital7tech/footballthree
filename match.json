@@ -2,64 +2,7 @@
 
 	"hits": [
 	
-		{
-
-			"user": "Southampton vs Wolverhampton Wanderers SD",
-			"pageUrl": "https://mgzinminlwin.github.io/360p/pm-bein1.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-{
-
-			"user": "Southampton vs Wolverhampton Wanderers HD1",
-			"pageUrl": "http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-		{
-
-			"user": "Southampton vs Wolverhampton Wanderers HD2",
-			"pageUrl": "https://mgzinminlwin.github.io/720p/pm-Bein1.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-			"user": "Southampton vs Wolverhampton Wanderers HD3",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-			"user": "Udinese vs Fiorentina SD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-			"user": "Udinese vs Fiorentina HD",
-			"pageUrl": "http://ux38.gcdn.co/UKS78/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-			"user": "Empoli vs Bologna SD",
-			"pageUrl": "http://221.120.204.4:80PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-			"user": "Sassuolo vs Salernitana SD",
-			"pageUrl": "http://ux38.gcdn.co/SSVariety3/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-
+		
 {
 
 			"user": "Bochum vs Stuttgart HD1",
