@@ -2,75 +2,7 @@
 
 	"hits": [
 		
-		{
-
-			"user": "Venezia vs Torino SD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-			"user": "Venezia vs Torino HD1",
-			"pageUrl": "http://mydvr221.freeddns.org:80/559/video.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-			"user": "Venezia vs Torino HD2",
-			"pageUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-
-		
 	
-		{
-
-			"user": "Crystal Palace vs Brighton & Hove Albion SD",
-			"pageUrl": "https://mgzinminlwin.github.io/360p/pm-bein1.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-			"user": "Crystal Palace vs Brighton & Hove Albion SD2(ENGLISH)",
-			"pageUrl": "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-			"user": "Crystal Palace vs Brighton & Hove Albion HD1(ENGLISH)",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD2_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-			"user": "Crystal Palace vs Brighton & Hove Albion HD2",
-			"pageUrl": "https://mgzinminlwin.github.io/720p/pm-Bein1.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	
-		
-
-{
-
-			"user": "Celta de Vigo vs Granada SD",
-			"pageUrl": "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-		{
-
-			"user": "Celta de Vigo vs Granada HD",
-			"pageUrl": "https://mgzinminlwin.github.io/720p/Bein1.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
 	
 		
 
