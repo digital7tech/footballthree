@@ -8,28 +8,36 @@
 		{
 
 			"user": "Zenit vs Malmö FF SD",
-			"pageUrl": "https://mgzinminlwin.github.io/720p/Bei1.m3u8",
+			"pageUrl": "https://mgzinminlwin.github.io/360p/pm-bein3.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 		{
 
 			"user": "Zenit vs Malmö FF HD",
-			"pageUrl": "https://mgzinminlwin.github.io/720p/Bein1m3u8",
+			"pageUrl": "http://xcwsnl28.mrnova.online/live/60032_.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 		{
 
 			"user": "Atalanta vs Young Boys SD",
-			"pageUrl": "https://mgzinminlwin.github.io/720p/Bein1m3u8",
+			"pageUrl": "https://mgzinminlwin.github.io/360p/pm-bein2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 		{
 
-			"user": "Atalanta vs Young Boys HD",
-			"pageUrl": "https://mgzinminlwin.github.io/720p/Bein.m3u8",
+			"user": "Atalanta vs Young Boys HD1",
+			"pageUrl": "http://mydvr221.freeddns.org:80/559/video.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+	{
+
+			"user": "Atalanta vs Young Boys HD2",
+			"pageUrl": "http://stbm.tk:8080/TringSport1HD/video.m3u8?token=test",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
