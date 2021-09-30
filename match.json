@@ -15,7 +15,7 @@
 
 
 			"user": "Real Sociedad vs Monaco  SD",
-			"pageUrl": "http://199.127.62.234:2082/streams/87_.m3u8",
+			"pageUrl": "http://cdn.addressingethernet.xyz/hls/105.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Europa_League.svg/1200px-Europa_League.svg.png"
 		},
@@ -25,7 +25,7 @@
 
 
 			"user": "Napoli vs Spartak Moskva  HD1",
-			"pageUrl": "http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test",
+			"pageUrl": "http://cdn.addressingethernet.xyz/hls/103.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Europa_League.svg/1200px-Europa_League.svg.png"
 		},
@@ -34,7 +34,7 @@
 
 
 			"user": "Napoli vs Spartak Moskva  HD2",
-			"pageUrl": "https://mgzinminlwin.github.io/360p/pm-bein1.m3u8",
+			"pageUrl": "http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Europa_League.svg/1200px-Europa_League.svg.png"
 		},
@@ -43,7 +43,7 @@
 
 
 			"user": "Olympique Lyonnais vs Brøndby SD",
-			"pageUrl": "https://mgzinminlwin.github.io/360p/bein2.m3u8",
+			"pageUrl": "http://cdn.addressingethernet.xyz/hls/106.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Europa_League.svg/1200px-Europa_League.svg.png"
 		},
@@ -60,7 +60,7 @@
 
 
 			"user": "Legia Warszawa vs Leicester City  HD2",
-			"pageUrl": "http://51.178.133.59:8080/SS3-HD/video.m3u8?token=test",
+			"pageUrl": "http://cdn.addressingethernet.xyz/hls/104.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Europa_League.svg/1200px-Europa_League.svg.png"
 		},
@@ -68,19 +68,26 @@
 
 
 			"user": "Fenerbahçe vs Olympiakos Piraeus  SD",
-			"pageUrl": "http://dud.mawanroud.xyz/live/6151278887/index.m3u8",
+			"pageUrl": "http://cdn.addressingethernet.xyz/hls/101.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Europa_League.svg/1200px-Europa_League.svg.png"
 		},
 		{
 
 
-			"user": "Zorya vs Roma  SD",
+			"user": "Zorya vs Roma  HD",
 			"pageUrl": "https://bal.varcdn1.ru/lb/m1/index.m3u8",
 			"type": "Europe - UEFA Europa Conference League ⚽️ ",
 			"webFormatUrl": "https://groundhopperguides.com/wp-content/uploads/2021/03/UECL-970x545.png"
 		},
-		
+	{
+
+
+			"user": "Zorya vs Roma SD  ",
+			"pageUrl": "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+			"type": "Europe - UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://groundhopperguides.com/wp-content/uploads/2021/03/UECL-970x545.png"
+		},	
 
 		{
 
