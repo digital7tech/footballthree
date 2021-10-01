@@ -2,22 +2,72 @@
 
 	"hits": [
 		
-		{	
-			
+				{
 
 
-			"user": "LIVE SORTS",
-			"pageUrl": "http://199.127.62.234:2082/streams/86_.m3u8",
-			"type": "LIVE SPORTS ⚽️ ",
-			"webFormatUrl": "https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
+			"user": "Köln vs Greuther Fürth SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
-
-	{	
-			
+		{
 
 
-			"user": "LIVE SORTS",
-			"pageUrl": "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIxIDI6NDc6NTcgUE0maGFzaF92YWx1ZT1BTE11QS9CcnM4MnpK",
+			"user": "Köln vs Greuther Fürth HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+	{
+
+
+			"user": "Cagliari vs Venezia HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+
+			"user": "Cagliari vs Venezia HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+
+			"user": "Cagliari vs Venezia HD3",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+
+			"user": "Athletic Club vs Deportivo Alavés SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		{
+
+
+			"user": "Athletic Club vs Deportivo Alavés HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		
+		
+		
+		
+
+			{
+
+
+			"user": "LIVE SPORTS",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
 			"type": "LIVE SPORTS ⚽️ ",
 			"webFormatUrl": "https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
 		}
