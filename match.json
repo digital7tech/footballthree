@@ -15,73 +15,7 @@
 
 	
 
-		{
-
-
-			"user": "Brighton & Hove Albion vs Arsenal SD",
-			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-{
-
-
-			"user": "Brighton & Hove Albion vs Arsenal SD2",
-			"pageUrl": "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brighton & Hove Albion vs Arsenal HD1",
-			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brighton & Hove Albion vs Arsenal HD2",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Cádiz vs Valencia SD",
-			"pageUrl": "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-		{
-
-
-			"user": "Cádiz vs Valencia HD",
-			"pageUrl": "http://51.178.133.59:8080/SS4-HD/video.m3u8?token=test",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-
-
-	{
-
-
-			"user": "RB Leipzig vs Bochum HD1",
-			"pageUrl": "https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "RB Leipzig vs Bochum HD2",
-			"pageUrl": "http://93.157.62.180/Supersport5/index.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
+		
 		{
 
 
