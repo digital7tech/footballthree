@@ -156,8 +156,17 @@
 		{
 
 
-			"user": "Villarreal vs Real Betis HD",
+			"user": "Villarreal vs Real Betis SD2(Espana)",
 			"pageUrl": "http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+
+	{
+
+
+			"user": "Villarreal vs Real Betis HD",
+			"pageUrl": "http://23.88.39.74/live/918454578/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
