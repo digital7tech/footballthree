@@ -11,15 +11,15 @@
 
 
 			"user": "Italy vs Spain SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
 			"type": "UEFA NATIONS LEAGUE- semi finals ⚽️ ",
 			"webFormatUrl": "https://arsenalarsenal.files.wordpress.com/2018/09/nuevo-logotipo-uefa-liga-de-las-naciones-identidad-2017-02.png"
 		},
 {
 
 
-			"user": "Italy vs Spain HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Italy vs Spain HD1(English)",
+			"pageUrl": "https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8",
 			"type": "UEFA NATIONS LEAGUE- semi finals ⚽️ ",
 			"webFormatUrl": "https://arsenalarsenal.files.wordpress.com/2018/09/nuevo-logotipo-uefa-liga-de-las-naciones-identidad-2017-02.png"
 		},
@@ -27,7 +27,7 @@
 
 
 			"user": "Italy vs Spain HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
 			"type": "UEFA NATIONS LEAGUE- semi finals ⚽️ ",
 			"webFormatUrl": "https://arsenalarsenal.files.wordpress.com/2018/09/nuevo-logotipo-uefa-liga-de-las-naciones-identidad-2017-02.png"
 		},
@@ -36,7 +36,7 @@
 
 
 			"user": "Italy vs Spain HD3",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://51.178.133.59:8080/SS2-HD/video.m3u8?token=test",
 			"type": "UEFA NATIONS LEAGUE- semi finals ⚽️ ",
 			"webFormatUrl": "https://arsenalarsenal.files.wordpress.com/2018/09/nuevo-logotipo-uefa-liga-de-las-naciones-identidad-2017-02.png"
 		},
