@@ -5,6 +5,24 @@
 	
 
 
+	{
+
+
+			"user": "LIVE SPORTS 1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "SPORTS 1 ⚽️ ",
+			"webFormatUrl": "https://cdn.freebiesupply.com/logos/large/2x/sports-logo-png-transparent.png"
+		},
+
+
+	{
+
+
+			"user": "LIVE SPORTS 2",
+			"pageUrl": "http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8",
+			"type": "SPORTS 2 ⚽️ ",
+			"webFormatUrl": "https://cdn.freebiesupply.com/logos/large/2x/sports-logo-png-transparent.png"
+		},
 
 	]
 
