@@ -9,10 +9,19 @@
 
 
 
+
 {
 
 
 			"user": "Uruguay vs Colombia SD",
+			"pageUrl": "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+			"type": "World Cup Qualifying- Conmebol ⚽️ ",
+			"webFormatUrl": "https://ghana-news.net2tvgh.com/wp-content/uploads/2021/05/qatar-2022-.jpg"
+		},
+{
+
+
+			"user": "Uruguay vs Colombia HD1",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
 			"type": "World Cup Qualifying- Conmebol ⚽️ ",
 			"webFormatUrl": "https://ghana-news.net2tvgh.com/wp-content/uploads/2021/05/qatar-2022-.jpg"
@@ -20,7 +29,7 @@
 {
 
 
-			"user": "Uruguay vs Colombia HD",
+			"user": "Uruguay vs Colombia HD2",
 			"pageUrl": "http://sos.moukrasa.xyz/live/6151278887/index.m3u8",
 			"type": "World Cup Qualifying- Conmebol ⚽️ ",
 			"webFormatUrl": "https://ghana-news.net2tvgh.com/wp-content/uploads/2021/05/qatar-2022-.jpg"
