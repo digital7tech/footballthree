@@ -9,7 +9,7 @@
 
 
 			"user": "Cape Verde Islands vs Liberia",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"pageUrl": "https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
@@ -28,7 +28,7 @@
 
 
 			"user": "France vs Spain HD1",
-			"pageUrl": "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+			"pageUrl": "https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://static.toiimg.com/thumb/msid-77874095,width-1070,height-580,imgsize-146727,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
 		},
@@ -38,7 +38,7 @@
 
 
 			"user": "France vs Spain HD2",
-			"pageUrl": "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+			"pageUrl": "http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_3/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://static.toiimg.com/thumb/msid-77874095,width-1070,height-580,imgsize-146727,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
 		},
@@ -47,8 +47,8 @@
 {
 
 
-			"user": "France vs Spain HD3",
-			"pageUrl": "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+			"user": "France vs Spain HD3(ENGLLISH)",
+			"pageUrl": "https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://static.toiimg.com/thumb/msid-77874095,width-1070,height-580,imgsize-146727,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
 		},
@@ -59,7 +59,7 @@
 
 
 			"user": "France vs Spain HD4",
-			"pageUrl": "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+			"pageUrl": "http://199.127.62.234:2082/streams/86_.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://static.toiimg.com/thumb/msid-77874095,width-1070,height-580,imgsize-146727,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
 		},
