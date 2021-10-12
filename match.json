@@ -9,24 +9,24 @@
 {
 
 
-			"user": "Sweden vs Greece  SD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"user": "Sweden vs Greece  HD1",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m2/index.m3u8",
 			"type": "SPORTS 2 ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
 		{
 
 
-			"user": "Sweden vs Greece  HD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"user": "Sweden vs Greece  HD2",
+			"pageUrl": "https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8",
 			"type": "SPORTS 2 ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
 		{
 
 
-			"user": "Israel vs Moldova HD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"user": "Albania vs Poland HD",
+			"pageUrl": "https://smart-tv.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
 			"type": "SPORTS 2 ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
@@ -34,7 +34,16 @@
 
 
 			"user": "Denmark vs Austria  HD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"pageUrl": "https://smart-tv.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8",
+			"type": "SPORTS 2 ⚽️ ",
+			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
+		},
+
+{
+
+
+			"user": "Denmark vs Austria  HD2",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m3/index.m3u8",
 			"type": "SPORTS 2 ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
@@ -42,7 +51,7 @@
 
 
 			"user": "England vs Hungary  SD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"pageUrl": "https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
 			"type": "SPORTS 2 ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
@@ -50,23 +59,15 @@
 
 
 			"user": "England vs Hungary  HD1",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"pageUrl": "https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
 			"type": "SPORTS 2 ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
 		{
 
 
-			"user": "England vs Hungary  HD2",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
-			"type": "SPORTS 2 ⚽️ ",
-			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
-		},
-{
-
-
-			"user": "Serbia vs Azerbaijan HD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"user": "England vs Hungary  HD2(ENGLISH)",
+			"pageUrl": "https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8",
 			"type": "SPORTS 2 ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
@@ -74,7 +75,7 @@
 
 
 			"user": "Portugal vs Luxembourg SD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"pageUrl": "https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
 			"type": "SPORTS 2 ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
@@ -82,7 +83,7 @@
 
 
 			"user": "Portugal vs Luxembourg HD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"pageUrl": "https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
 			"type": "SPORTS 2 ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
@@ -114,7 +115,7 @@
 
 
 			"user": "Ukraine vs Bosnia and Herzegovina HD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m1/index.m3u8",
 			"type": "SPORTS 2 ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
