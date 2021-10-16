@@ -24,8 +24,7 @@
 			"pageUrl": "https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://www.kindpng.com/picc/m/25-254792_serie-a-logo-png-transparent-png.png"
-		},
-
+},
 
 {
 
@@ -107,8 +106,8 @@
 
 
 
-			"user": "Milan vs Hellas Verona SD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"user": "Milan vs Hellas Verona HD1",
+			"pageUrl": "http://93.157.62.180/TringSport1HD/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://www.kindpng.com/picc/m/25-254792_serie-a-logo-png-transparent-png.png"
 		},
@@ -116,8 +115,8 @@
 
 
 
-			"user": "Milan vs Hellas Verona HD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"user": "Milan vs Hellas Verona HD2",
+			"pageUrl": "https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://www.kindpng.com/picc/m/25-254792_serie-a-logo-png-transparent-png.png"
 		},
@@ -125,8 +124,28 @@
 
 
 
+			"user": "Milan vs Hellas Verona HD3",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m1/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://www.kindpng.com/picc/m/25-254792_serie-a-logo-png-transparent-png.png"
+			},
+{
+
+
+
+			"user": "Milan vs Hellas Verona HD4",
+			"pageUrl": "http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2294.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://www.kindpng.com/picc/m/25-254792_serie-a-logo-png-transparent-png.png"
+		},
+	
+
+{
+
+
+
 			"user": "Real Sociedad vs Mallorca SD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"pageUrl": "https://sos.moukrasa.xyz/live/978488877/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://cdn.freelogovectors.net/wp-content/uploads/2020/08/laligalogo.png"
 		},
@@ -135,7 +154,7 @@
 
 
 			"user": "Real Sociedad vs Mallorca HD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"pageUrl": "https://sos.moukrasa.xyz/live/978488877/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://cdn.freelogovectors.net/wp-content/uploads/2020/08/laligalogo.png"
 		},
@@ -144,7 +163,7 @@
 
 
 			"user": "Olympique Lyonnais vs Monaco SD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"pageUrl": "https://sos.moukrasa.xyz/live/88824257/index.m3u8",
 			"type": "France - Ligue 1⚽️ ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/French-Ligue-1-logo.png"
 		},
@@ -153,7 +172,7 @@
 
 
 			"user": "Olympique Lyonnais vs Monaco HD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
+			"pageUrl": "https://sos.moukrasa.xyz/live/10011244/index.m3u8",
 			"type": "France - Ligue 1⚽️ ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/French-Ligue-1-logo.png"
 		},
