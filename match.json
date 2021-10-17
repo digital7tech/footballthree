@@ -3,46 +3,7 @@
 	"hits": [
 
 
-		{
-
-
-
-			"user": "Olympique Marseille vs Lorient SD",
-			"pageUrl": "https://sos.moukrasa.xyz/live/10011244/index.m3u8",
-			"type": "France - Ligue 1⚽️ ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/French-Ligue-1-logo.png"
-		},
-		{
-
-
-
-			"user": "Barcelona vs Valencia SD",
-			"pageUrl": "https://sos.moukrasa.xyz/live/88824257/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://cdn.freelogovectors.net/wp-content/uploads/2020/08/laligalogo.png"
-		},
-		{
-
-
-			"user": "Barcelona vs Valencia HD1",
-			"pageUrl": "https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://cdn.freelogovectors.net/wp-content/uploads/2020/08/laligalogo.png"
-		},
-		{
-
-
-			"user": "Barcelona vs Valencia HD2",
-			"pageUrl": "https://sos.moukrasa.xyz/live/978488877/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://cdn.freelogovectors.net/wp-content/uploads/2020/08/laligalogo.png"
-		},
-		{
-			"user": "LIVE SPORTS 2",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8",
-			"type": "SPORTS 2 ⚽️ ",
-			"webFormatUrl": "https://cdn.freebiesupply.com/logos/large/2x/sports-logo-png-transparent.png"
-		}
+	
 
 	]
 
