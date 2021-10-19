@@ -31,8 +31,15 @@
 		},
 		
 		{
-			"user": "Beşiktaş vs Sporting CP  HD",
-			"pageUrl": "http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2246.m3u8",
+			"user": "Beşiktaş vs Sporting CP  HD1",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m1/index.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+{
+			"user": "Beşiktaş vs Sporting CP  HD2",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m1/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
