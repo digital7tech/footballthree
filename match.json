@@ -6,31 +6,39 @@
 		
 {
 			"user": "Club Brugge vs Manchester City  HD1",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://5.182.229.75:8080/2505/index.m3u8?token=test",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 		{
 			"user": "Club Brugge vs Manchester City  HD2",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2302.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},{
+		},
+
+{
+			"user": "Club Brugge vs Manchester City  HD3",
+			"pageUrl": "http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2302.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+{
 			"user": "Club Brugge vs Manchester City  SD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://sos.moukrasa.xyz/live/88824257/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 		
 		{
-			"user": "Beşiktaş vs Sporting CP  SD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Beşiktaş vs Sporting CP  HD",
+			"pageUrl": "http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2246.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 		{
-			"user": "Beşiktaş vs Sporting CP  HD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Beşiktaş vs Sporting CP  SD",
+			"pageUrl": "https://sos.moukrasa.xyz/live/79481245/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
