@@ -65,7 +65,7 @@
 		},
 		{
 			"user": "Chelsea vs Malmö FF  HD2",
-			"pageUrl": "http://srv12.varcdn1.ru:80/m2/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/122233888/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -73,13 +73,13 @@
 
 		{
 			"user": "Chelsea vs Malmö FF  SD1",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/79481245/index.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/122233888/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 		{
 			"user": "Chelsea vs Malmö FF  SD2",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/819797877/index.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/122233888/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
