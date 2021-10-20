@@ -105,13 +105,13 @@
 		},
 		{
 			"user": "Young Boys vs Villarreal  HD1",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 		{
 			"user": "Young Boys vs Villarreal  HD2",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -119,7 +119,7 @@
 
 		{
 			"user": "Young Boys vs Villarreal SD",
-			"pageUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
