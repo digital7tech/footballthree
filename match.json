@@ -7,7 +7,7 @@
 {
 	
 			"user": "Benfica vs Bayern München  HD1",
-			"pageUrl": "http://93.152.174.144:4000/play/btsportespn/index.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T1.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -111,7 +111,7 @@
 		},
 		{
 			"user": "Young Boys vs Villarreal  HD2",
-			"pageUrl": "https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
