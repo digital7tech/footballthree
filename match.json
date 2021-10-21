@@ -7,13 +7,13 @@
 
 {
 			"user": "HJK vs Maccabi Tel Aviv SD",
-			"pageUrl": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8",
+			"pageUrl": "http://93.157.62.180/ArenaSport3/index.m3u8",
 			"type": "Europe - UEFA Europa Conference League ⚽️ ",
 			"webFormatUrl": "https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png"
 		},
 		{
 			"user": "HJK vs Maccabi Tel Aviv HD",
-			"pageUrl": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8",
+			"pageUrl": "http://srv12.varcdn1.ru:80/m1/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Europa Conference League ⚽️ ",
 			"webFormatUrl": "https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png"
 		},
