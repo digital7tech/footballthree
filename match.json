@@ -11,7 +11,7 @@
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
-	{
+		{
 
 
 			"user": "Chelsea vs Norwich SD2",
@@ -20,7 +20,7 @@
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
-	{
+		{
 
 
 			"user": "Chelsea vs Norwich SD3(ENGLISH)",
@@ -29,7 +29,7 @@
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
-	{
+		{
 
 
 			"user": "Chelsea vs Norwich HD1",
@@ -38,7 +38,7 @@
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
-	{
+		{
 
 
 			"user": "Chelsea vs Norwich HD2",
@@ -46,7 +46,7 @@
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-		
+
 		{
 
 
@@ -64,24 +64,25 @@
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
 		{
-		        "user": "Salernitana vs Empoli HD1",
+			"user": "Salernitana vs Empoli HD1",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Salernitana vs Empoli HD2",
+			"user": "Salernitana vs Empoli HD2",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Salernitana vs Empoli HD3",
+			"user": "Salernitana vs Empoli HD3",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png""
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+
 		},
-{
+		{
 
 
 			"user": "Wolfsburg vs Freiburg HD",
@@ -114,7 +115,7 @@
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
 
-		
+
 		{
 
 
@@ -179,7 +180,7 @@
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-		
+
 		{
 
 
@@ -197,13 +198,13 @@
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
 		{
-		        "user": "Sassuolo vs Venezia HD1",
+			"user": "Sassuolo vs Venezia HD1",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Sassuolo vs Venezia HD2",
+			"user": "Sassuolo vs Venezia HD2",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
@@ -217,7 +218,7 @@
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
-	{
+		{
 
 
 			"user": "Brighton vs Manchester City SD2",
@@ -226,7 +227,7 @@
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
-	{
+		{
 
 
 			"user": "Brighton vs Manchester City SD3(ENGLISH)",
@@ -235,7 +236,7 @@
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
-	{
+		{
 
 
 			"user": "Brighton vs Manchester City HD1",
@@ -244,7 +245,7 @@
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
-	{
+		{
 
 
 			"user": "Brighton vs Manchester City HD2",
@@ -271,7 +272,7 @@
 		{
 
 
-			"user": "	Hertha BSC vs Borussia M'gladbach HD1",
+			"user": "Hertha BSC vs Borussia M'gladbach HD1",
 			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
@@ -279,19 +280,19 @@
 		{
 
 
-			"user": "	Hertha BSC vs Borussia M'gladbach HD2",
+			"user": "Hertha BSC vs Borussia M'gladbach HD2",
 			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
-{
-		        "user": "Bologna vs Milan HD1",
+		{
+			"user": "Bologna vs Milan HD1",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Bologna vs Milan HD2",
+			"user": "Bologna vs Milan HD2",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
@@ -312,7 +313,7 @@
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
-	{
+		{
 			"user": "FOOTBALL SPORTS",
 			"pageUrl": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8",
 			"type": "SPORTS 2 ⚽️ ",
