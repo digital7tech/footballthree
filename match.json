@@ -42,15 +42,15 @@
 
 		{
 		        "user": "	Olympique Marseille vs PSG HD",
-			"pageUrl": "http://5.182.229.75:8080/2506/index.m3u8?token=test",
+			"pageUrl": "http://5.182.229.75:8080/2505/index.m3u8?token=test",
 			"type": "France - Ligue 1 ⚽️ ",
 			"webFormatUrl": "https://mpng.subpng.com/20180613/bah/kisspng-france-ligue-1-premier-league-serie-a-paris-saint-kodi-5b209d5b467785.8204974515288640912887.jpg"
 		},
 {
 
 
-			"user": "Atlético Madrid vs Real Sociedad SD",
-			"pageUrl": "http://ctn.bounbrzouw.xyz/live/978488877/index.m3u8",
+			"user": "Atlético Madrid vs Real Sociedad HD",
+			"pageUrl": "http://93.157.62.180/Supersport2/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -58,8 +58,8 @@
 {
 
 
-			"user": "Atlético Madrid vs Real Sociedad HD1",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/918454578/index.m3u8",
+			"user": "Atlético Madrid vs Real Sociedad SD1",
+			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/978488877/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -67,8 +67,8 @@
 		{
 
 
-			"user": "Atlético Madrid vs Real Sociedad HD2",
-			"pageUrl": "http://93.157.62.180/Supersport2/index.m3u8",
+			"user": "Atlético Madrid vs Real Sociedad SD2",
+			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/31009988/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
