@@ -3,12 +3,7 @@
 	"hits": [
 
 
-	{
-		        "user": "Nice vs Olympique Lyonnais HD1",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/10011244/index.m3u8",
-			"type": "France - Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://mpng.subpng.com/20180613/bah/kisspng-france-ligue-1-premier-league-serie-a-paris-saint-kodi-5b209d5b467785.8204974515288640912887.jpg"
-		},
+
 		
 		{
 
@@ -141,7 +136,7 @@
 
 
 			"user": "Barcelona vs Real Madrid SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/978488877/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -149,7 +144,7 @@
 
 
 			"user": "Barcelona vs Real Madrid HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -158,7 +153,7 @@
 
 
 			"user": "Barcelona vs Real Madrid HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
