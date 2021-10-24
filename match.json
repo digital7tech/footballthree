@@ -1,32 +1,9 @@
 {
 
 	"hits": [
-	{
-		        "user": "Atalanta vs Udinese HD1",
-			"pageUrl": "http://5.182.229.75:8080/2505/index.m3u8?token=test",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-		        "user": "Atalanta vs Udinese HD2",
-			"pageUrl": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-		        "user": "Atalanta vs Udinese HD3",
-			"pageUrl": "http://95.107.132.106/out/u/683_2.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
 
-{
-		        "user": "Atalanta vs Udinese HD4",
-			"pageUrl": "https://95-213-224-186.livesports24.online/setantaplusru.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
+
+	{
 		        "user": "Nice vs Olympique Lyonnais HD1",
 			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/10011244/index.m3u8",
 			"type": "France - Ligue 1 ⚽️ ",
@@ -54,15 +31,15 @@
 
 
 			"user": "West Ham United vs Tottenham Hotspur SD1 ",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/6161655/index.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/88824257/index.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
 
-			"user": "West Ham United vs Tottenham Hotspur SD2 ",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/6161655/index.m3u8",
+			"user": "West Ham United vs Tottenham Hotspur SD2(ENGLISH) ",
+			"pageUrl": "https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -78,7 +55,7 @@
 
 
 			"user": "West Ham United vs Tottenham Hotspur HD2 ",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/6161655/index.m3u8",
+			"pageUrl": "https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -88,15 +65,15 @@
 
 
 			"user": "Brentford vs Leicester City SD1",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/79481245/index.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 			{
 
 
-			"user": "Brentford vs Leicester City SD1",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8",
+			"user": "Brentford vs Leicester City SD2",
+			"pageUrl": "https://www.livedoomovie.com/02_PremierHD3_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -104,18 +81,19 @@
 
 
 			"user": "Brentford vs Leicester City HD1",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8",
+			"pageUrl": "https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 			{
 
 
-			"user": "Brentford vs Leicester City HD2",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8",
+			"user": "Brentford vs Leicester City HD2(English)",
+			"pageUrl": "http://93.152.174.144:4000/play/skysports5/index.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+		
 		
 	{
 		        "user": "Fiorentina vs Cagliari HD1",
