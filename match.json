@@ -8,77 +8,7 @@
 
 		
 
-			{
-		        "user": "Internazionale vs Juventus HD1",
-			"pageUrl": "http://5.182.229.75:8080/2505/index.m3u8?token=test",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-		        "user": "Internazionale vs Juventus HD2",
-			"pageUrl": "http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-		        "user": "Internazionale vs Juventus HD3",
-			"pageUrl": "http://95.107.132.106/out/u/683_2.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-
-{
-		        "user": "Internazionale vs Juventus HD4",
-			"pageUrl": "http://srv12.varcdn1.ru:80/m1/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-		        "user": "	Olympique Marseille vs PSG SD1",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/97848484/index.m3u8",
-			"type": "France - Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://mpng.subpng.com/20180613/bah/kisspng-france-ligue-1-premier-league-serie-a-paris-saint-kodi-5b209d5b467785.8204974515288640912887.jpg"
-		},
-
-{
-		        "user": "	Olympique Marseille vs PSG SD2",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/88824257/index.m3u8",
-			"type": "France - Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://mpng.subpng.com/20180613/bah/kisspng-france-ligue-1-premier-league-serie-a-paris-saint-kodi-5b209d5b467785.8204974515288640912887.jpg"
-		},
-
-		{
-		        "user": "	Olympique Marseille vs PSG HD",
-			"pageUrl": "http://5.182.229.75:8080/2505/index.m3u8?token=test",
-			"type": "France - Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://mpng.subpng.com/20180613/bah/kisspng-france-ligue-1-premier-league-serie-a-paris-saint-kodi-5b209d5b467785.8204974515288640912887.jpg"
-		},
-{
-
-
-			"user": "Atlético Madrid vs Real Sociedad HD",
-			"pageUrl": "http://93.157.62.180/Supersport2/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-
-{
-
-
-			"user": "Atlético Madrid vs Real Sociedad SD1",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/978488877/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-
-		{
-
-
-			"user": "Atlético Madrid vs Real Sociedad SD2",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/31009988/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
+	
 		
 		{
 			"user": "FOOTBALL SPORTS",
