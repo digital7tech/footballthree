@@ -3,25 +3,32 @@
 	"hits": [
 	{
 		        "user": "Atalanta vs Udinese HD1",
-			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
+			"pageUrl": "http://5.182.229.75:8080/2505/index.m3u8?token=test",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
 		        "user": "Atalanta vs Udinese HD2",
-			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
+			"pageUrl": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
 		        "user": "Atalanta vs Udinese HD3",
-			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
+			"pageUrl": "http://95.107.132.106/out/u/683_2.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png""
+		},
+
+{
+		        "user": "Atalanta vs Udinese HD4",
+			"pageUrl": "https://95-213-224-186.livesports24.online/setantaplusru.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png""
 		},
 		{
 		        "user": "Nice vs Olympique Lyonnais HD1",
-			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/10011244/index.m3u8",
 			"type": "France - Ligue 1 ⚽️ ",
 			"webFormatUrl": "https://mpng.subpng.com/20180613/bah/kisspng-france-ligue-1-premier-league-serie-a-paris-saint-kodi-5b209d5b467785.8204974515288640912887.jpg"
 		},
@@ -30,7 +37,7 @@
 
 
 			"user": "Sevilla vs Levante SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/161988840/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -38,7 +45,7 @@
 
 
 			"user": "Sevilla vs Levante HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
