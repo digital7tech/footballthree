@@ -7,49 +7,7 @@
 		
 		
 		
-{
 
-
-			"user": "Köln vs Bayer Leverkusen HD",
-			"pageUrl": "https://95-213-224-186.livesports24.online/setantaplusru.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Barcelona vs Real Madrid SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/31009988/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-	
-		{
-
-
-			"user": "Barcelona vs Real Madrid SD3",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/978488877/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-
-		{
-
-
-			"user": "Barcelona vs Real Madrid HD1",
-			"pageUrl": "https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-		
-		{
-
-
-			"user": "Barcelona vs Real Madrid HD2",
-			"pageUrl": "http://ctn.bounbrzouw.xyz/live/918454578/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
 
 
 
@@ -73,8 +31,8 @@
 	{
 
 
-			"user": "Manchester United vs Liverpool SD2(ENGLISH)",
-			"pageUrl": "https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
+			"user": "Manchester United vs Liverpool SD2",
+			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/97848484/index.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
