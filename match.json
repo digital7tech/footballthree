@@ -2,26 +2,6 @@
 
 	"hits": [
 
-
-
-		
-		{
-
-
-			"user": "Sevilla vs Levante SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/161988840/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-		{
-
-
-			"user": "Sevilla vs Levante HD",
-			"pageUrl": "http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-
 {
 
 
@@ -153,7 +133,7 @@
 
 
 			"user": "Barcelona vs Real Madrid HD2",
-			"pageUrl": "http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8",
+			"pageUrl": "http://ctn.bounbrzouw.xyz/live/918454578/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
