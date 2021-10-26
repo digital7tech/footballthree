@@ -3,54 +3,7 @@
 	"hits": [
 
 
-		{
-			"user": "Spezia vs Genoa HD1",
-			"pageUrl": "http://5.182.229.75:8080/2506/index.m3u8?token=test",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-			"user": "Spezia vs Genoa HD2",
-			"pageUrl": "https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-
-
-		{
-			"user": "Spezia vs Genoa HD3",
-			"pageUrl": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-
-{
-			"user": "Spezia vs Genoa HD4",
-			"pageUrl": "http://95.107.132.106/out/u/683_2.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-
-		{
-			"user": "Venezia vs Salernitana HD1",
-			"pageUrl": "https://95-213-224-186.livesports24.online/setantaplusru.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-			"user": "Venezia vs Salernitana HD2",
-			"pageUrl": "http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-
-
-	{
-			"user": "Venezia vs Salernitana HD3",
-			"pageUrl": "http://95.107.132.106/out/u/692_2.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},	
+	
 
 {
 			"user": "Babelsberg vs RB Leipzig HD",
