@@ -2,61 +2,7 @@
 
 	"hits": [
 
-		{
-			"user": "Juventus vs Sassuolo HD1",
-			"pageUrl": "http://5.182.229.75:8080/2505/index.m3u8?token=test",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-			"user": "Juventus vs Sassuolo HD2",
-			"pageUrl": "http://srv12.varcdn1.ru:80/m1/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-			"user": "Juventus vs Sassuolo HD3",
-			"pageUrl": "http://95.107.132.106/out/u/683_2.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-			"user": "Sampdoria vs Atalanta HD1",
-			"pageUrl": "http://5.182.229.75:8080/2506/index.m3u8?token=test",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-			"user": "Sampdoria vs Atalanta HD2",
-			"pageUrl": "http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-			"user": "Sampdoria vs Atalanta HD3",
-			"pageUrl": "http://95.107.132.106/out/u/692_2.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-			"user": "Udinese vs Hellas Verona HD1",
-			"pageUrl": "http://95.107.132.106/out/u/699_2.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-			"user": "Udinese vs Hellas Verona HD2",
-			"pageUrl": "http://93.152.174.144:4000/play/btsport3/index.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-			"user": "Bayer Leverkusen vs Karlsruher SC HD",
-			"pageUrl": "http://srv12.varcdn1.ru:80/m3/tracks-v1a1/mono.m3u8",
-			"type": "Germany - DFB Pokal ⚽️ ",
-			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
-
-		},
+		
 
 		{
 
