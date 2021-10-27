@@ -1,62 +1,63 @@
 {
 
 	"hits": [
-		
+
 		{
-		        "user": "Juventus vs Sassuolo HD1",
+			"user": "Juventus vs Sassuolo HD1",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Juventus vs Sassuolo HD2",
+			"user": "Juventus vs Sassuolo HD2",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Juventus vs Sassuolo HD3",
+			"user": "Juventus vs Sassuolo HD3",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Sampdoria vs Atalanta HD1",
+			"user": "Sampdoria vs Atalanta HD1",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Sampdoria vs Atalanta HD2",
+			"user": "Sampdoria vs Atalanta HD2",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Sampdoria vs Atalanta HD3",
-			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-{
-		        "user": "Udinese vs Hellas Verona HD1",
+			"user": "Sampdoria vs Atalanta HD3",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Udinese vs Hellas Verona HD2",
+			"user": "Udinese vs Hellas Verona HD1",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Bayer Leverkusen vs Karlsruher SC HD",
+			"user": "Udinese vs Hellas Verona HD2",
+			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+			"user": "Bayer Leverkusen vs Karlsruher SC HD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Germany - DFB Pokal ⚽️ ",
-			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg""
+			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
+
 		},
-		
+
 		{
 
 
@@ -65,7 +66,7 @@
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
-		
+
 		{
 
 
@@ -82,7 +83,7 @@
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
-		
+
 		{
 
 
@@ -99,7 +100,7 @@
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
-		
+
 		{
 
 
@@ -111,135 +112,135 @@
 
 
 		{
-		        "user": "Borussia Dortmund vs Ingolstadt HD",
+			"user": "Borussia Dortmund vs Ingolstadt HD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Germany - DFB Pokal⚽️ ",
 			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
 		},
 		{
-		        "user": "Burnley vs Tottenham Hotspur SD",
+			"user": "Burnley vs Tottenham Hotspur SD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "England - League Cup⚽️ ",
 			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
 		},
 		{
-		        "user": "Burnley vs Tottenham Hotspur HD",
+			"user": "Burnley vs Tottenham Hotspur HD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "England - League Cup⚽️ ",
 			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
 		},
 		{
-		        "user": "West Ham United vs Manchester City SD",
+			"user": "West Ham United vs Manchester City SD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "England - League Cup⚽️ ",
 			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
 		},
 		{
-		        "user": "West Ham United vs Manchester City HD",
+			"user": "West Ham United vs Manchester City HD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "England - League Cup⚽️ ",
 			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
 		},
 		{
-		        "user": "Leicester City vs Brighton SD",
+			"user": "Leicester City vs Brighton SD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "England - League Cup⚽️ ",
 			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
 		},
 		{
-		        "user": "Leicester City vs Brighton HD",
+			"user": "Leicester City vs Brighton HD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "England - League Cup⚽️ ",
 			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
 		},
 		{
-		        "user": "Preston North End vs Liverpool SD",
+			"user": "Preston North End vs Liverpool SD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "England - League Cup⚽️ ",
 			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
 		},
 		{
-		        "user": "Preston North End vs Liverpool HD",
+			"user": "Preston North End vs Liverpool HD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "England - League Cup⚽️ ",
 			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
 		},
 		{
-		        "user": "Stoke City vs Brentford SD",
+			"user": "Stoke City vs Brentford SD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "England - League Cup⚽️ ",
 			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
 		},
 		{
-		        "user": "Stoke City vs Brentford HD",
+			"user": "Stoke City vs Brentford HD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "England - League Cup⚽️ ",
 			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
 		},
 
 
-{
-		        "user": "Empoli vs Internazionale HD1",
+		{
+			"user": "Empoli vs Internazionale HD1",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Empoli vs Internazionale HD2",
+			"user": "Empoli vs Internazionale HD2",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Empoli vs Internazionale HD3",
+			"user": "Empoli vs Internazionale HD3",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Lazio vs Fiorentina HD1",
+			"user": "Lazio vs Fiorentina HD1",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Lazio vs Fiorentina HD2",
+			"user": "Lazio vs Fiorentina HD2",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Lazio vs Fiorentina HD3",
-			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-{
-		        "user": "Cagliari vs Roma  HD1",
+			"user": "Lazio vs Fiorentina HD3",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 		{
-		        "user": "Cagliari vs Roma HD2",
+			"user": "Cagliari vs Roma  HD1",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
-		
 		{
-		        "user": "Borussia M'gladbach vs Bayern München HD",
+			"user": "Cagliari vs Roma HD2",
+			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+
+		{
+			"user": "Borussia M'gladbach vs Bayern München HD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "Germany - DFB Pokal⚽️ ",
 			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
 		},
 		{
-		        "user": "Nice vs Olympique Marseille HD",
+			"user": "Nice vs Olympique Marseille HD",
 			"pageUrl": "https://smart-tv.livedoomovie.com/02_PremierHD2_480/chunklist.m3u8",
 			"type": "France - Ligue 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png"
 		},
-		
+
 		{
 
 
@@ -248,7 +249,7 @@
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
-		
+
 		{
 
 
@@ -257,9 +258,9 @@
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
-{
+		{
 
-	
+
 
 
 			"user": "FOOTBALL SPORTS",
