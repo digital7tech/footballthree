@@ -48,7 +48,7 @@
 
 
 			"user": "Elche vs Real Madrid SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/88824257/index.m3u8",
+			"pageUrl": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -56,7 +56,7 @@
 
 
 			"user": "Elche vs Real Madrid   HD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/6161655/index.m3u8",
+			"pageUrl": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
