@@ -30,7 +30,7 @@
 
 
 			"user": "Leicester City vs Arsenal HD2",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/79481245/index.m3u8",
+			"pageUrl": "http://5.182.229.75:8080/2505/index.m3u8?token=test",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
