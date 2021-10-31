@@ -6,22 +6,7 @@
 		
 
 		
-		{
 
-
-			"user": "Getafe vs Espanyol SD",
-			"pageUrl": "http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-		{
-
-
-			"user": "Getafe vs Espanyol  HD",
-			"pageUrl": "http://77.247.109.92/hls/W1.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
 		{
 
 
@@ -42,18 +27,10 @@
 
 
 			"user": "	Roma vs Milan HD3",
-			"pageUrl": "http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-
-			"user": "	Roma vs Milan HD4",
 			"pageUrl": "http://95.107.132.106/out/u/684_1.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
+},
 		
 		{
 
