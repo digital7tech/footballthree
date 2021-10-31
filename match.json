@@ -97,10 +97,19 @@
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 
-		{
+{
 
 
 			"user": "	Fiorentina vs Spezia HD1",
+			"pageUrl": "http://185.53.89.183/hls/bt2.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+
+		{
+
+
+			"user": "	Fiorentina vs Spezia HD2",
 			"pageUrl": "https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
@@ -108,7 +117,7 @@
 		{
 
 
-			"user": "	Fiorentina vs Spezia HD2",
+			"user": "	Fiorentina vs Spezia HD3",
 			"pageUrl": "http://95.107.132.106/out/u/683_2.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
@@ -116,7 +125,7 @@
 		{
 
 
-			"user": "	Fiorentina vs Spezia HD3",
+			"user": "	Fiorentina vs Spezia HD4",
 			"pageUrl": "http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
