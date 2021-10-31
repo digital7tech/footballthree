@@ -3,38 +3,7 @@
 	"hits": [
 
 
-		{
-
-
-			"user": "Internazionale vs Udinese HD1",
-			"pageUrl": "http://185.53.89.183/hls/bt1.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-
-			"user": "Internazionale vs Udinese HD2",
-			"pageUrl": "http://95.107.132.106/out/u/683_2.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-
-			"user": "Internazionale vs Udinese HD3",
-			"pageUrl": "https://bal.varcdn1.ru/lb/setanta1/index.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-
-			"user": "Internazionale vs Udinese HD4",
-			"pageUrl": "http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
+		
 		{
 
 
@@ -51,12 +20,21 @@
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
+
+{
+
+
+			"user": "Norwich City vs Leeds United SD1",
+			"pageUrl": "https://www.wopep.com/02_PremierHD1_480p/chunklist.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 		
 	{
 
 
-			"user": "Norwich City vs Leeds United SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Norwich City vs Leeds United SD2(English)",
+			"pageUrl": "https://www.wopep.com/02_PremierHD2_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -64,7 +42,7 @@
 
 
 			"user": "Norwich City vs Leeds United HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -72,7 +50,7 @@
 
 
 			"user": "Norwich City vs Leeds United HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -82,7 +60,7 @@
 
 
 			"user": "Genoa vs Venezia HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://93.152.174.144:4000/play/btsportespn/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -90,7 +68,7 @@
 
 
 			"user": "Genoa vs Venezia HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://95.107.132.106/out/u/692_2.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -98,7 +76,7 @@
 
 
 			"user": "	Sassuolo vs Empoli HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -106,15 +84,24 @@
 
 
 			"user": "	Sassuolo vs Empoli HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://93.157.62.180:80/ArenaSport1/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
+{
+
+
+			"user": "	Sassuolo vs Empoli HD3",
+			"pageUrl": "http://95.107.132.106/out/u/699_2.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+
 		{
 
 
 			"user": "	Fiorentina vs Spezia HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -122,7 +109,15 @@
 
 
 			"user": "	Fiorentina vs Spezia HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://95.107.132.106/out/u/683_2.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+
+			"user": "	Fiorentina vs Spezia HD3",
+			"pageUrl": "http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
