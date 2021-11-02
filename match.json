@@ -50,24 +50,24 @@
 {
 
 
-	               "user": "Sevilla vs Lille  HD1",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
+	               "user": "Sevilla vs Lille  SD",
+			"pageUrl": "http://b12.amaniyouhra.xyz/live/5151400337/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
 		{
 
 
-	               "user": "Sevilla vs Lille HD2",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
+	               "user": "Sevilla vs Lille HD",
+			"pageUrl": "http://b12.amaniyouhra.xyz/live/5151400337/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
 		{
 
 
-	               "user": "Juventus vs Zenit  HD1",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
+	               "user": "Juventus vs Zenit  SD",
+			"pageUrl": "http://b12.amaniyouhra.xyz/live/500025558/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -75,39 +75,48 @@
 
 
 	               "user": "Juventus vs Zenit HD2",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
+			"pageUrl": "http://b12.amaniyouhra.xyz/live/9962564400/index.m3u8#EXTINF:-1",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
 		{
 
 
-	               "user": "Atalanta vs Manchester United  HD1",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
+	               "user": "Atalanta vs Manchester United  SD",
+			"pageUrl": "http://b12.amaniyouhra.xyz/live/8882425700/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
 		{
 
 
-	               "user": "Atalanta vs Manchester United HD2",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
+	               "user": "Atalanta vs Manchester United HD1",
+			"pageUrl": "http://b12.amaniyouhra.xyz/live/616165500/index.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
+		},
+
+
+{
+
+
+	               "user": "Atalanta vs Manchester United HD2(ENGLISH)",
+			"pageUrl": "http://185.53.89.183/hls/bt2.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
+		},		{
+
+
+	               "user": "Bayern München vs Benfica  SD",
+			"pageUrl": "http://b12.amaniyouhra.xyz/live/1798855800/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
 		{
 
 
-	               "user": "Bayern München vs Benfica  HD1",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
-		},
-		{
-
-
-	               "user": "Bayern München vs Benfica HD2",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
+	               "user": "Bayern München vs Benfica HD",
+			"pageUrl": "http://95.107.132.106/out/u/699_2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -115,7 +124,7 @@
 
 
 	               "user": "	Villarreal vs Young Boys HD1",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
+			"pageUrl": "http://93.157.62.180:80/ArenaSport3/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -123,7 +132,15 @@
 
 
 	               "user": "	Villarreal vs Young Boys HD2",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
+			"pageUrl": "http://93.157.62.180:80/ArenaSport3/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
+		},
+		{
+
+
+	               "user": "	Dynamo Kyiv vs Barcelona SD",
+			"pageUrl": "http://b12.amaniyouhra.xyz/live/7948124500/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -131,15 +148,16 @@
 
 
 	               "user": "	Dynamo Kyiv vs Barcelona HD1",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
+			"pageUrl": "http://b12.amaniyouhra.xyz/live/61619498700/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
+
 		{
 
 
-	               "user": "	Dynamo Kyiv vs Barcelona HD2",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
+	               "user": "	Dynamo Kyiv vs Barcelona HD2(Enlgish)",
+			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
