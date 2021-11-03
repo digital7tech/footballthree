@@ -66,15 +66,15 @@
 
 
 	               "user": "Liverpool vs Atlético Madrid SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/50002558/index.m3u8",
+			"pageUrl": "http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
 		{
 
 
-	               "user": "Liverpool vs Atlético Madrid HD1",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/50002558/index.m3u8",
+	               "user": "Liverpool vs Atlético Madrid HD1(English)",
+			"pageUrl": "http://185.53.89.183/hls/bt2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -82,7 +82,7 @@
 
 
 	               "user": "Liverpool vs Atlético Madrid HD2",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/50002558/index.m3u8",
+			"pageUrl": "http://95.107.132.106/out/u/683_2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -90,23 +90,33 @@
 
 
 	               "user": "RB Leipzig vs PSG SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/50002558/index.m3u8",
+			"pageUrl": "http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
 		{
 
 
-	               "user": "RB Leipzig vs PSG HD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/50002558/index.m3u8",
+	               "user": "RB Leipzig vs PSG HD1(English)",
+			"pageUrl": "https://d81z7l13sqxel.cloudfront.net:443/stream/MTU2OQ==/1080p.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
+
+{
+
+
+	               "user": "RB Leipzig vs PSG HD2",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m1/index.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
+		},
+
 		{
 
 
 	               "user": "Sheriff vs Internazionale SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/50002558/index.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -114,7 +124,7 @@
 
 
 	               "user": "Sheriff vs Internazionale HD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/50002558/index.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/9962564400/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -122,7 +132,7 @@
 
 
 	               "user": "Borussia Dortmund vs Ajax SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/50002558/index.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/5151400337/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -130,7 +140,7 @@
 
 
 	               "user": "Borussia Dortmund vs Ajax HD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/50002558/index.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/880025552/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -138,15 +148,24 @@
 
 
 	               "user": "Manchester City vs Club Brugge SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/50002558/index.m3u8",
+			"pageUrl": "http://45.94.31.45/beinm16510/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
 		{
 
 
-	               "user": "Manchester City vs Club Brugge HD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/50002558/index.m3u8",
+	               "user": "Manchester City vs Club Brugge HD1",
+			"pageUrl": "http://45.94.31.45/beinm16510/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
+		},
+
+{
+
+
+	               "user": "Manchester City vs Club Brugge HD2(English)",
+			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -154,7 +173,7 @@
 
 
 	               "user": "Sporting CP vs Beşiktaş SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/50002558/index.m3u8",
+			"pageUrl": "http://93.157.62.180:80/ArenaSport3/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -162,7 +181,7 @@
 
 
 	               "user": "Sporting CP vs Beşiktaş HD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/50002558/index.m3u8",
+			"pageUrl": "http://93.157.62.180:80/ArenaSport3/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
