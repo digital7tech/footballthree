@@ -9,8 +9,8 @@
 {
 
 
-	               "user": "Liverpool vs Atlético Madrid SD1",
-			"pageUrl": "https://akamai2-br.cdn.booyah.live/hls/1500011/95222288.m3u8",
+	               "user": "Liverpool vs Atlético Madrid HD1",
+			"pageUrl": "https://google-me.cdn.booyah.live/hls/113134/93317448.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -20,16 +20,8 @@
 {
 
 
-	               "user": "Liverpool vs Atlético Madrid SD2",
-			"pageUrl": "http://c8.amanrouf.xyz/live/8882425700/index.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
-		},
-		{
-
-
-	               "user": "Liverpool vs Atlético Madrid HD1",
-			"pageUrl": "https://google-me.cdn.booyah.live/hls/113134/93317448.m3u8",
+	               "user": "Liverpool vs Atlético Madrid SD1",
+			"pageUrl": "https://akamai2-br.cdn.booyah.live/hls/1500011/95222288.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -37,6 +29,14 @@
 
 
 	               "user": "Liverpool vs Atlético Madrid HD2",
+			"pageUrl": "https://google-me.cdn.booyah.live/hls/113134/93317448.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
+		},
+		{
+
+
+	               "user": "Liverpool vs Atlético Madrid HD3",
 			"pageUrl": "http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
