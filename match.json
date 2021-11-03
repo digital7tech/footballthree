@@ -9,8 +9,19 @@
 {
 
 
-	               "user": "Liverpool vs Atlético Madrid SD",
+	               "user": "Liverpool vs Atlético Madrid SD1",
 			"pageUrl": "https://akamai2-br.cdn.booyah.live/hls/1500011/95222288.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
+		},
+
+
+
+{
+
+
+	               "user": "Liverpool vs Atlético Madrid SD2",
+			"pageUrl": "http://c8.amanrouf.xyz/live/8882425700/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -18,7 +29,7 @@
 
 
 	               "user": "Liverpool vs Atlético Madrid HD1",
-			"pageUrl": "http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://google-me.cdn.booyah.live/hls/113134/93317448.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -33,16 +44,16 @@
 		{
 
 
-	               "user": "RB Leipzig vs PSG SD",
-			"pageUrl": "http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8",
+	               "user": "RB Leipzig vs PSG HD1",
+			"pageUrl": "https://centurylink.br.cdn.booyah.live/hls/1000003/95266143.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
 		{
 
 
-	               "user": "RB Leipzig vs PSG HD1(English)",
-			"pageUrl": "https://d81z7l13sqxel.cloudfront.net:443/stream/MTU2OQ==/1080p.m3u8",
+	               "user": "RB Leipzig vs PSG HD2",
+			"pageUrl": "https://akamai2-br.cdn.booyah.live/hls/1000003/95266143.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
@@ -50,7 +61,7 @@
 {
 
 
-	               "user": "RB Leipzig vs PSG HD2",
+	               "user": "RB Leipzig vs PSG SD",
 			"pageUrl": "https://centurylink.br.cdn.booyah.live/hls/1500019/94768193.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
@@ -92,7 +103,7 @@
 
 
 	               "user": "Manchester City vs Club Brugge SD",
-			"pageUrl": "http://45.94.31.45/beinm16510/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://c8.amanrouf.xyz/live/1798855800/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png"
 		},
