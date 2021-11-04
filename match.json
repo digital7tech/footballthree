@@ -12,7 +12,7 @@
 		},
 		  {
 		        "user": "Monaco vs PSV HD",
-			"pageUrl": "http://stream.com-iptv.com:8080/SS3HD/index.m3u8?token=test",
+			"pageUrl": "http://77.247.109.111/hls/T3.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://1.bp.blogspot.com/-Na6SeYRZDFI/YJfZ4LxmizI/AAAAAAADAPM/6az3B3mlyOUB7ijRUXq41TXOQxgPeVT4QCNcBGAsYHQ/s1000/2021-europa-league-logo%2B%25283%2529.png"
 		},
@@ -48,7 +48,7 @@
 		},
       {
 		        "user": "Real Sociedad vs Sturm Graz HD1",
-			"pageUrl": "http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://1.bp.blogspot.com/-Na6SeYRZDFI/YJfZ4LxmizI/AAAAAAADAPM/6az3B3mlyOUB7ijRUXq41TXOQxgPeVT4QCNcBGAsYHQ/s1000/2021-europa-league-logo%2B%25283%2529.png"
 		},
