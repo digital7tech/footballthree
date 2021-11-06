@@ -7,78 +7,7 @@
 
 
 
-		{
-
-
-			"user": "Brighton  vs Newcastle United SD1",
-			"pageUrl": "https://eiei.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		  {
-
-
-			"user": "Brighton  vs Newcastle United SD2(English)",
-			"pageUrl": "https://eiei.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brighton  vs Newcastle United HD1",
-			"pageUrl": "https://google-me.cdn.booyah.live/hls/113137/85352637.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brighton  vs Newcastle United HD2",
-			"pageUrl": "https://eiei.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Deportivo Alavés vs Levante HD1",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-		},
-		{
-
-
-			"user": "Deportivo Alavés vs Levante HD2",
-			"pageUrl": "https://centurylink.br.cdn.booyah.live/hls/1000007/94372161.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-		},
-		{
-
-
-			"user": "	RB Leipzig vs Borussia Dortmund  HD1",
-			"pageUrl": "http://77.247.109.92/hls/k1.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "	RB Leipzig vs Borussia Dortmund  HD2",
-			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Cagliari vs Atalanta HD1",
-			"pageUrl": "http://77.247.109.92/hls/W1.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
+		
 		{
 
 
