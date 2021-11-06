@@ -2,23 +2,75 @@
         
 
 
-
+{
+            "name": "Manchester United vs Manchester City",
+            "description":"",
+            "Rating": "13;30",
+            "episode": 1,
+            "categorie":"England - Premier League",
+            "studio":"England - Premier League",
+            "img": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+        },
 
 
 {
-            "name": "Mallorca vs Espanyol",
+            "name": "Espanyol vs Granada",
             "description":"",
-            "Rating": "19;00",
+            "Rating": "14;00",
             "episode": 1,
             "categorie":"Spain - La Liga",
             "studio":"Spain - La Liga",
             "img": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
         },
-       
-        {
-            "name": "Valencia vs Deportivo Alavés",
+          {
+            "name": "	Spezia vs Torino",
             "description":"",
-            "Rating": "21:00",
+            "Rating": "15:00",
+            "episode": 1,
+            "categorie":"Italy - Serie A",
+            "studio":"Italy - Serie A",
+            "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+        },
+         {
+            "name": "Bayern München vs Freiburg",
+            "description":"",
+            "Rating": "15:30",
+            "episode": 1,
+            "categorie":"German- Bundesliga",
+            "studio":"German Bundesliga",
+            "img": "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+        },
+         {
+            "name": "Wolfsburg vs Augsburg ",
+            "description":"",
+            "Rating": "15:30",
+            "episode": 1,
+            "categorie":"German- Bundesliga",
+            "studio":"German Bundesliga",
+            "img": "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+        },
+         {
+            "name": "Bochum vs Hoffenheim",
+            "description":"",
+            "Rating": "15:30",
+            "episode": 1,
+            "categorie":"German- Bundesliga",
+            "studio":"German Bundesliga",
+            "img": "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+        },
+          {
+            "name": "	Stuttgart vs Arminia Bielefeld",
+            "description":"",
+            "Rating": "15:30",
+            "episode": 1,
+            "categorie":"German- Bundesliga",
+            "studio":"German Bundesliga",
+            "img": "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+        },
+        {
+            "name": "	Celta de Vigo vs Barcelona",
+            "description":"",
+            "Rating": "16:15",
             "episode": 1,
             "categorie":"Spain - La Liga",
             "studio":"Spain - La Liga",
@@ -34,30 +86,92 @@
             "studio":"Italy - Serie A",
             "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
         },
-          {
-            "name": "Verona vs Inter",
+        
+
+     {
+            "name": "Chelsea vs Burnley",
             "description":"",
-            "Rating": "19:45",
+            "Rating": "16:00",
+            "episode": 1,
+            "categorie":"England - Premier League",
+            "studio":"England - Premier League",
+            "img": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+        },
+        {
+            "name": "Brentford vs Norwich City",
+            "description":"",
+            "Rating": "16:00",
+            "episode": 1,
+            "categorie":"England - Premier League",
+            "studio":"England - Premier League",
+            "img": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+        },
+        {
+            "name": "Crystal Palace vs Wolves ",
+            "description":"",
+            "Rating": "16;00",
+            "episode": 1,
+            "categorie":"England - Premier League",
+            "studio":"England - Premier League",
+            "img": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+        },   {
+            "name": "Juventus vs Fiorentina",
+            "description":"",
+            "Rating": "18:00",
             "episode": 1,
             "categorie":"Italy - Serie A",
             "studio":"Italy - Serie A",
             "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
         },
-
-       {
-            "name": "Borussia Dortmund vs Hoffenheim",
+         {
+            "name": "Brighton  vs Newcastle United",
             "description":"",
-            "Rating": "19:45",
+            "Rating": "18:30",
+            "episode": 1,
+            "categorie":"England - Premier League",
+            "studio":"England - Premier League",
+            "img": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+        },
+           {
+            "name": "	Deportivo Alavés vs Levante",
+            "description":"",
+            "Rating": "18:30",
+            "episode": 1,
+            "categorie":"Spain - La Liga",
+            "studio":"Spain - La Liga",
+            "img": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+        },
+          {
+            "name": "	RB Leipzig vs Borussia Dortmund",
+            "description":"",
+            "Rating": "18:30",
             "episode": 1,
             "categorie":"German- Bundesliga",
             "studio":"German Bundesliga",
             "img": "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
         },
-
-{
-            "name": "Nantes vs Lyon",
+         {
+            "name": "Cagliari vs Atalanta ",
             "description":"",
-            "Rating": "19:45",
+            "Rating": "20:45",
+            "episode": 1,
+            "categorie":"Italy - Serie A",
+            "studio":"Italy - Serie A",
+            "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+        },
+          {
+            "name": "		Real Madrid vs Rayo Vallecano",
+            "description":"",
+            "Rating": "21:00",
+            "episode": 1,
+            "categorie":"Spain - La Liga",
+            "studio":"Spain - La Liga",
+            "img": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+        },
+{
+            "name": "Bordeaux vs PSG ",
+            "description":"",
+            "Rating": "21:00",
             "episode": 1,
             "categorie":"Uber Eat ligue 1",
             "studio":"French League",
