@@ -115,15 +115,15 @@
 
 
 			"user": "	Chelsea vs Burnley SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://eiei.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		  {
 
 
-			"user": "	Chelsea vs Burnley SD2(English)",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "	Chelsea vs Burnley SD2",
+			"pageUrl": "https://eiei.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -131,7 +131,7 @@
 
 
 			"user": "	Chelsea vs Burnley HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -139,11 +139,55 @@
 
 
 			"user": "	Chelsea vs Burnley HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-    {
+    
+	   	
+  {
+
+
+			"user": "Crystal Palace vs Wolves SD1",
+			"pageUrl": "https://eiei.livedoomovie.com/02_PremierHD3_480p/chunklist.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Crystal Palace vs Wolves HD1",
+			"pageUrl": "http://45.94.31.45/beinm16510/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+
+{
+
+
+			"user": "Crystal Palace vs Wolves HD2",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS5HD/index.m3u8?token=test",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		 {
+
+
+			"user": "Brentford vs Norwich City SD1",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Brentford vs Norwich City HD1",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/9962564400/index.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+
+{
 
 
 			"user": "Celta de Vigo vs Barcelona HD1",
@@ -158,39 +202,6 @@
 			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-		},
-	   	
-  {
-
-
-			"user": "Crystal Palace vs Wolves SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Crystal Palace vs Wolves HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		 {
-
-
-			"user": "Brentford vs Norwich City SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brentford vs Norwich City HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
