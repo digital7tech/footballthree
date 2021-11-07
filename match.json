@@ -5,45 +5,22 @@
 
 
 	
-	
-	
-	{
 
-
-			"user": "	Mallorca vs Elche SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/161988840/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-		},
-		{
-
-
-			"user": "	Mallorca vs Elche HD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/645587700/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-		},
-	{
-
-
-			"user": "	Osasuna vs Real Sociedad HD1",
-			"pageUrl": "http://77.247.109.92/hls/W1.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-		},
-		{
-
-
-			"user": "	Osasuna vs Real Sociedad HD2",
-			"pageUrl": "http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-		},
 	{
 
 
 			"user": "Milan vs Internazionale HD1",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T4.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+
+
+{
+
+
+			"user": "Milan vs Internazionale HD2",
+			"pageUrl": "http://77.247.109.111/hls/T4.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -82,7 +59,7 @@
 
 
 			"user": "Real Betis vs Sevilla HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://77.247.109.92/hls/W1.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
 		},
@@ -90,7 +67,7 @@
 
 
 			"user": "Real Betis vs Sevilla HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
 		},
@@ -98,7 +75,7 @@
 
 
 			"user": "Rennes vs Lyon SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/10011244/index.m3u8",
 			"type": "France - Ligue 1⚽️ ",
 			"webFormatUrl": "https://www.onlinegamblingbible.com/wp-content/uploads/2015/07/ligue_1_34703.jpg"
 		},
@@ -106,7 +83,7 @@
 
 
 			"user": "Rennes vs Lyon HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/69854211/index.m3u8",
 			"type": "France - Ligue 1⚽️ ",
 			"webFormatUrl": "https://www.onlinegamblingbible.com/wp-content/uploads/2015/07/ligue_1_34703.jpg"
 		},
