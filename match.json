@@ -2,12 +2,11 @@
 {
 
 "hits" : [
-	
 	{
 
 
 			"user": "	Venezia vs Roma HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -15,22 +14,30 @@
 
 
 			"user": "	Venezia vs Roma HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},{
-
-
-			"user": "	Venezia vs Roma HD3",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
 	{
 
 
+			"user": "	Venezia vs Roma HD3",
+			"pageUrl": "http://stream.bestvideostreaming.is/8796/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},{
+
+
 			"user": "	Venezia vs Roma HD4",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://207.110.52.61:8080/s/hls/5/Trump_Donald/eleven_sports_1_355/5/5/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+	{
+
+
+			"user": "	Venezia vs Roma HD5",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m1/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
