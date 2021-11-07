@@ -121,16 +121,16 @@
 	{
 
 
-			"user": "	Mallorca vs Elche HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "	Mallorca vs Elche SD",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/161988840/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
 		},
 		{
 
 
-			"user": "	Mallorca vs Elche HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "	Mallorca vs Elche HD",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/645587700/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
 		},
@@ -138,7 +138,7 @@
 
 
 			"user": "	Osasuna vs Real Sociedad HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://77.247.109.92/hls/W1.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
 		},
@@ -146,7 +146,7 @@
 
 
 			"user": "	Osasuna vs Real Sociedad HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
 		},
