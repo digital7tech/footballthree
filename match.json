@@ -2,6 +2,392 @@
 {
 
 "hits" : [
+	
+	{
+
+
+			"user": "	Venezia vs Roma HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+	{
+
+
+			"user": "	Venezia vs Roma HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},{
+
+
+			"user": "	Venezia vs Roma HD3",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+	{
+
+
+			"user": "	Venezia vs Roma HD4",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+	{
+
+
+			"user": "Villarreal vs Getafe HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+		},
+		{
+
+
+			"user": "Villarreal vs Getafe HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+		},
+		{
+
+
+			"user": "Arsenal vs Watford SD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		  {
+
+
+			"user": "Arsenal vs Watford SD2(English)",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Arsenal vs Watford HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Everton vs Tottenham Hotspur SD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+	{
+
+
+			"user": "Everton vs Tottenham Hotspur SD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+	{
+
+
+			"user": "Everton vs Tottenham Hotspur HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+	{
+
+
+			"user": "Everton vs Tottenham Hotspur SD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+	{
+
+
+			"user": "Leeds United vs Leicester City SD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Leeds United vs Leicester City HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+	{
+
+
+			"user": "Leeds United vs Leicester City HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		
+		
+		{
+
+
+			"user": "Udinese vs Sassuolo HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+
+			"user": "Udinese vs Sassuolo HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+	{
+
+
+			"user": "Udinese vs Sassuolo HD3",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+
+			"user": "Sampdoria vs Bologna HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+
+			"user": "	Sampdoria vs Bologna HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+	{
+
+
+			"user": "Hertha BSC vs Bayer Leverkusen  HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Hertha BSC vs Bayer Leverkusen  HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Valencia vs Atlético Madrid HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+		},
+		{
+
+
+			"user": "Valencia vs Atlético Madrid HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+		},
+	{
+
+
+			"user": "West Ham United vs Liverpool SD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		  {
+
+
+			"user": "West Ham United vs Liverpool SD2(English)",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "West Ham United vs Liverpool HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+	{
+
+
+			"user": "West Ham United vs Liverpool HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		
+	{
+
+
+			"user": "Köln vs Union Berlin  HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+	{
+
+
+			"user": "Napoli vs Hellas Verona HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+
+			"user": "Napoli vs Hellas Verona HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+	{
+
+
+			"user": "Napoli vs Hellas Verona HD3",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+
+			"user": "Lazio vs Salernitana HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+
+			"user": "Lazio vs Salernitana HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+	{
+
+
+			"user": "	Mallorca vs Elche HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+		},
+		{
+
+
+			"user": "	Mallorca vs Elche HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+		},
+	{
+
+
+			"user": "	Osasuna vs Real Sociedad HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+		},
+		{
+
+
+			"user": "	Osasuna vs Real Sociedad HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+		},
+	{
+
+
+			"user": "Milan vs Internazionale HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+	{
+
+
+			"user": "Milan vs Internazionale HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},{
+
+
+			"user": "Milan vs Internazionale HD3",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+	{
+
+
+			"user": "Milan vs Internazionale HD4",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+
+
+			"user": "	Greuther Fürth vs  Frankfurt  HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+	{
+
+
+			"user": "Real Betis vs Sevilla HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+		},
+		{
+
+
+			"user": "Real Betis vs Sevilla HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+		},
+	{
+
+
+			"user": "Rennes vs Lyon SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "France - Ligue 1⚽️ ",
+			"webFormatUrl": "https://www.onlinegamblingbible.com/wp-content/uploads/2015/07/ligue_1_34703.jpg"
+		},
+	{
+
+
+			"user": "Rennes vs Lyon HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "France - Ligue 1⚽️ ",
+			"webFormatUrl": "https://www.onlinegamblingbible.com/wp-content/uploads/2015/07/ligue_1_34703.jpg"
+		},
 		 {
 		        "user": "ALL football",
 			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/5151400337/index.m3u8",
