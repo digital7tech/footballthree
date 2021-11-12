@@ -43,8 +43,16 @@
 
 
 	{
-		        "user": "Denmark vs Faroe Island HD",
+		        "user": "Denmark vs Faroe Island SD",
 			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/500025558/index.m3u8",
+			"type": "WORLD CUP QUALIFYING ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfOvgrFQuxexWkLLjozUj8gKXjAvhHqPux9_ju7-JEH_l5pGWQfQNSFHo&s=10"
+		},
+
+
+	{
+		        "user": "Denmark vs Faroe Island HD(English)",
+			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
 			"type": "WORLD CUP QUALIFYING ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfOvgrFQuxexWkLLjozUj8gKXjAvhHqPux9_ju7-JEH_l5pGWQfQNSFHo&s=10"
 		},
