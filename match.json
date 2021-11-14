@@ -42,7 +42,7 @@
 
 {
 		        "user": "Ghana vs South Africa SD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
@@ -50,7 +50,7 @@
 
 {
 		        "user": "Ghana vs South Africa HD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
