@@ -1,46 +1,8 @@
 
 {
 
-"hits" : [
+  "hits" : [
 
-
- 
-
- 
-
-
-	{
-		        "user": "	Armenia vs Germany SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/8882425700/index.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
-		},
-	{
-		        "user": "	Armenia vs Germany HD",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
-		},
-	{
-		        "user": "	Liechtenstein vs Romania HD1",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
-		},
-
-{
-		        "user": "	Liechtenstein vs Romania HD2",
-			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
-		},
-
-	{
-		        "user": "North Macedonia vs Iceland HD",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P2.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
-		},
 	
 
 {
@@ -60,62 +22,51 @@
 
 {
 		        "user": "Spain vs Sweden SD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
 	{
 		        "user": "Spain vs Sweden HD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
 	
 	{
 		        "user": "Portugal vs Serbia SD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
 	{
 		        "user": "Portugal vs Serbia HD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
 	{
 		        "user": "	Greece vs Kosovo SD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS3HD/index.m3u8?token=test",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
 	{
 		        "user": "	Greece vs Kosovo HD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS3HD/index.m3u8?token=test",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
-	{
-		        "user": "	Portugal vs Serbia  SD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
-		},
-	{
-		        "user": "	Portugal vs Serbia  HD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
-		},
+
 	{
 		        "user": "Luxembourg vs Ireland Republic  SD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
 	{
 		        "user": "Luxembourg vs Ireland Republic  HD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_5_720p/chunklist.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
