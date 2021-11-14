@@ -22,11 +22,19 @@
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
 	{
-		        "user": "	Liechtenstein vs Romania HD",
+		        "user": "	Liechtenstein vs Romania HD1",
 			"pageUrl": "https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
+
+{
+		        "user": "	Liechtenstein vs Romania HD2",
+			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
+		},
+
 	{
 		        "user": "North Macedonia vs Iceland HD",
 			"pageUrl": "http://cdn2.cyclingnews.live/hls/P2.m3u8",
