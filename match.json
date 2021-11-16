@@ -25,7 +25,7 @@
 		},
 	  {
 		        "user": "	Wales vs Belgium HD",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_4_720p/chunklist.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
@@ -38,7 +38,7 @@
 		},
 	  	{
 		        "user": "	Finland vs France HD",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
@@ -68,7 +68,7 @@
 		},
 	  {
 		        "user": "Netherlands vs Norway HD",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M3.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
