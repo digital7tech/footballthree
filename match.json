@@ -4,18 +4,7 @@
 
 	  
 
-	{
-		        "user": "	Cameroon vs Côte d'Ivoire SD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
-		},
-	  {
-		        "user": "	Cameroon vs Côte d'Ivoire HD",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_5_720p/chunklist.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
-		},
+
 	  
 	{
 		        "user": "	Wales vs Belgium SD",
@@ -98,7 +87,7 @@
 		},
 	  {
 		        "user": "	Venezuela vs Peru SD",
-			"pageUrl": "https://bal.varcdn1.ru/lb/m1/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/107.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
@@ -117,40 +106,40 @@
 	  
 	  {
 		        "user": "Colombia vs Paraguay  SD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
 	  
 	  {
 		        "user": "Colombia vs Paraguay  HD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
 	  
 	  {
 		        "user": "	Argentina vs Brazil  SD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
 	  
 	  {
-		        "user": "	Argentina vs Brazil SD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+		        "user": "	Argentina vs Brazil HD",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
 	  {
 		        "user": "Chile vs Ecuador SD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_5_720p/chunklist.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
 	    {
 		        "user": "Chile vs Ecuador HD",
-			"pageUrl": "http://1.yacinelivetv.com.global.prod.fastly.net/live/5151400337/index.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_5_720p/chunklist.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://e0.365dm.com/21/06/2048x1152/skysports-football-qatar-world-cup_5422462.jpg"
 		},
