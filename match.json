@@ -66,7 +66,7 @@
 
 
 			"user": "Atalanta vs Spezia HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T1.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -74,7 +74,7 @@
 
 
 			"user": "Atalanta vs Spezia HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -82,7 +82,7 @@
 
 
 			"user": "Atalanta vs Spezia HD3",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
