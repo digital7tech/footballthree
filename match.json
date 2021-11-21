@@ -2,30 +2,7 @@
 
   "hits" : [
 
-	{
-
-
-			"user": "Sassuolo vs Cagliari HD1",
-			"pageUrl": "http://185.53.89.183/hls/bt1.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-
-			"user": "Sassuolo vs Cagliari HD2",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-
-			"user": "Sassuolo vs Cagliari HD3",
-			"pageUrl": "http://207.110.52.61:8080/s/hls/5/Trump_Donald/eleven_sports_2_303/5/5/index.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
+	
 	  
 	  {
 
@@ -47,22 +24,22 @@
 
 
 			"user": "	Manchester City vs Everton  SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 	  {
 
 
-			"user": "	Manchester City vs Everton  SD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "	Manchester City vs Everton  SD2(English)",
+			"pageUrl": "https://www.wopep.com/02_PremierHD2_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},{
 
 
 			"user": "	Manchester City vs Everton HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.wopep.com/02_PremierHD1_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -70,7 +47,7 @@
 
 
 			"user": "	Manchester City vs Everton HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -78,8 +55,8 @@
 	  {
 
 
-			"user": "	Manchester City vs Everton HD3",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "	Manchester City vs Everton HD3(English)",
+			"pageUrl": "https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -89,7 +66,7 @@
 
 
 			"user": "	Bologna vs Venezia HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -97,7 +74,7 @@
 
 
 			"user": "	Bologna vs Venezia HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/bt1.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -105,7 +82,7 @@
 
 
 			"user": "	Salernitana vs Sampdoria HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -113,7 +90,7 @@
 
 
 			"user": "	Salernitana vs Sampdoria HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://95-213-224-186.livesports24.online/setantaplusru.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
