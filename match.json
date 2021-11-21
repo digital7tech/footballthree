@@ -5,80 +5,6 @@
 	
 	  
 
-{
-
-
-			"user": "	Manchester City vs Everton  SD1",
-			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	  {
-
-
-			"user": "	Manchester City vs Everton  SD2",
-			"pageUrl": "https://www.wopep.com/02_PremierHD1_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},{
-
-
-			"user": "	Manchester City vs Everton HD1",
-			"pageUrl": "https://www.wopep.com/02_PremierHD1_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	  {
-
-
-			"user": "	Manchester City vs Everton HD2",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-	  {
-
-
-			"user": "	Manchester City vs Everton HD3",
-			"pageUrl": "https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		
-		{
-
-
-			"user": "	Bologna vs Venezia HD1",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-
-			"user": "	Bologna vs Venezia HD2",
-			"pageUrl": "http://185.53.89.183/hls/bt1.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-
-			"user": "	Salernitana vs Sampdoria HD1",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-{
-
-
-			"user": "	Salernitana vs Sampdoria HD2",
-			"pageUrl": "https://95-213-224-186.livesports24.online/setantaplusru.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
 
 		
 	
@@ -112,7 +38,7 @@
 
 
 			"user": "	Granada vs Real Madrid HD1",
-			"pageUrl": "http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T1.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -130,7 +56,7 @@
 
 
 			"user": "Tottenham vs Leeds SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.wopep.com/02_PremierHD1_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -138,14 +64,14 @@
 
 
 			"user": "Tottenham vs Leeds SD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},{
 
 
 			"user": "Tottenham vs Leeds HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -153,7 +79,7 @@
 
 
 			"user": "Tottenham vs Leeds HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -161,8 +87,8 @@
 	  {
 
 
-			"user": "Tottenham vs Leeds HD3",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Tottenham vs Leeds HD3(English)",
+			"pageUrl": "http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -170,7 +96,7 @@
 
 
 			"user": "Mainz 05 vs Köln HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -179,7 +105,7 @@
 
 
 			"user": "Mainz 05 vs Köln HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -187,7 +113,7 @@
 
 
 			"user": "Internazionale vs Napoli HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -195,7 +121,7 @@
 
 
 			"user": "Internazionale vs Napoli HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -203,7 +129,7 @@
 
 
 			"user": "Internazionale vs Napoli HD3",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/bt1.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -211,7 +137,7 @@
 
 
 			"user": "Internazionale vs Napoli HD4",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://207.110.52.61:8080/s/hls/5/Trump_Donald/eleven_sports_1_355/5/5/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -219,7 +145,7 @@
 
 
 			"user": "Elche vs Real Betis SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -227,7 +153,7 @@
 
 
 			"user": "Elche vs Real Betis HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T1.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
