@@ -2,7 +2,14 @@
 
   "hits" : [
 
+    {
 
+
+			"user": "Chelsea vs Juventus SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
+		},
 
   {
 
@@ -31,8 +38,8 @@
 	    {
 
 
-			"user": "Chelsea vs Juventus SD",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"user": "Barcelona vs Benfica SD",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
@@ -54,20 +61,13 @@
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
-	    {
-
-
-			"user": "Barcelona vs Benfica SD1",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
+	
 
 	    {
 
 
-			"user": "Young Boys vs Atalanta HD1",
-			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
+			"user": "Young Boys vs Atalanta SD",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
@@ -75,7 +75,7 @@
 
 
 			"user": "Young Boys vs Atalanta HD2",
-			"pageUrl": "http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
