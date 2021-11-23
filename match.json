@@ -6,7 +6,7 @@
 
 
 			"user": "Dynamo Kyiv vs Bayern München SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/7948124500/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
@@ -15,7 +15,7 @@
 
 
 			"user": "Dynamo Kyiv vs Bayern München HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/61619498700/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
@@ -23,31 +23,40 @@
 
 
 			"user": "Dynamo Kyiv vs Bayern München HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://95.107.132.106/out/u/699_2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
-	  {
-
-
-			"user": "Villarreal vs Manchester United SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	  {
+    {
 
 
 			"user": "Villarreal vs Manchester United HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
+		},
+
+	  {
+
+
+			"user": "Villarreal vs Manchester United HD2(English)",
+			"pageUrl": "http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
+		},
+	  {
+
+
+			"user": "Villarreal vs Manchester United HD3(English)",
+			"pageUrl": "http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
 	    {
 
 
-			"user": "Villarreal vs Manchester United HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Villarreal vs Manchester United SD1",
+			"pageUrl": "http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
