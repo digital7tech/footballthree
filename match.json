@@ -2,64 +2,7 @@
 
   "hits" : [
 
-	{
 
-
-			"user": "Dynamo Kyiv vs Bayern München HD1",
-			"pageUrl": "http://185.53.89.183/hls/btespn.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	  
-	{
-
-
-			"user": "Dynamo Kyiv vs Bayern München HD2",
-			"pageUrl": "http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	{
-
-
-			"user": "Dynamo Kyiv vs Bayern München SD1",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-    {
-
-
-			"user": "Villarreal vs Manchester United HD1(English)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-
-	  {
-
-
-			"user": "Villarreal vs Manchester United HD2",
-			"pageUrl": "http://23.88.42.116:80/live/6161655001/index.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	  {
-
-
-			"user": "Villarreal vs Manchester United HD3(English)",
-			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	    {
-
-
-			"user": "Villarreal vs Manchester United SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
 
   {
 
