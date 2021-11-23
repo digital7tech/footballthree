@@ -64,99 +64,108 @@
   {
 
 
-			"user": "Chelsea vs Juventus SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Chelsea vs Juventus HD1",
+			"pageUrl": "http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
 	  {
 
 
-			"user": "Chelsea vs Juventus HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Chelsea vs Juventus HD2",
+			"pageUrl": "http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
 	    {
 
 
-			"user": "Chelsea vs Juventus HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Chelsea vs Juventus HD3",
+			"pageUrl": "http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
+		},
+	    {
+
+
+			"user": "Chelsea vs Juventus SD",
+			"pageUrl": "http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
 
+
+	    {
+
+
+			"user": "Barcelona vs Benfica HD1",
+			"pageUrl": "http://185.53.89.183/hls/btespn.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
+		},
+	  {
+
+
+			"user": "Barcelona vs Benfica HD2(English)",
+			"pageUrl": "http://185.53.89.183/hls/btespn.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
+		},
 	    {
 
 
 			"user": "Barcelona vs Benfica SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	  {
-
-
-			"user": "Barcelona vs Benfica HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	    {
-
-
-			"user": "Barcelona vs Benfica HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/btespn.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
 
 	    {
-
-
-			"user": "Young Boys vs Atalanta SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	  {
 
 
 			"user": "Young Boys vs Atalanta HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	    {
-
-
-			"user": "Young Boys vs Atalanta HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-
-	    {
-
-
-			"user": "Sevilla vs Wolfsburg SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
 	  {
 
 
-			"user": "Sevilla vs Wolfsburg HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Young Boys vs Atalanta HD2",
+			"pageUrl": "http://95.107.132.106/out/u/699_2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
 	    {
 
 
+			"user": "Young Boys vs Atalanta SD",
+			"pageUrl": "http://95.107.132.106/out/u/699_2.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
+		},
+
+	    {
+
+
+			"user": "Sevilla vs Wolfsburg HD1",
+			"pageUrl": "http://45.94.31.45/beinm16510/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
+		},
+	  {
+
+
 			"user": "Sevilla vs Wolfsburg HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://45.94.31.45/beinm16510/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
+		},
+	    {
+
+
+			"user": "Sevilla vs Wolfsburg SD",
+			"pageUrl": "http://45.94.31.45/beinm16510/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
@@ -189,24 +198,24 @@
 	    {
 
 
-			"user": "Lille vs Salzburg SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Lille vs Salzburg HD1",
+			"pageUrl": "http://23.88.39.74/live/8800255521/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
 	  {
 
 
-			"user": "Lille vs Salzburg HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Lille vs Salzburg HD2",
+			"pageUrl": "http://23.88.39.74/live/8800255521/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
 	    {
 
 
-			"user": "Lille vs Salzburg HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Lille vs Salzburg SD",
+			"pageUrl": "http://23.88.39.74/live/8800255521/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
