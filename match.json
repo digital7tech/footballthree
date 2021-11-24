@@ -2,54 +2,7 @@
 
   "hits" : [
 	
-{
 
-
-			"user": "Beşiktaş vs Ajax SD",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	  {
-
-
-			"user": "Beşiktaş vs Ajax HD1",
-			"pageUrl": "http://185.53.89.183/hls/btespn.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	  {
-
-
-			"user": "Beşiktaş vs Ajax HD2",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P2.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	  {
-
-
-			"user": "Inter vs Shakhtar Donetsk SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	  {
-
-
-			"user": "Inter vs Shakhtar Donetsk HD1",
-			"pageUrl": "http://185.53.89.183/hls/bt1.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
-	  {
-
-
-			"user": "Inter vs Shakhtar Donetsk HD2",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
-		},
 	  
 	    {
 
@@ -79,7 +32,7 @@
 
 
 			"user": "Liverpool vs Porto SD",
-			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
@@ -111,7 +64,7 @@
 
 
 			"user": "Manchester City vs PSG SD",
-			"pageUrl": "http://23.88.39.74/live/6161655001/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
@@ -152,7 +105,7 @@
 
 
 			"user": "Sheriff vs Real Madrid SD",
-			"pageUrl": "http://45.94.31.45/beinm16510/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
