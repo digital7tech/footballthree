@@ -6,7 +6,7 @@
 
 
 			"user": "Beşiktaş vs Ajax SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/btespn.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
@@ -14,7 +14,7 @@
 
 
 			"user": "Beşiktaş vs Ajax HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/btespn.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
@@ -22,7 +22,7 @@
 
 
 			"user": "Beşiktaş vs Ajax HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/btespn.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
@@ -30,7 +30,7 @@
 
 
 			"user": "Inter vs Shakhtar Donetsk SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/bt1.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
@@ -38,7 +38,7 @@
 
 
 			"user": "Inter vs Shakhtar Donetsk HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/bt1.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
@@ -46,7 +46,7 @@
 
 
 			"user": "Inter vs Shakhtar Donetsk HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/bt1.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
 		},
