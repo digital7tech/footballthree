@@ -4,6 +4,12 @@
 
 
 	{
+		        "user": "Spartak Moscow vs Napoli SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "EUROPA LEAGUE ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScEzLaXw4vBrIra-_9hok_O8WRPCredj-fEg&usqp=CAU"
+		},
+	{
 		        "user": "Spartak Moscow vs Napoli HD1",
 			"pageUrl": "http://23.88.39.74/live/6161655001/index.m3u8",
 			"type": "EUROPA LEAGUE ⚽️ ",
