@@ -5,15 +5,15 @@
 	  
 	
 	{
-		        "user": "VFB Stuttgart vs  Mainz SD",
-			"pageUrl": "http://23.88.39.74/live/8800255521/index.m3u8",
+		        "user": "VFB Stuttgart vs  Mainz HD1",
+			"pageUrl": "https://95-213-224-186.livesports24.online/setantaplusru.m3u8",
 			"type": "BUNDESLIGA ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},     
 	 
 	{
-		        "user": "VFB Stuttgart vs  Mainz HD",
-			"pageUrl": "http://23.88.39.74/live/8800255521/index.m3u8",
+		        "user": "VFB Stuttgart vs  Mainz HD2",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
 			"type": "BUNDESLIGA ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},     
