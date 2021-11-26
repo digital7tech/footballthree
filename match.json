@@ -20,7 +20,7 @@
 	 
 	{
 		        "user": "Cagliari vs Salernitana HD1",
-			"pageUrl": "http://23.88.39.74/live/8800255521/index.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8",
 			"type": "ITALIAN SERIE A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp7tAtFs6_PRgNSzi08N9QyTcJRaeexiP1qw&usqp=CAU"
 		},     
@@ -28,7 +28,7 @@
 
 {
 		        "user": "Cagliari vs Salernitana HD2",
-			"pageUrl": "http://23.88.39.74/live/8800255521/index.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/bt2.m3u8",
 			"type": "ITALIAN SERIE A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp7tAtFs6_PRgNSzi08N9QyTcJRaeexiP1qw&usqp=CAU"
 		},     
@@ -36,36 +36,44 @@
 
 {
 		        "user": "Cagliari vs Salernitana HD3",
-			"pageUrl": "http://23.88.39.74/live/8800255521/index.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "ITALIAN SERIE A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp7tAtFs6_PRgNSzi08N9QyTcJRaeexiP1qw&usqp=CAU"
 		},   
 
 {
 		        "user": "Atlético Bilbao vs Granada SD",
-			"pageUrl": "http://23.88.39.74/live/8800255521/index.m3u8",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/978488877001/index.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIsj3Yna8561Xf0kO2wzx3NwBsMgZpWXPbeQ&usqp=CAU"
 		},     
 
   
 {
-		        "user": "Atlético Bilbao vs Granada HD",
-			"pageUrl": "http://23.88.39.74/live/8800255521/index.m3u8",
+		        "user": "Atlético Bilbao vs Granada HD1",
+			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/918454578001/index.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIsj3Yna8561Xf0kO2wzx3NwBsMgZpWXPbeQ&usqp=CAU"
-		},     
+		},   
+
+  
+{
+		        "user": "Atlético Bilbao vs Granada HD2",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M3.m3u8",
+			"type": "SPANISH LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIsj3Yna8561Xf0kO2wzx3NwBsMgZpWXPbeQ&usqp=CAU"
+		},   
 
 {
 		        "user": "West Brom vs Nottingham Forest HD",
-			"pageUrl": "http://23.88.39.74/live/8800255521/index.m3u8",
+			"pageUrl": "http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8",
 			"type": "English Championship ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVRsltq_ikKXESf4QtLoZIJtyKXkDYCQh6RSFe5aSdLmY1P-i4mVmB5p_F&s=10"
 		},     
   
 {
 		        "user": "WestBrom vs Nottingham Forest HD",
-			"pageUrl": "http://23.88.39.74/live/8800255521/index.m3u8",
+			"pageUrl": "http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8",
 			"type": "English Championship ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVRsltq_ikKXESf4QtLoZIJtyKXkDYCQh6RSFe5aSdLmY1P-i4mVmB5p_F&s=10"
 		},     
