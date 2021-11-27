@@ -5,79 +5,7 @@
 
 	  
 
-	  {
-
-
-			"user": "Brighton vs Leeds United SD1",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/88824257001/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	  {
-
-
-			"user": "Brighton vs Leeds United SD2(English)",
-			"pageUrl": "https://www.wopep.com/02_PremierHD1_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
 	  
-	  {
-
-
-			"user": "Brighton vs Leeds United HD1",
-			"pageUrl": "https://smart-tv.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	  {
-
-
-			"user": "Brighton vs Leeds United HD2(Engish)",
-			"pageUrl": "https://www.wopep.com/02_PremierHD2_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	  {
-
-
-			"user": "Brighton vs Leeds United HD3",
-			"pageUrl": "https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		 {
-
-
-			"user": "Mallorca vs Getafe SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/978488877001/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-		{
-
-
-			"user": "Mallorca vs Getafe HD",
-			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-	    {
-
-
-			"user": "Bayern München vs Arminia Bielefeld HD1",
-			"pageUrl": "https://95-213-224-181.livesports24.online/setantaplusru.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-	    {
-
-
-			"user": "Bayern München vs Arminia Bielefeld HD2",
-			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
 	   {
 
 
