@@ -1,56 +1,7 @@
-{
+{ 
+"hits" :
 
-  "hits" : [
-	{
-
-
-			"user": "Arsenal vs Newcastle United SD1",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/88824257001/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	  {
-
-
-			"user": "Arsenal vs Newcastle United SD2(English)",
-			"pageUrl": "https://www.wopep.com/02_PremierHD2_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	  
-	  {
-
-
-			"user": "Arsenal vs Newcastle United HD1(English)",
-			"pageUrl": "http://185.53.89.183/hls/bt1.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	  {
-
-
-			"user": "Arsenal vs Newcastle United HD2(Engish)",
-			"pageUrl": "https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-  {
-
-
-			"user": "Arsenal vs Newcastle United HD3(Engish)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-	  {
-
-
-			"user": "Arsenal vs Newcastle United HD4",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/6161655001/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
+   [
 		
 		
 {
