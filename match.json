@@ -3,57 +3,7 @@
 
    [
 
-	  
 
-	  
-	   {
-
-
-			"user": "Venezia vs Internazionale HD1",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_4_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-
-			"user": "Venezia vs Internazionale HD2",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-
-			"user": "Venezia vs Internazionale HD3",
-			"pageUrl": "https://95-213-224-181.livesports24.online/setantaplusru.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-	   {
-
-
-			"user": "Villarreal vs Barcelona SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net/live/88824257001/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-		{
-
-
-			"user": "Villarreal vs Barcelona HD1",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-	  		{
-
-
-			"user": "Villarreal vs Barcelona HD2",
-			"pageUrl": "http://23.88.42.123:80/live/6161655001/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
 	{
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://23.88.39.74/live/8800255521/index.m3u8",
