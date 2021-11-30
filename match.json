@@ -97,18 +97,11 @@
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
-{
 
-
-			"user": "Leeds United vs Crystal Palace SD",
-			"pageUrl": "https://www.wopep.com/02_PremierHD3_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://www.pngkit.com/png/detail/213-2133470_barclays-premier-league-logo-premier-league-logo.png"
-		},
 	   {
 
 
-			"user": "Leeds United vs Crystal Palace HD1",
+			"user": "Leeds United vs Crystal Palace HD1(English)",
 			"pageUrl": "http://77.247.109.111/hls/T1.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://www.pngkit.com/png/detail/213-2133470_barclays-premier-league-logo-premier-league-logo.png"
@@ -127,6 +120,15 @@
 
 			"user": "Leeds United vs Crystal Palace HD3",
 			"pageUrl": "https://www.wopep.com/02_SPORTTV_5_720p/chunklist.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://www.pngkit.com/png/detail/213-2133470_barclays-premier-league-logo-premier-league-logo.png"
+		},
+
+{
+
+
+			"user": "Leeds United vs Crystal Palace SD",
+			"pageUrl": "https://www.wopep.com/02_PremierHD3_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://www.pngkit.com/png/detail/213-2133470_barclays-premier-league-logo-premier-league-logo.png"
 		},
