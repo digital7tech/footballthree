@@ -61,29 +61,14 @@
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
-	     {
-
-
-			"user": "Manchester United vs Arsenal SD1",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-     {
-
-
-			"user": "Manchester United vs Arsenal SD1(English)",
-			"pageUrl": "https://www.wopep.com/02_PremierHD2_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
+	     
 	     	     
 
 
      {
 
 
-			"user": "Manchester United vs Arsenal SD2",
+			"user": "Manchester United vs Arsenal SD1",
 			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -93,26 +78,11 @@
 
 
 			"user": "Manchester United vs Arsenal HD1",
-			"pageUrl": "https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	   {
-
-
-			"user": "Manchester United vs Arsenal HD2",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	     {
-
-
-			"user": "Manchester United vs Arsenal HD3(English)",
 			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+
 	{
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
