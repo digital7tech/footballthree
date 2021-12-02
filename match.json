@@ -69,18 +69,11 @@
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-	     {
-
-
-			"user": "Manchester United vs Arsenal SD2(English)",
-			"pageUrl": "https://www.wopep.com/02_PremierHD2_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
+	     
      {
 
 
-			"user": "Manchester United vs Arsenal SD3",
+			"user": "Manchester United vs Arsenal SD2",
 			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -90,7 +83,7 @@
 
 
 			"user": "Manchester United vs Arsenal HD1",
-			"pageUrl": "https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8",
+			"pageUrl": "https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
