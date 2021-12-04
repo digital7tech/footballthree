@@ -7,76 +7,12 @@
 
 
 
-	    {
 
-
-			"user": "Napoli vs Atalanta HD1",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-	   {
-
-
-			"user": "Napoli vs Atalanta HD2",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-	   {
-
-
-			"user": "Napoli vs Atalanta HD3",
-			"pageUrl": "http://185.53.89.183/hls/bt2.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-	     {
-
-
-			"user": "Real Sociedad vs Real Madrid SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net:80/live/161988840/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-		{
-
-
-			"user": "Real Sociedad vs Real Madrid HD",
-			"pageUrl": "http://185.53.89.183/hls/ssla.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-	      {
-
-
-			"user": "RLens vs PSG SD",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net:80/live/0103088447/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-		{
-
-
-			"user": "Lens vs PSG HD1",
-			"pageUrl": "http://88.barouhn.xyz.global.prod.fastly.net:80/live/9787488847/index.m3u8",
-			"type": "France - Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://www.logofootball.net/wp-content/uploads/Ligue-1-Logo.png"
-		},
-
-{
-
-
-			"user": "Lens vs PSG HD2",
-			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
-			"type": "France - Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://www.logofootball.net/wp-content/uploads/Ligue-1-Logo.png"
-		},
 	{
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
 			"type": "France - Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://www.logofootball.net/wp-content/uploads/Ligue-1-Logo.png"
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
 		
 
