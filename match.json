@@ -7,7 +7,7 @@
 	
 	 {
 		        "user": "Milan vs Liverpool SD",
-			"pageUrl": "http://185.53.89.183/hls/bt2.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -31,7 +31,7 @@
 		},
 	 {
 		        "user": "Real Madrid vs Internazionale SD",
-			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -49,7 +49,7 @@
 		},
 	{
 		        "user": "Porto vs Atlético Madrid SD",
-			"pageUrl": "http://208.86.19.21:80/713.stream/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -67,7 +67,7 @@
 		},
 	{
 		        "user": "Borussia Dortmund vs Beşiktaş SD",
-			"pageUrl": "http://77.247.109.111/hls/T1.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -85,7 +85,7 @@
 		},
 	{
 		        "user": "Ajax vs Sporting CP SD",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P2.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -103,7 +103,7 @@
 		},
 	{
 		        "user": "Shakhtar Donetsk vs Sheriff SD",
-			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
