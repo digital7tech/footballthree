@@ -8,18 +8,26 @@
 	   
 	{
 		        "user": "PSG vs Club Brugge SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
+		},
+
+	{
+		        "user": "PSG vs Club Brugge HD1",
 			"pageUrl": "http://45.94.31.45:80/bar165001/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
+
 {
-		        "user": "PSG vs Club Brugge HD1",
+		        "user": "PSG vs Club Brugge HD2",
 			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
 	{
-		        "user": "PSG vs Club Brugge HD2",
+		        "user": "PSG vs Club Brugge HD3",
 			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
@@ -27,18 +35,26 @@
 	
 	{
 		        "user": "Leipzig vs Manchester City SD",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
+		},
+
+
+	{
+		        "user": "Leipzig vs Manchester City HD1",
 			"pageUrl": "http://45.94.31.45:80/bar165002/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
 {
-		        "user": "Leipzig vs Manchester City HD1(English)",
+		        "user": "Leipzig vs Manchester City HD2(English)",
 			"pageUrl": "http://185.53.89.183/hls/bt2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
 	{
-		        "user": "Leipzig vs Manchester City HD2",
+		        "user": "Leipzig vs Manchester City HD3",
 			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
