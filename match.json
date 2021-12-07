@@ -14,13 +14,13 @@
 		},
 {
 		        "user": "PSG vs Club Brugge HD1",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
 	{
 		        "user": "PSG vs Club Brugge HD2",
-			"pageUrl": "http://45.94.31.45:80/bar165001/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -33,13 +33,13 @@
 		},
 {
 		        "user": "Leipzig vs Manchester City HD1(English)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/bt2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
 	{
 		        "user": "Leipzig vs Manchester City HD2",
-			"pageUrl": "http://45.94.31.45:80/bar165002/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
