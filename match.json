@@ -62,12 +62,19 @@
 		},
 {
 		        "user": "Porto vs Atlético Madrid HD1",
-			"pageUrl": "http://185.53.89.183/hls/btespn.m3u8",
+			"pageUrl": "https://dvnu5sm8xg7ui.cloudfront.net/out/v1/17ce95d067574e25a4659cccd3d8f651/index.m3u8?from=other&vsid=56b1fc2519d5515f8c374f4ad4b3ac7ccfa9c",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
 	{
 		        "user": "Porto vs Atlético Madrid HD2",
+			"pageUrl": "http://185.53.89.183/hls/btespn.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
+		},
+
+{
+		        "user": "Porto vs Atlético Madrid HD3",
 			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
