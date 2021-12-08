@@ -11,7 +11,7 @@
 		},
 {
 		        "user": "Zenit vs Chelsea HD1(English)",
-			"pageUrl": "https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8",
+			"pageUrl": "http://23.88.39.74:80/live/6161949870/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -35,8 +35,8 @@
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
 {
-		        "user": "Juventus vs Malmö FF HD1(English)",
-			"pageUrl": "https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8",
+		        "user": "Juventus vs Malmö FF HD1",
+			"pageUrl": "http://23.88.39.74:80/live/61512788870/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
