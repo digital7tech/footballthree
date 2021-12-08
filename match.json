@@ -37,13 +37,13 @@
 		},
 {
 		        "user": "Bayern München vs Barcelona HD1",
-			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
+			"pageUrl": "https://d8mk9ontgt3ju.cloudfront.net/out/v1/315f3ee0daa043338bfa5bfcce8f2f33/index.m3u8?from=other&vsid=4a8eaec45c8d1e176a948db365e652019c8af391f76axWEBx0005x16",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
 	{
 		        "user": "Bayern München vs Barcelona HD2",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -73,7 +73,7 @@
 		},
 {
 		        "user": "Salzburg vs Sevilla HD1",
-			"pageUrl": "http://77.247.109.101/hls/A2.m3u8",
+			"pageUrl": "https://dvnu5sm8xg7ui.cloudfront.net/out/v1/17ce95d067574e25a4659cccd3d8f651/index.m3u8?from=other&vsid=196ab04452d58c0e5af7d6e18d52866658a13f0aa1d6xWEBx0005x16",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
