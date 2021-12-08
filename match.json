@@ -76,7 +76,7 @@
 		},
 {
 		        "user": "Manchester United vs Young Boys HD1(English)",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/bt2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -101,7 +101,7 @@
 		},
 {
 		        "user": "Bayern München vs Barcelona HD1",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -119,13 +119,13 @@
 		},
 {
 		        "user": "Atalanta vs Villarreal HD1",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T1.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
 	{
 		        "user": "Atalanta vs Villarreal HD2",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T1.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -149,19 +149,19 @@
 		},
 	 {
 		        "user": "Benfica vs Dynamo Kyiv SD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
 {
 		        "user": "Benfica vs Dynamo Kyiv HD1",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
 	{
 		        "user": "Benfica vs Dynamo Kyiv HD2",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
