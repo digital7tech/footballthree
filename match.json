@@ -70,7 +70,7 @@
 
 	 {
 		        "user": "Manchester United vs Young Boys SD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://45.94.31.45:80/bar165002/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -95,7 +95,7 @@
 	
 	  {
 		        "user": "Bayern München vs Barcelona SD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://45.94.31.45:80/bar165001/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -113,7 +113,7 @@
 		},
   {
 		        "user": "Atalanta vs Villarreal SD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://45.94.31.45:80/bar165003/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
