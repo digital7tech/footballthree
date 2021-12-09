@@ -87,13 +87,13 @@
 		},
 	{
 		        "user": "CSKA Sofia vs Roma SD",
-			"pageUrl": "http://208.86.19.21:80/712.stream/index.m3u8",
+			"pageUrl": "http://cdn2.cyclingnews.live/hls/P2.m3u8",
 			"type": "Europe - UEFA Europa Conference League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
 		 {
 		        "user": "CSKA Sofia vs Roma HD",
-			"pageUrl": "http://208.86.19.21:80/712.stream/index.m3u8",
+			"pageUrl": "http://cdn2.cyclingnews.live/hls/P2.m3u8",
 			"type": "Europe - UEFA Europa Conference League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
