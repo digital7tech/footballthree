@@ -3,49 +3,58 @@
 
 	  {
 		        "user": "Napoli vs Leicester City SD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/bt1.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://1.bp.blogspot.com/-06TJSWqwabg/YJfZr8XI9RI/AAAAAAADAO4/oA3lG0WEGNcjGljarhEcuK4d3EpnR2xwACNcBGAsYHQ/s1000/new-2021-europa-league-logo%2B%25281%2529.jpg"
 		},
 	 {
-		        "user": "Napoli vs Leicester City HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+		        "user": "Napoli vs Leicester City HD(English)",
+			"pageUrl": "http://185.53.89.183/hls/bt1.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://1.bp.blogspot.com/-06TJSWqwabg/YJfZr8XI9RI/AAAAAAADAO4/oA3lG0WEGNcjGljarhEcuK4d3EpnR2xwACNcBGAsYHQ/s1000/new-2021-europa-league-logo%2B%25281%2529.jpg"
 		},
 	 {
 		        "user": "Real Sociedad vs PSV SD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS3HD/index.m3u8?token=test",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://1.bp.blogspot.com/-06TJSWqwabg/YJfZr8XI9RI/AAAAAAADAO4/oA3lG0WEGNcjGljarhEcuK4d3EpnR2xwACNcBGAsYHQ/s1000/new-2021-europa-league-logo%2B%25281%2529.jpg"
 		},
+
+
 	 {
 		        "user": "Real Sociedad vs PSV HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS3HD/index.m3u8?token=test",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://1.bp.blogspot.com/-06TJSWqwabg/YJfZr8XI9RI/AAAAAAADAO4/oA3lG0WEGNcjGljarhEcuK4d3EpnR2xwACNcBGAsYHQ/s1000/new-2021-europa-league-logo%2B%25281%2529.jpg"
 		},
+ {
+		        "user": "Sparta Praha vs Broendby HD",
+			"pageUrl": "http://45.94.31.45:80/bar165002/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://1.bp.blogspot.com/-06TJSWqwabg/YJfZr8XI9RI/AAAAAAADAO4/oA3lG0WEGNcjGljarhEcuK4d3EpnR2xwACNcBGAsYHQ/s1000/new-2021-europa-league-logo%2B%25281%2529.jpg"
+		},
+
 	 {
 		        "user": "Sturm Graz vs Monaco SD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m3/index.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://1.bp.blogspot.com/-06TJSWqwabg/YJfZr8XI9RI/AAAAAAADAO4/oA3lG0WEGNcjGljarhEcuK4d3EpnR2xwACNcBGAsYHQ/s1000/new-2021-europa-league-logo%2B%25281%2529.jpg"
 		},
 	 {
 		        "user": "Sturm Graz vs Monaco HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m3/index.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://1.bp.blogspot.com/-06TJSWqwabg/YJfZr8XI9RI/AAAAAAADAO4/oA3lG0WEGNcjGljarhEcuK4d3EpnR2xwACNcBGAsYHQ/s1000/new-2021-europa-league-logo%2B%25281%2529.jpg"
 		},
 	 {
 		        "user": "Olympique Lyonnais vs Rangers HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://1.bp.blogspot.com/-06TJSWqwabg/YJfZr8XI9RI/AAAAAAADAO4/oA3lG0WEGNcjGljarhEcuK4d3EpnR2xwACNcBGAsYHQ/s1000/new-2021-europa-league-logo%2B%25281%2529.jpg"
 		},
 	 {
 		        "user": "Legia Warszawa vs Spartak Moskva HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://1.bp.blogspot.com/-06TJSWqwabg/YJfZr8XI9RI/AAAAAAADAO4/oA3lG0WEGNcjGljarhEcuK4d3EpnR2xwACNcBGAsYHQ/s1000/new-2021-europa-league-logo%2B%25281%2529.jpg"
 		},
@@ -57,80 +66,65 @@
 		},
 	 {
 		        "user": "Antwerp vs Olympiakos Piraeus HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://1.bp.blogspot.com/-06TJSWqwabg/YJfZr8XI9RI/AAAAAAADAO4/oA3lG0WEGNcjGljarhEcuK4d3EpnR2xwACNcBGAsYHQ/s1000/new-2021-europa-league-logo%2B%25281%2529.jpg"
 		},
 	{
 		        "user": "CSKA Sofia vs Roma SD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://208.86.19.21:80/712.stream/index.m3u8",
 			"type": "Europe - UEFA Europa Conference League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
 		 {
 		        "user": "CSKA Sofia vs Roma HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://208.86.19.21:80/712.stream/index.m3u8",
 			"type": "Europe - UEFA Europa Conference League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
-	 {
-		        "user": "Alashkert vs Maccabi Tel Aviv HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
-			"type": "Europe - UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-	 {
-		        "user": "AZ vs Randers HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
-			"type": "Europe - UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
+	
+	
 	 {
 		        "user": "Gent vs Flora HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://23.88.39.74/live/0103088447/index.m3u8",
 			"type": "Europe - UEFA Europa Conference League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
 	 {
 		        "user": "LASK Linz vs HJK HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://23.88.39.74/live/791001144/index.m3u8",
 			"type": "Europe - UEFA Europa Conference League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
 	 
 	 {
 		        "user": "CFR Cluj vs Jablonec HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://23.88.39.74/live/610303030/index.m3u8",
 			"type": "Europe - UEFA Europa Conference League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
 	 {
 		        "user": "Partizan vs Anorthosis HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://23.88.39.74/live/1515000000/index.m3u8",
 			"type": "Europe - UEFA Europa Conference League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
-	 {
-		        "user": "Zorya vs Bodø / Glimt HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
-			"type": "Europe - UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
+
  {
 		        "user": "Atalanta vs Villareal SD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://23.88.39.74:80/live/61512788870/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
 	 {
 		        "user": "Atalanta vs Villareal HD1",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://23.88.39.74:80/live/61512788870/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
 	 {
 		        "user": "Atalanta vs Villareal  HD2",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://23.88.39.74:80/live/61512788870/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
