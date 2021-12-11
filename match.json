@@ -10,7 +10,7 @@
 	 
 	{
 		        "user": "ALL FOOTBALL",
-			"pageUrl": "http://stream.com-iptv.com:8080/SS3HD/index.m3u8?token=test",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
