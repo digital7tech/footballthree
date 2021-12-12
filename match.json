@@ -3,46 +3,8 @@
 
 
 
-	{
 
-
-			"user": "Crystal Palace vs Everton SD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD1_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	{
-
-
-			"user": "Crystal Palace vs Everton HD1(English)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	{
-
-
-			"user": "Crystal Palace vs Everton HD2",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-{
-
-
-			"user": "Frankfurt vs Bayer Leverkusen SD",
-			"pageUrl": "https://bal.varcdn1.ru/lb/m3/index.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Frankfurt vs Bayer Leverkusen HD",
-			"pageUrl": "http://stream.com-iptv.com:8080/SS5HD/index.m3u8?token=test",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
+		
 	{
 
 
@@ -111,7 +73,7 @@
 
 
 			"user": "Internazionale vs Cagliari HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T1.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -119,7 +81,7 @@
 
 
 			"user": "Internazionale vs Cagliari HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -127,7 +89,7 @@
 
 
 			"user": "Internazionale vs Cagliari HD3",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m1/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -135,7 +97,7 @@
 
 
 			"user": "PSG vs Monaco HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://23.88.39.74/live/0103088447/index.m3u8",
 			"type": "France - Ligue 1 ⚽️ ",
 			"webFormatUrl": "https://www.logofootball.net/wp-content/uploads/Ligue-1-Logo.png"
 		},
@@ -143,7 +105,7 @@
 
 
 			"user": "PSG vs Monaco HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://bal.varcdn1.ru/lb/setanta2/index.m3u8",
 			"type": "France - Ligue 1 ⚽️ ",
 			"webFormatUrl": "https://www.logofootball.net/wp-content/uploads/Ligue-1-Logo.png"
 		},
@@ -151,7 +113,7 @@
 
 
 			"user": "Real Madrid vs Atlético Madrid SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -159,7 +121,7 @@
 
 
 			"user": "Real Madrid vs Atlético Madrid HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/ssla.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
