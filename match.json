@@ -20,7 +20,7 @@
 {
 
 
-			"user": "Burnley vs West Ham SD",
+			"user": "Burnley vs WestHam SD",
 			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD3_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -28,15 +28,15 @@
 	{
 
 
-			"user": "Burnley vs West Ham HD1(English)",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD3_480p/chunklist.m3u8",
+			"user": "Burnley vs WestHam HD1(English)",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 	{
 
 
-			"user": "Burnley vs West Ham HD2",
+			"user": "Burnley vs WestHam HD2",
 			"pageUrl": "http://45.94.31.45:80/bar165001/tracks-v1a1/mono.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -53,7 +53,7 @@
 
 
 			"user": "Leicester City vs Newcastle HD1(English)",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD1_480p/chunklist.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
