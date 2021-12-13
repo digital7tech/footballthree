@@ -2,15 +2,55 @@
 "hits" : [
 
 
-
+	{
+		        "user": "Roma vs Spezia HD1",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "SERIE A ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2021/10/Italian-Serie-A-logo.png"
+		},
+		
 
 
 
 	{
+		        "user": "Roma vs Spezia HD2",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "SERIE A ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2021/10/Italian-Serie-A-logo.png"
+		},
+		
+
+
+	{
+		        "user": "Roma vs Spezia HD3",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "SERIE A ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2021/10/Italian-Serie-A-logo.png"
+		},
+
+
+	
+	{
+		        "user": "Cadiz vs Granada HD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2021/10/Italian-Serie-A-logo.png"
+		},
+			
+
+
+	{
+		        "user": "Cadiz vs Granada SD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsWzwrGwAs0FkKdJamQGtL7EEJdz9xRfnaWJEsFzXDgI1X6szzHf4Zj-p7&s=10"
+		},
+			
+	{
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
 			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsWzwrGwAs0FkKdJamQGtL7EEJdz9xRfnaWJEsFzXDgI1X6szzHf4Zj-p7&s=10"
 		}
 		
 
