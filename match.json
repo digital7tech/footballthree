@@ -28,15 +28,15 @@
 
 
 {
-		        "user": "Mainz 05 vs Hertha BSC HD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+		        "user": "Mainz 05 vs Hertha BSC HD1",
+			"pageUrl": "http://208.86.19.21:80/712.stream/index.m3u8",
 			"type": "BUNDESLIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOET9SAQr8CjCi-dmqPBHyYcGgWdge14zwQ&usqp=CAU"
 		},
 
 {
-		        "user": "Wolfsburg vs Köln HD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+		        "user": "Wolfsburg vs Köln HD2",
+			"pageUrl": "http://208.86.19.21:80/712.stream/index.m3u8",
 			"type": "BUNDESLIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOET9SAQr8CjCi-dmqPBHyYcGgWdge14zwQ&usqp=CAU"
 		},
