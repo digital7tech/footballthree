@@ -30,8 +30,8 @@
 
 	
 {
-		        "user": "Norwich vs Aston Villa HD(English)",
-			"pageUrl": "https://www.wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8",
+		        "user": "Norwich vs Aston Villa HD",
+			"pageUrl": "http://45.94.31.45:80/bar165003/tracks-v1a1/mono.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
