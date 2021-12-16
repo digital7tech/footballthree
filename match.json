@@ -14,7 +14,7 @@
 
 
 			"user": "Chelsea vs Everton SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -22,23 +22,23 @@
 
 
 			"user": "Chelsea vs Everton SD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.wopep.com/02_PremierHD4_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 	{
 
 
-			"user": "Chelsea vs Everton HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Chelsea vs Everton HD1(English)",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 	{
 
 
-			"user": "Chelsea vs Everton HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Chelsea vs Everton HD2(English)",
+			"pageUrl": "https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -46,7 +46,7 @@
 
 
 			"user": "Liverpool vs Newcastle United SD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -54,23 +54,23 @@
 
 
 			"user": "Liverpool vs Newcastle United SD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.wopep.com/02_PremierHD1_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 	{
 
 
-			"user": "Liverpool vs Newcastle United HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Liverpool vs Newcastle United HD1(English)",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 	{
 
 
-			"user": "Liverpool vs Newcastle United HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Liverpool vs Newcastle United HD2(English)",
+			"pageUrl": "https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -78,7 +78,7 @@
 
 
 			"user": "Sampdoria vs Torino HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://cdn2.cyclingnews.live/hls/P2.m3u8",
 			"type": "Italy - Coppa Italia ⚽️ ",
 			"webFormatUrl": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img/https://s22908.pcdn.co/stream-sports/wp-content/uploads/sites/3/2021/09/coppa-italia.png"
 		},
