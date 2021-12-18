@@ -1,31 +1,7 @@
 { 
 "hits" : [
 	
-		
-		{
 
-
-			"user": "Atalanta vs Roma HD1",
-			"pageUrl": "https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-	{
-
-
-			"user": "Atalanta vs Roma HD2",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-	{
-
-
-			"user": "Atalanta vs Roma HD3",
-			"pageUrl": "https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
 	{
 
 
@@ -87,7 +63,7 @@
 
 
 			"user": "Bologna vs Juventus HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -95,7 +71,7 @@
 
 
 			"user": "Bologna vs Juventus HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -103,7 +79,16 @@
 
 
 			"user": "Bologna vs Juventus HD3",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+
+{
+
+
+			"user": "Bologna vs Juventus HD4",
+			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
