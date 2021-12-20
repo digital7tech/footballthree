@@ -26,7 +26,7 @@
 
 {
 		        "user": "Levante vs Valencia HD",
-			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR174YN99audiYDGsucPKuS3Qmz5W0hOvKsCqj8rB5kRRMh3e3-luPZpRQ&s=10"
 		},
