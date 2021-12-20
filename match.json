@@ -4,7 +4,7 @@
 
 {
 		        "user": "Fulham vs Sheffield United HD1",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "ENGLISH  CHAMPIONSHIP ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBRcBngLouYtWVjeEwtj-Y2zyt6VfrufZzA&usqp=CAU"
 		},
@@ -12,21 +12,21 @@
 
 {
 		        "user": "Fulham vs Sheffield United HD2",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://45.94.31.45:80/bar165002/tracks-v1a1/mono.m3u8",
 			"type": "ENGLISH  CHAMPIONSHIP ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBRcBngLouYtWVjeEwtj-Y2zyt6VfrufZzA&usqp=CAU"
 		},
 
 {
 		        "user": "Levante vs Valencia SD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR174YN99audiYDGsucPKuS3Qmz5W0hOvKsCqj8rB5kRRMh3e3-luPZpRQ&s=10"
 		},
 
 {
 		        "user": "Levante vs Valencia HD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://185.53.89.183/hls/ssla.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR174YN99audiYDGsucPKuS3Qmz5W0hOvKsCqj8rB5kRRMh3e3-luPZpRQ&s=10"
 		},
