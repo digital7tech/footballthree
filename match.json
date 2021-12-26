@@ -4,22 +4,22 @@
 
 	
 	{
-		        "user": "Manchester City vs Leeds SD",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
+		        "user": "Manchester City vs Leicester SD",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
 
 	{
-		        "user": "Manchester City vs Leeds SD2",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
+		        "user": "Manchester City vs Leicester SD2",
+			"pageUrl": "https://www.wopep.com/02_PremierHD2_480p/chunklist.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
 	{
-		        "user": "Manchester City vs Leeds HD1(English)",
+		        "user": "Manchester City vs Leicester HD1(English)",
 			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -36,12 +36,19 @@
 
 
 	{
-		        "user": "Norwich vs Arsenal SD",
-			"pageUrl": "https://www.wopep.com/02_PremierHD3_480p/chunklist.m3u8",
+		        "user": "Norwich vs Arsenal SD1",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
+
+	{
+		        "user": "Norwich vs Arsenal SD2",
+			"pageUrl": "https://www.wopep.com/02_PremierHD3_480p/chunklist.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 
 
 	{
@@ -62,7 +69,13 @@
 
 
 	{
-		        "user": "Tottenham vs Crystal Palace SD",
+		        "user": "Tottenham vs Crystal Palace SD1",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+	{
+		        "user": "Tottenham vs Crystal Palace SD2",
 			"pageUrl": "https://www.wopep.com/02_PremierHD1_480p/chunklist.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
