@@ -3,124 +3,6 @@
 
 
 	
-	{
-		        "user": "Manchester City vs Leicester SD",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	{
-		        "user": "Manchester City vs Leicester SD2",
-			"pageUrl": "https://www.wopep.com/02_PremierHD2_480p/chunklist.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-	{
-		        "user": "Manchester City vs Leicester HD1(English)",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	{
-		        "user": "Manchester City vs Leeds HD2",
-			"pageUrl": "http://45.94.31.45/bar165001/tracks-v1a1/mono.m3u8?SBN",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-
-	{
-		        "user": "Norwich vs Arsenal SD1",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	{
-		        "user": "Norwich vs Arsenal SD2",
-			"pageUrl": "https://www.wopep.com/02_PremierHD3_480p/chunklist.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	{
-		        "user": "Norwich vs Arsenal HD1(English)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	{
-		        "user": "Norwich vs Arsenal HD2",
-			"pageUrl": "https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-
-	{
-		        "user": "Tottenham vs Crystal Palace SD1",
-			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	{
-		        "user": "Tottenham vs Crystal Palace SD2",
-			"pageUrl": "https://www.wopep.com/02_PremierHD1_480p/chunklist.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-
-	{
-		        "user": "Tottenham vs Crystal Palace HD1(English)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	{
-		        "user": "Tottenham vs Crystal Palace HD2",
-			"pageUrl": "https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	{
-		        "user": "WestHam vs Southampton SD",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	{
-		        "user": "WestHam vs Southampton HD(English)",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P2.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	{
-		        "user": "WestHam vs Southampton HD2",
-			"pageUrl": "https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
 
 
 	{
@@ -134,7 +16,7 @@
 
 	{
 		        "user": "Aston Villa vs Chelsea HD(English)",
-			"pageUrl": "https://www.wopep.com/02_PremierHD1_480p/chunklist.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
