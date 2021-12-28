@@ -2,57 +2,6 @@
 "hits" : [
 
 
-
-
-
-
-
-
-		{
-
-
-			"user": "Leicester vs Liverpool SD1",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-
-
-		{
-
-
-			"user": "Leicester vs Liverpool SD2",
-			"pageUrl": "https://www.wopep.com/02_PremierHD1_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-
-
-
-		{
-
-
-			"user": "Leicester vs Liverpool HD1(English)",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-		{
-
-
-			"user": "Leicester vs Liverpool HD2",
-			"pageUrl": "https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
 	{
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
