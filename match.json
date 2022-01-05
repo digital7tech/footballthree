@@ -13,7 +13,7 @@
 
 	{
 		        "user": "Linares Deportivo vs Barcelona HD",
-			"pageUrl": "http://46.249.32.53:81/fastocloud/hls/2/61d38d4b04bf53199bfc9e4b/68/master.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "SPANISH COPA DEL REY ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO35DLZx30a6n0s3_VHFFU8pXbM0jt7Q8xuw&usqp=CAU"
 		},
@@ -66,7 +66,7 @@
 
 	{
 		        "user": "Chelsea vs Tottenham HD(English)",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "ENGLISH  LEAGUE CUP(semi-final) ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjLQuZghyEHbOAyg0LiYj-EohTuMrqJQwhlw&usqp=CAU"
 		},
