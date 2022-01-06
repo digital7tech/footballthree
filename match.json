@@ -33,6 +33,16 @@
 
 
 			"user": "Sampdoria vs Cagliari HD1",
+			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+
+
+{
+
+
+			"user": "Sampdoria vs Cagliari HD2",
 			"pageUrl": "https://95-213-224-181.livesports24.online/setantaplusru.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
@@ -40,7 +50,7 @@
 	{
 
 
-			"user": "Sampdoria vs Cagliari HD2",
+			"user": "Sampdoria vs Cagliari HD3",
 			"pageUrl": "http://158.69.117.205:9039/bt2/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
