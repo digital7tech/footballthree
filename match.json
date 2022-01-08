@@ -2,42 +2,12 @@
 "hits" : [
 
 
-	{
-		        "user": "Mansfield Town vs Middlesbrough HD",
-			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
+
 	
 	
 	{
 		        "user": "Bristol City vs Fulham  HD",
 			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-	{
-		        "user": "Burnley vs Huddersfield Town  HD",
-			"pageUrl": "http://77.247.109.101/hls/A2.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-	{
-		        "user": "Coventry City vs Derby County  HD",
-			"pageUrl": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-	{
-		        "user": "Millwall vs Crystal Palace  SD",
-			"pageUrl": "http://1.banglokora.xyz/live/1222338888/index.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-
-	{
-		        "user": "Millwall vs Crystal Palace  HD(English)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
@@ -113,13 +83,13 @@
 		},
 		{
 		        "user": "Leicester City vs Watford  HD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 		{
 		        "user": "Wigan Athletic vs Blackburn HD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://cdn2.cyclingnews.live/hls/P3.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
@@ -131,19 +101,14 @@
 		},
 		{
 		        "user": "West Bromwich vs Brighton  HD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://1.banglokora.xyz/live/9787488847/index.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
+	
 		{
 		        "user": "Port Vale vs Brentford  HD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-		{
-		        "user": "Port Vale vs Brentford  HD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
