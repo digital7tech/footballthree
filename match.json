@@ -115,37 +115,37 @@
 		},
 {
 		        "user": "Hull City vs Everton  SD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://1.banglokora.xyz/live/8197978778/index.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 	{
 		        "user": "Hull City vs Everton  HD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://77.247.109.101/hls/A2.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 	{
 		        "user": "Chelsea vs Chesterfield  SD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://1.banglokora.xyz/live/1222338888/index.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 	{
 		        "user": "Chelsea vs Chesterfield  HD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 	{
 		        "user": "Swansea City vs Southampton  HD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 	{
 		        "user": "Yeovil Town vs AFC Bournemouth  HD",
-			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"pageUrl": "http://77.247.109.101/hls/A4.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
@@ -153,7 +153,7 @@
 
 
 			"user": "Granada vs Barcelona SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -161,7 +161,7 @@
 
 
 			"user": "Granada vs Barcelona HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -169,7 +169,7 @@
 
 
 			"user": "Frankfurt vs Borussia Dortmund HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS3HD/index.m3u8?token=test",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
