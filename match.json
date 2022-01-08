@@ -3,31 +3,31 @@
 
 
 	{
-		        "user": "Mansfield Town vs Middlesbrough  HD
+		        "user": "Mansfield Town vs Middlesbrough  HD",
 			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 	{
-		        "user": "Bristol City vs Fulham  HD
+		        "user": "Bristol City vs Fulham  HD",
 			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 	{
-		        "user": "Burnley vs Huddersfield Town  HD
+		        "user": "Burnley vs Huddersfield Town  HD",
 			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 	{
-		        "user": "Coventry City vs Derby County  HD
+		        "user": "Coventry City vs Derby County  HD",
 			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 	{
-		        "user": "Millwall vs Crystal Palace  HD
+		        "user": "Millwall vs Crystal Palace  HD",
 			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
@@ -48,7 +48,188 @@
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
+	{
 
+
+			"user": "Hoffenheim vs Augsburg HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+	{
+
+
+			"user": "Bayer Leverkusen vs Bochum HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+	{
+
+
+			"user": "RB Leipzig vs Mainz 05 HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+	{
+
+
+			"user": "Bayer Leverkusen vs Union Berlin HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+	{
+
+
+			"user": "Freiburg vs Arminia Bielefeld HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+	{
+
+
+			"user": "Greuther Fürth vs Stuttgart HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+	{
+		        "user": "Port Vale vs Brentford  HD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+		{
+		        "user": "Leicester City vs Watford  HD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+		{
+		        "user": "Wigan Athletic vs Blackburn HD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+		{
+		        "user": "Newcastle vs Cambridge HD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+		{
+		        "user": "West Bromwich vs Brighton  HD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+		{
+		        "user": "Port Vale vs Brentford  HD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+		{
+		        "user": "Port Vale vs Brentford  HD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+	{
+
+
+			"user": "Real Sociedad vs Celta de Vigo SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+	{
+
+
+			"user": "Real Sociedad vs Celta de Vigo HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+{
+		        "user": "Hull City vs Everton  SD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+	{
+		        "user": "Hull City vs Everton  HD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+	{
+		        "user": "Chelsea vs Chesterfield  SD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+	{
+		        "user": "Chelsea vs Chesterfield  HD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+	{
+		        "user": "Swansea City vs Southampton  HD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+	{
+		        "user": "Yeovil Town vs AFC Bournemouth  HD",
+			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+	{
+
+
+			"user": "Granada vs Barcelona SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+	{
+
+
+			"user": "Granada vs Barcelona HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+	{
+
+
+			"user": "Frankfurt vs Borussia Dortmund HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+	{
+
+
+			"user": "Real Madrid vs Valencia SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+	{
+
+
+			"user": "Real Madrid vs Valencia HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
 
 	{
 		        "user": "ALL FOOTBALL",
