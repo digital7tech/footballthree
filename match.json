@@ -4,86 +4,7 @@
 
 
 	
-	
-	{
-		        "user": "Bristol City vs Fulham  HD",
-			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
 
-	{
-
-
-			"user": "Hoffenheim vs Augsburg HD",
-			"pageUrl": "http://194.67.196.19:80/hls/117.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-	{
-
-
-			"user": "Bayer Leverkusen vs Bochum HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-	{
-
-
-			"user": "RB Leipzig vs Mainz 05 HD",
-			"pageUrl": "https://bal.varcdn1.ru/lb/m3/index.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-	{
-
-
-			"user": "Bayer Leverkusen vs Union Berlin HD",
-			"pageUrl": "https://bal.varcdn1.ru/lb/setanta2/index.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-	{
-
-
-			"user": "Freiburg vs Arminia Bielefeld HD",
-			"pageUrl": "http://194.67.196.19:80/hls/115.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-	{
-
-
-			"user": "Greuther Fürth vs Stuttgart HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-	{
-		        "user": "Port Vale vs Brentford  HD",
-			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-		{
-		        "user": "Leicester City vs Watford  HD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-		{
-		        "user": "Wigan Athletic vs Blackburn HD",
-			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-		{
-		        "user": "Newcastle vs Cambridge HD",
-			"pageUrl": "http://77.247.109.101/hls/A2.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
 		{
 		        "user": "West Bromwich vs Brighton  HD",
 			"pageUrl": "http://77.247.109.101/hls/A4.m3u8",
@@ -91,28 +12,8 @@
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 	
-		{
-		        "user": "Port Vale vs Brentford  HD",
-			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-	{
+		
 
-
-			"user": "Real Sociedad vs Celta de Vigo SD",
-			"pageUrl": "http://1.banglokora.xyz/live/31009988005/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-	{
-
-
-			"user": "Real Sociedad vs Celta de Vigo HD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
 {
 		        "user": "Hull City vs Everton  SD",
 			"pageUrl": "http://1.banglokora.xyz/live/8197978778/index.m3u8",
