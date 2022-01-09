@@ -5,45 +5,6 @@
 
 	
 
-
-	
-		
-
-{
-		        "user": "Hull City vs Everton  SD",
-			"pageUrl": "http://1.banglokora.xyz/live/8197978778/index.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-	{
-		        "user": "Hull City vs Everton  HD(English)",
-			"pageUrl": "http://77.247.109.101/hls/A2.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-	{
-		        "user": "Swansea City vs Southampton  HD",
-			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-	{
-
-
-			"user": "Real Madrid vs Valencia SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-	{
-
-
-			"user": "Real Madrid vs Valencia HD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-
 	{
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://208.86.19.21:80/610.stream/index.m3u8",
