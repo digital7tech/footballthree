@@ -66,7 +66,7 @@
 
 
 			"user": "Roma vs Juventus HD2",
-			"pageUrl": "https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8",
+			"pageUrl": "http://158.69.117.205:9039/bt1/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -82,7 +82,7 @@
 
 
 			"user": "Genoa vs Spezia HD1",
-			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
+			"pageUrl": "http://158.69.117.205:9039/bt3/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -90,7 +90,7 @@
 
 
 			"user": "Genoa vs Spezia HD2",
-			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
+			"pageUrl": "http://158.69.117.205:9039/bt3/tracks-v1a1/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
