@@ -3,34 +3,7 @@
   "hits" : [
 
 
-{
 
-
-			"user":"Nigeria vs Egypt SD1",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
-			"type": "Africa - Africa Cup of Nations ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
-		},
-
-
-{
-
-
-			"user":"Nigeria vs Egypt HD",
-			"pageUrl": "http://b.banourahga.xyz/live/14066007/index.m3u8",
-			"type": "Africa - Africa Cup of Nations ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
-		},
-
-
-	{
-
-
-			 "user":"Nigeria vs Egypt HD(English)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
-			"type": "Africa - Africa Cup of Nations ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
-		},
 
 
 
@@ -38,7 +11,7 @@
 
 
 			"user":"Sudan vs Guinea-Bissau SD",
-			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
 		},
@@ -47,7 +20,7 @@
 
 
 			"user":"Sudan vs Guinea-Bissau HD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M3.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
 		},
