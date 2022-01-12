@@ -106,7 +106,7 @@
 
 {
 		        "user": "Internazionale vs Juventus HD1",
-			"pageUrl": "http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
 			"type": "SUPERCOPPA ITALIANA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFyw-DsTOI3RkjCXF93U8WTMN85K6IayCdGw&usqp=CAU"
 		},		
@@ -114,7 +114,7 @@
 
 {
 		        "user": "Internazionale vs Juventus HD2",
-			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
+			"pageUrl": "http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8",
 			"type": "SUPERCOPPA ITALIANA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFyw-DsTOI3RkjCXF93U8WTMN85K6IayCdGw&usqp=CAU"
 		},		
