@@ -38,10 +38,16 @@
 		},
 
 
-
 {
 		        "user": "Barcelona vs Real Madrid SD",
-			"pageUrl": "http://b.banourahga.xyz/live/14066007/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"type": " SUPERCOPA DE ESPANA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhU7Q2yNEKitV4igb84VrFwUahpX2zBTib5w&usqp=CAU"
+		},		
+
+{
+		        "user": "Barcelona vs Real Madrid HD1",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": " SUPERCOPA DE ESPANA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhU7Q2yNEKitV4igb84VrFwUahpX2zBTib5w&usqp=CAU"
 		},		
@@ -49,8 +55,8 @@
 
 
 {
-		        "user": "Barcelona vs Real Madrid HD",
-			"pageUrl": "http://b.banourahga.xyz/live/14066007/index.m3u8",
+		        "user": "Barcelona vs Real Madrid HD2",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS3HD/index.m3u8?token=test",
 			"type": " SUPERCOPA DE ESPANA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhU7Q2yNEKitV4igb84VrFwUahpX2zBTib5w&usqp=CAU"
 		},
@@ -66,7 +72,7 @@
 
 {
 		        "user": "Tottenham Hotspur vs Chelsea HD(English)",
-			"pageUrl": "http://b.banourahga.xyz/live/14066007/index.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "ENGLAND - LEAGUE CUP ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj-dfuiQyHRkQxiLftRFrGjfIGsLfxvBLUGQ&usqp=CAU"
 		},		
