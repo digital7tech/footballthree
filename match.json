@@ -8,25 +8,6 @@
 
 
 
-
-	{
-		        "user": "Napoli vs Fiorentina HD1",
-			"pageUrl": "http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8",
-			"type": "COPPA ITALIA ⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2192.png"
-		},
-
-
-
-
-	{
-		        "user": "Napoli vs Fiorentina HD2",
-			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
-			"type": "COPPA ITALIA ⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2192.png"
-		},
-
-
 	{
 		        "user": "Cape Verde vs Burkina Faso SD",
 			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
