@@ -85,7 +85,7 @@
 
 
 			"user": "Real Madrid vs Athletic Club HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
 			"type": "Spain - Supercopa de España ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png"
 		},
