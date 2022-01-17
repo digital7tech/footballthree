@@ -1,4 +1,4 @@
-{ 
+
  
   "hits" : [
 
@@ -9,82 +9,7 @@
 
 
 
-	  
-	  {
 
-
-			"user": "Real Madrid vs Athletic Club SD",
-			"pageUrl": "http://158.69.117.205:9039/bt3/tracks-v1a1/mono.m3u8",
-			"type": "Spain - Supercopa de España ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png"
-		},
-	   {
-
-
-			"user": "Real Madrid vs Athletic Club HD",
-			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
-			"type": "Spain - Supercopa de España ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png"
-		},
-	  
-	  
-	  {
-
-
-			"user": "Algeria vs Equatorial Guinea  SD",
-			"pageUrl": "http://b.banourahga.xyz/live/88002/index.m3u8",
-			"type": "Africa - Africa Cup of Nations ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
-		},
-	    {
-
-
-			"user": "Algeria vs Equatorial Guinea  HD",
-			"pageUrl": "http://b.banourahga.xyz/live/88002/index.m3u8",
-			"type": "Africa - Africa Cup of Nations ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
-		},
-	  
- {
-
-
-			"user": "Atalanta vs Internazionale HD1",
-			"pageUrl": "http://185.53.89.183/hls/bt1.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-
-			"user": "Atalanta vs Internazionale HD2",
-			"pageUrl": "https://bal.varcdn1.ru/lb/m1/index.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-		{
-
-
-			"user": "Atalanta vs Internazionale HD3",
-			"pageUrl": "https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
-		},
-	  {
-
-
-			"user": "Olympique Marseille vs Lille SD",
-			"pageUrl": "http://p7.anfalrou.xyz/live/10011244/index.m3u8",
-			"type": "France - Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-	    {
-
-
-			"user": "Olympique Marseille vs Lille HD",
-			"pageUrl": "http://158.69.117.205:9039/btespn/tracks-v1a1/mono.m3u8",
-			"type": "France - Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
 	{
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
