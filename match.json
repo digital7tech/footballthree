@@ -1,4 +1,4 @@
-{
+3{
  
   "hits" : [
 	  
@@ -119,7 +119,7 @@
 
 
 			"user": "Juventus vs Sampdoria HD2",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
 			"type": "Italy - Coppa Italia ⚽️ ",
 			"webFormatUrl": "https://tmssl.akamaized.net/images/logo/header/cit.png?lm=1613033113"
 		},
