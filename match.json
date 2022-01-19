@@ -71,7 +71,7 @@
 
 
 			"user": "Egypt vs Sudan HD",
-			"pageUrl": "http://b.banourahga.xyz/live/500020/index.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T3.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
 		},
@@ -87,7 +87,7 @@
 
 
 			"user": "Guinea-Bissau vs Nigeria HD",
-			"pageUrl": "http://b.banourahga.xyz/live/515140/index.m3u8",
+			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
 		},
@@ -151,7 +151,7 @@
 
 
 			"user": "Brentford vs Manchester United SD2(English)",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
+			"pageUrl": "https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -162,7 +162,7 @@
 
 
 			"user": "Brentford vs Manchester United HD1(Engish)",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -173,7 +173,7 @@
 
 
 			"user": "Brentford vs Manchester United HD2",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
+			"pageUrl": "http://b.banourahga.xyz/live/61616/index.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -183,7 +183,7 @@
 
 
 			"user": "Inter vs Empoli HD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+			"pageUrl": "http://77.247.109.101/hls/A2.m3u8",
 			"type": "Italy - Coppa Italia ⚽️ ",
 			"webFormatUrl": "https://tmssl.akamaized.net/images/logo/header/cit.png?lm=1613033113"
 		},
@@ -200,9 +200,27 @@
 
 
 			"user": "Real Sociedad vs Athletico Madrid HD",
-			"pageUrl": "http://1.banglokora.xyz/live/978488877005/index.m3u8",
+			"pageUrl": "http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8",
 			"type": "Copa del Rey ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJqdB94sZVqXLhyO8h4BQ6GgfQwORq8cqZQ&usqp=CAU"
+		},
+
+
+  {
+
+
+			"user": "Valencia vs Sevilla SD",
+			"pageUrl": "http://b.banourahga.xyz/live/978488877005/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+	  {
+
+
+			"user": "Valencia vs Sevilla HD",
+			"pageUrl": "http://b.banourahga.xyz/live/918454578001/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
 	{
 		        "user": "ALL FOOTBALL",
