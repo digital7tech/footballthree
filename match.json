@@ -7,7 +7,7 @@
 	 {
 
 
-			"user": "Egypt vs Sudan SD",
+			"user": "Côte d'Ivoire vs Algeria SD",
 			"pageUrl": "http://194.67.196.19:80/hls/111.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
@@ -15,7 +15,7 @@
 	    {
 
 
-			"user": "Egypt vs Sudan HD",
+			"user": "Côte d'Ivoire vs Algeria HD",
 			"pageUrl": "http://77.247.109.111/hls/T3.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
@@ -23,7 +23,7 @@
 	    {
 
 
-			"user": "Guinea-Bissau vs Nigeria SD",
+			"user": "Sierra Leone vs Equatorial Guinea SD",
 			"pageUrl": "http://194.67.196.19:80/hls/112.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
@@ -31,12 +31,11 @@
 	    {
 
 
-			"user": "Guinea-Bissau vs Nigeria HD",
+			"user": "Sierra Leone vs Equatorial Guinea HD",
 			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
-		},   
-	   
+		},
 	    {
 
 
