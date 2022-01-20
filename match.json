@@ -5,26 +5,7 @@
 
   
 
-	    {
-
-
-			"user": "Elche vs Real Madrid HD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
-			"type": "Copa del Rey ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJqdB94sZVqXLhyO8h4BQ6GgfQwORq8cqZQ&usqp=CAU"
-		},
 	    
-	   
-
-
-	  {
-
-
-			"user": "Getafe vs Granada HD",
-			"pageUrl": "http://b.banourahga.xyz/live/918454578001/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
 	  
 	
  {
@@ -63,7 +44,7 @@
 
 
 			"user": "Arsenal vs Liverpool SD1",
-			"pageUrl": "http://b.banourahga.xyz/live/61616/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "England - League Cup ⚽️ ",
 			"webFormatUrl": "https://w7.pngwing.com/pngs/859/71/png-transparent-efl-cup-english-football-league-efl-championship-fa-cup-premier-league-premier-league-text-rectangle-logo.png"
 		},
