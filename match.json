@@ -4,125 +4,59 @@
 	  
 
   
-	   
-	   
-	  
-	   {
+	 {
 
 
-			"user": "Leicester vs Tottenham SD1",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+			"user": "Egypt vs Sudan SD",
+			"pageUrl": "http://194.67.196.19:80/hls/111.m3u8",
+			"type": "Africa - Africa Cup of Nations ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
 		},
-	   {
-
-
-			"user": "Leicester vs Tottenham SD2",
-			"pageUrl": "http://1.banglokora.xyz/live/1222338888/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	   {
-
-
-			"user": "Leicester vs Tottenham HD1(English)",
-			"pageUrl": "http://158.69.117.205:9039/bt2/tracks-v1a1/mono.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-	   {
-
-
-			"user": "Leicester vs Tottenham HD2",
-			"pageUrl": "https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
 	    {
 
 
-			"user": "Hertha BSC vs Union Berlin HD",
-			"pageUrl": "https://bal.varcdn1.ru/lb/m3/index.m3u8",
-			"type": "Germany - DFB Pokal ⚽️ ",
-			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
+			"user": "Egypt vs Sudan HD",
+			"pageUrl": "http://77.247.109.111/hls/T3.m3u8",
+			"type": "Africa - Africa Cup of Nations ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
 		},
+	    {
 
-	   {
 
-
-			"user": "Brentford vs Manchester United SD1",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+			"user": "Guinea-Bissau vs Nigeria SD",
+			"pageUrl": "http://194.67.196.19:80/hls/112.m3u8",
+			"type": "Africa - Africa Cup of Nations ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
 		},
+	    {
 
 
-	   {
+			"user": "Guinea-Bissau vs Nigeria HD",
+			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
+			"type": "Africa - Africa Cup of Nations ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
+		},   
+	   
+	    {
 
 
-			"user": "Brentford vs Manchester United SD2(English)",
-			"pageUrl": "https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-
-	   {
-
-
-			"user": "Brentford vs Manchester United HD1(Engish)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-
-	   {
-
-
-			"user": "Brentford vs Manchester United HD2",
-			"pageUrl": "http://b.banourahga.xyz/live/61616/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-			
- {
-
-
-			"user": "Inter vs Empoli HD",
-			"pageUrl": "http://77.247.109.101/hls/A2.m3u8",
-			"type": "Italy - Coppa Italia ⚽️ ",
-			"webFormatUrl": "https://tmssl.akamaized.net/images/logo/header/cit.png?lm=1613033113"
-		},
-	   {
-
-
-			"user": "Inter vs Empoli HD2",
-			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
-			"type": "Italy - Coppa Italia ⚽️ ",
-			"webFormatUrl": "https://tmssl.akamaized.net/images/logo/header/cit.png?lm=1613033113"
-		},
-	
-	  {
-
-
-			"user": "Real Sociedad vs Athletico Madrid HD",
+			"user": "Elche vs Real Madrid SD",
 			"pageUrl": "http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8",
 			"type": "Copa del Rey ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJqdB94sZVqXLhyO8h4BQ6GgfQwORq8cqZQ&usqp=CAU"
 		},
+	    {
 
 
-  {
+			"user": "Elche vs Real Madrid HD",
+			"pageUrl": "http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8",
+			"type": "Copa del Rey ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJqdB94sZVqXLhyO8h4BQ6GgfQwORq8cqZQ&usqp=CAU"
+		},
+	   {
 
 
-			"user": "Valencia vs Sevilla SD",
+			"user": "Getafe vs Granada SD",
 			"pageUrl": "http://b.banourahga.xyz/live/978488877005/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
@@ -130,11 +64,122 @@
 	  {
 
 
-			"user": "Valencia vs Sevilla HD",
+			"user": "Getafe vs Granada HD",
 			"pageUrl": "http://b.banourahga.xyz/live/918454578001/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
+	  
+	
+ {
+
+
+			"user": "Gambia vs Tunisia SD",
+			"pageUrl": "http://194.67.196.19:80/hls/111.m3u8",
+			"type": "Africa - Africa Cup of Nations ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
+		},
+	    {
+
+
+			"user": "Gambia vs Tunisia HD",
+			"pageUrl": "http://77.247.109.111/hls/T3.m3u8",
+			"type": "Africa - Africa Cup of Nations ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
+		},
+	    {
+
+
+			"user": "Mali vs Mauritania SD",
+			"pageUrl": "http://194.67.196.19:80/hls/112.m3u8",
+			"type": "Africa - Africa Cup of Nations ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
+		},
+	    {
+
+
+			"user": "Mali vs Mauritania HD",
+			"pageUrl": "http://77.247.109.111/hls/T2.m3u8",
+			"type": "Africa - Africa Cup of Nations ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
+		},  
+	   {
+
+
+			"user": "Arsenal vs Liverpool SD1",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "England - League Cup ⚽️ ",
+			"webFormatUrl": "https://w7.pngwing.com/pngs/859/71/png-transparent-efl-cup-english-football-league-efl-championship-fa-cup-premier-league-premier-league-text-rectangle-logo.png"
+		},
+	    {
+
+
+			"user": "Arsenal vs Liverpool HD1",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "England - League Cup ⚽️ ",
+			"webFormatUrl": "https://w7.pngwing.com/pngs/859/71/png-transparent-efl-cup-english-football-league-efl-championship-fa-cup-premier-league-premier-league-text-rectangle-logo.png"
+		},
+	    {
+
+
+			"user": "Arsenal vs Liverpool HD2",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "England - League Cup ⚽️ ",
+			"webFormatUrl": "https://w7.pngwing.com/pngs/859/71/png-transparent-efl-cup-english-football-league-efl-championship-fa-cup-premier-league-premier-league-text-rectangle-logo.png"
+		},
+			
+ {
+
+
+			"user": "Roma vs Lecce HD",
+			"pageUrl": "http://77.247.109.101/hls/A2.m3u8",
+			"type": "Italy - Coppa Italia ⚽️ ",
+			"webFormatUrl": "https://tmssl.akamaized.net/images/logo/header/cit.png?lm=1613033113"
+		},
+	   {
+
+
+			"user": "Roma vs Lecce HD2",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
+			"type": "Italy - Coppa Italia ⚽️ ",
+			"webFormatUrl": "https://tmssl.akamaized.net/images/logo/header/cit.png?lm=1613033113"
+		},
+	
+	
+  {
+
+
+			"user": "Athletic Club vs Barcelona SD",
+			"pageUrl": "http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8",
+			"type": "Copa del Rey ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJqdB94sZVqXLhyO8h4BQ6GgfQwORq8cqZQ&usqp=CAU"
+		},
+	    {
+
+
+			"user": "Athletic Club vs Barcelona HD",
+			"pageUrl": "http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8",
+			"type": "Copa del Rey ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJqdB94sZVqXLhyO8h4BQ6GgfQwORq8cqZQ&usqp=CAU"
+		},
+	   {
+
+
+			"user": "Elche vs Villarreal SD",
+			"pageUrl": "http://b.banourahga.xyz/live/978488877005/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+	  {
+
+
+			"user": "Elche vs Villarreal HD",
+			"pageUrl": "http://b.banourahga.xyz/live/918454578001/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+
+ 
 	{
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
