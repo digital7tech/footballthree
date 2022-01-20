@@ -68,15 +68,15 @@
 
 
 			"user": "Arsenal vs Liverpool SD1",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"pageUrl": "http://b.banourahga.xyz/live/61616/index.m3u8",
 			"type": "England - League Cup ⚽️ ",
 			"webFormatUrl": "https://w7.pngwing.com/pngs/859/71/png-transparent-efl-cup-english-football-league-efl-championship-fa-cup-premier-league-premier-league-text-rectangle-logo.png"
 		},
 	    {
 
 
-			"user": "Arsenal vs Liverpool HD1",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"user": "Arsenal vs Liverpool HD1(English)",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "England - League Cup ⚽️ ",
 			"webFormatUrl": "https://w7.pngwing.com/pngs/859/71/png-transparent-efl-cup-english-football-league-efl-championship-fa-cup-premier-league-premier-league-text-rectangle-logo.png"
 		},
@@ -84,7 +84,7 @@
 
 
 			"user": "Arsenal vs Liverpool HD2",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"pageUrl": "http://b.banourahga.xyz/live/61616/index.m3u8",
 			"type": "England - League Cup ⚽️ ",
 			"webFormatUrl": "https://w7.pngwing.com/pngs/859/71/png-transparent-efl-cup-english-football-league-efl-championship-fa-cup-premier-league-premier-league-text-rectangle-logo.png"
 		},
@@ -93,7 +93,7 @@
 
 
 			"user": "Roma vs Lecce HD",
-			"pageUrl": "http://77.247.109.101/hls/A2.m3u8",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test",
 			"type": "Italy - Coppa Italia ⚽️ ",
 			"webFormatUrl": "https://tmssl.akamaized.net/images/logo/header/cit.png?lm=1613033113"
 		},
@@ -110,35 +110,13 @@
   {
 
 
-			"user": "Athletic Club vs Barcelona SD",
-			"pageUrl": "http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8",
-			"type": "Copa del Rey ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJqdB94sZVqXLhyO8h4BQ6GgfQwORq8cqZQ&usqp=CAU"
-		},
-	    {
-
-
 			"user": "Athletic Club vs Barcelona HD",
-			"pageUrl": "http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "Copa del Rey ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJqdB94sZVqXLhyO8h4BQ6GgfQwORq8cqZQ&usqp=CAU"
 		},
-	   {
-
-
-			"user": "Elche vs Villarreal SD",
-			"pageUrl": "http://b.banourahga.xyz/live/978488877005/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-	  {
-
-
-			"user": "Elche vs Villarreal HD",
-			"pageUrl": "http://b.banourahga.xyz/live/918454578001/index.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
+	   
+	   
 
  
 	{
