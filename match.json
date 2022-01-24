@@ -8,30 +8,12 @@
 
 	  
 	    
-	  {
 
-
-			"user": "Guinea vs Gambia SD",
-			"pageUrl": "https://5f7ebd8ed1895.streamlock.net/afcon-primary/afcon-primary/playlist.m3u8",
-			"type": "Africa - Africa Cup of Nations ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
-		},
-
-  
-	    
-	  {
-
-
-			"user": "Guinea vs Gambia HD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8",
-			"type": "Africa - Africa Cup of Nations ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
-		},
 	  {
 
 
 			"user": "Cameroon vs Comoros SD",
-			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
+			"pageUrl": "https://5f7ebd8ed1895.streamlock.net/afcon-primary/afcon-primary/playlist.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
 		},
@@ -40,7 +22,7 @@
 
 
 			"user": "Cameroon vs Comoros HD",
-			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
+			"pageUrl": "https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
 		},
