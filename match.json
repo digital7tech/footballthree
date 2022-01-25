@@ -13,7 +13,7 @@
 
 
 			"user": "Senegal vs Cape Verde SD",
-			"pageUrl": "https://5f7ebd8ed1895.streamlock.net/afcon-primary/afcon-primary/playlist.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
 		},
@@ -30,7 +30,7 @@
 
 
 			"user": "Morocco vs Malawi SD",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
 		},
