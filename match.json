@@ -11,7 +11,7 @@
   {
 
 
-			"user": "Morocco vs Malawi SD",
+			"user": "Ivory Coast vs Egypt SD",
 			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
@@ -22,7 +22,7 @@
   {
 
 
-			"user": "Morocco vs Malawi SD2",
+			"user": "Ivory Coast vs Egypt HD",
 			"pageUrl": "https://5f7ebd8ed1895.streamlock.net/afcon-primary/afcon-primary/playlist.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
@@ -30,7 +30,7 @@
 	    {
 
 
-			"user": "Morocco vs Malawi HD(English)",
+			"user": "Ivory Coast vs Egypt HD(English)",
 			"pageUrl": "https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
@@ -38,19 +38,70 @@
 	    {
 
 
-			"user": "QPR vs Swansea City HD1(English)",
+			"user": "Angers vs Saint-Étienne SD",
 			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8",
-			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBRcBngLouYtWVjeEwtj-Y2zyt6VfrufZzA&usqp=CAUng"
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
 		},
 
 	    {
 
 
-			"user": "QPR vs Swansea City HD2",
+			"user": "Angers vs Saint-Étienne HD",
 			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8",
-			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBRcBngLouYtWVjeEwtj-Y2zyt6VfrufZzA&usqp=CAUng"
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
+		},
+
+
+  {
+
+
+			"user": "Mali vs Equatorial Guinea SD",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"type": "Africa - Africa Cup of Nations ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
+		},
+
+
+
+  {
+
+
+			"user": "Mali vs Equatorial Guinea HD",
+			"pageUrl": "https://5f7ebd8ed1895.streamlock.net/afcon-primary/afcon-primary/playlist.m3u8",
+			"type": "Africa - Africa Cup of Nations ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
+		},	   
+	    {
+
+
+			"user": "Mali vs Equatorial Guinea HD(English)",
+			"pageUrl": "https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8",
+			"type": "Africa - Africa Cup of Nations ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
+		},
+
+
+
+  {
+
+
+			"user": "Hearts vs Celtic SD",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"type": "Scottish Premiership ⚽️ ",
+			"webFormatUrl": "https://iconape.com/wp-content/files/yg/321271/png/321271.pngal_logo.png"
+		},
+
+
+
+  {
+
+
+			"user": "Hearts vs Celtic HD",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"type": "Scottish Premiership ⚽️ ",
+			"webFormatUrl": "https://iconape.com/wp-content/files/yg/321271/png/321271.pngal_logo.png"
 		},
 
 	{
