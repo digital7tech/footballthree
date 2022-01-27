@@ -7,78 +7,128 @@
 	    {
 
 
-			"user": "Angers vs Saint-Étienne SD",
+			"user": "Ecuador vs Brazil SD",
 			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
+			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
+		},
+
+
+    {
+
+
+			"user": "Ecuador vs Brazil HD",
+			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
+			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
+		},
+
+
+
+	    {
+
+
+			"user": "Paraguay vs Uruguay SD",
+			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
+			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
+		},
+
+
+    {
+
+
+			"user": "Paraguay vs Uruguay  HD",
+			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
+			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
+		},
+
+
+
+    {
+
+
+			"user": "Jamaica vs Mexico HD",
+			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
+			"type": "WORLD CUP QUALIFYING CONCACAF ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
+		},
+
+
+
+    {
+
+
+			"user": "USA vs El Salvador HD",
+			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
+			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
+		},
+
+
+
+	    {
+
+
+			"user": "Paraguay vs Uruguay SD",
+			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
+			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
 		},
 
 	    {
 
 
-			"user": "Angers vs Saint-Étienne HD",
-			"pageUrl": "https://bal.varcdn1.ru/lb/setanta1/index.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
-		},
-
-
-  {
-
-
-			"user": "Mali vs Equatorial Guinea SD",
-			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
-			"type": "Africa - Africa Cup of Nations ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
-		},
-
-  {
-
-
-			"user": "Mali vs Equatorial Guinea SD",
-			"pageUrl": "https://5f7ebd8ed1895.streamlock.net/afcon-secondary/afcon-secondary/playlist.m3u8",
-			"type": "Africa - Africa Cup of Nations ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
-		},
-
-  {
-
-
-			"user": "Mali vs Equatorial Guinea HD",
-			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
-			"type": "Africa - Africa Cup of Nations ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
-		},	   
-	    {
-
-
-			"user": "Mali vs Equatorial Guinea HD(English)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
-			"type": "Africa - Africa Cup of Nations ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Africa_Cup_of_Nation_official_logo.png/200px-Africa_Cup_of_Nation_official_logo.png"
+			"user": "Paraguay vs Uruguay HD",
+			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
+			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
 		},
 
 
 
-  {
+
+    {
 
 
-			"user": "Hearts vs Celtic SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Scottish Premiership ⚽️ ",
-			"webFormatUrl": "https://iconape.com/wp-content/files/yg/321271/png/321271.pngal_logo.png"
+			"user": "Chile vs Argentina SD",
+			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
+			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
 		},
 
 
+    {
 
-  {
 
-
-			"user": "Hearts vs Celtic HD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Scottish Premiership ⚽️ ",
-			"webFormatUrl": "https://iconape.com/wp-content/files/yg/321271/png/321271.pngal_logo.png"
+			"user": "Chile vs Argentina HD",
+			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
+			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
 		},
+
+    {
+
+
+			"user": "Honduras vs Canada HD",
+			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
+			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
+		},
+
+
+    {
+
+
+			"user": "Costa Rica vs Panama HD",
+			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
+			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
+		},
+
+
+	    
 
 	{
 		        "user": "ALL FOOTBALL",
