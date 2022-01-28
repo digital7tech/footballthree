@@ -29,7 +29,7 @@
 
 
 			"user": "Nantes vs Brest SD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
 			"type": "COUP DE FRANCE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
 		},
@@ -39,7 +39,7 @@
 
 
 			"user": "Nantes vs Brest HD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+			"pageUrl": "https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8",
 			"type": "COUP DE FRANCE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
 		},
