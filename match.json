@@ -11,7 +11,43 @@
 	    {
 
 
-			"user": "Paraguay vs Uruguay SD",
+			"user": "Huddersfield Town vs Stoke City SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBRcBngLouYtWVjeEwtj-Y2zyt6VfrufZzA&usqp=CAU"
+		},
+
+{
+
+
+			"user": "Huddersfield Town vs Stoke City HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBRcBngLouYtWVjeEwtj-Y2zyt6VfrufZzA&usqp=CAU"
+		},
+    {
+
+
+			"user": "Nantes vs Brest SD",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+			"type": "COUP DE FRANCE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
+		},
+
+
+{
+
+
+			"user": "Nantes vs Brest HD",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+			"type": "COUP DE FRANCE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
+		},
+
+	    {
+
+
+			"user": "Colombia vs Peru SD",
 			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
@@ -21,87 +57,33 @@
     {
 
 
-			"user": "Paraguay vs Uruguay  HD(English)",
+			"user": "Colombia vs Peru HD(English)",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
+		},
+
+	    {
+
+
+			"user": "Venezuela vs Bolivia  SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
+		},
+
+
+    {
+
+
+			"user": "Venezuela vs Bolivia HD(English)",
 			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
 		},
 
 
-
-    {
-
-
-			"user": "Jamaica vs Mexico HD",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P3.m3u8",
-			"type": "WORLD CUP QUALIFYING CONCACAF ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
-		},
-
-
-
-    {
-
-
-			"user": "USA vs El Salvador SD",
-			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
-			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
-		},
-
-    {
-
-
-			"user": "USA vs El Salvador HD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M3.m3u8",
-			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
-		},
-
-
-
-	    
-
-
-
-
-    {
-
-
-			"user": "Chile vs Argentina SD",
-			"pageUrl": "http://194.67.196.19:80/hls/109.m3u8",
-			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
-		},
-
-
-    {
-
-
-			"user": "Chile vs Argentina HD",
-			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8",
-			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
-		},
-
-    {
-
-
-			"user": "Honduras vs Canada HD",
-			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
-			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
-		},
-
-
-    {
-
-
-			"user": "Costa Rica vs Panama HD",
-			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
-			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
-		},
+ 
 
 
 	    
