@@ -76,7 +76,7 @@
 
 
 			"user": "Chile vs Argentina SD",
-			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
 		},
@@ -86,7 +86,7 @@
 
 
 			"user": "Chile vs Argentina HD",
-			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
 		},
