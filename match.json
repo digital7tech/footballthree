@@ -24,11 +24,54 @@
 			"pageUrl": "https://bal.varcdn1.ru/lb/setanta2/index.m3u8",
 			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBRcBngLouYtWVjeEwtj-Y2zyt6VfrufZzA&usqp=CAU"
+},
+
+
+
+	    {
+
+
+			"user": "Gambia vs Cameroon SD",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
+			"type": "AFRICA CUP OF NATIONS ⚽️ ",
+			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
 		},
+
+
     {
 
 
-			"user": "Nantes vs Brest SD",
+			"user": "Gambia vs Cameroon HD(English)",
+			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8",
+			"type": "AFRICA CUP OF NATIONS ⚽️ ",
+			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
+		},
+
+
+
+	    {
+
+
+			"user": "Peterborough vs Sheffield United SD",
+			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8",
+			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBRcBngLouYtWVjeEwtj-Y2zyt6VfrufZzA&usqp=CAU"
+		},
+
+{
+
+
+			"user": "Peterborough vs Sheffield United HD",
+			"pageUrl": "https://bal.varcdn1.ru/lb/setanta2/index.m3u8",
+			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBRcBngLouYtWVjeEwtj-Y2zyt6VfrufZzA&usqp=CAU"
+},
+
+
+    {
+
+
+			"user": "Reims vs Bastia SD",
 			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
 			"type": "COUP DE FRANCE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
@@ -38,53 +81,55 @@
 {
 
 
-			"user": "Nantes vs Brest HD",
+			"user": "Reims vs Bastia HD",
 			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
 			"type": "COUP DE FRANCE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
 		},
 
+
+	  
+
+
 	    {
 
 
-			"user": "Colombia vs Peru SD",
+			"user": "Burkina Faso vs Tunisia SD",
 			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
-			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
+			"type": "AFRICA CUP OF NATIONS ⚽️ ",
+			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
 		},
 
 
     {
 
 
-			"user": "Colombia vs Peru HD(English)",
+			"user": "Burkina Faso vs Tunisia HD(English)",
 			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8",
-			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
+			"type": "AFRICA CUP OF NATIONS ⚽️ ",
+			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
 		},
-
-	    {
-
-
-			"user": "Venezuela vs Bolivia  SD",
-			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8",
-			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
-		},
-
-
-    {
-
-
-			"user": "Venezuela vs Bolivia HD(English)",
-			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8",
-			"type": "WORLD CUP QUALIFYING CONMEBOL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH-G-6R9dGrIwGIwklRidTs63_Y57cc_ygg&usqp=CAU"
-		},
-
 
  
 
+    {
+
+
+			"user": "Marseille vs Montpellier SD",
+			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
+			"type": "COUP DE FRANCE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
+		},
+
+
+{
+
+
+			"user": "Marseille vs Montenegro HD",
+			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
+			"type": "COUP DE FRANCE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
+		},
 
 	    
 
