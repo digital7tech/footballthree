@@ -8,28 +8,7 @@
 
 
 
-	  
 
-
-
-	    {
-
-
-			"user": "Gambia vs Cameroon SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "AFRICA CUP OF NATIONS ⚽️ ",
-			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
-		},
-
-
-    {
-
-
-			"user": "Gambia vs Cameroon HD(English)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
-			"type": "AFRICA CUP OF NATIONS ⚽️ ",
-			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
-		},
 
 
 
@@ -79,7 +58,7 @@
 
 
 			"user": "Burkina Faso vs Tunisia SD",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "AFRICA CUP OF NATIONS ⚽️ ",
 			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
 		},
@@ -89,7 +68,7 @@
 
 
 			"user": "Burkina Faso vs Tunisia HD(English)",
-			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "AFRICA CUP OF NATIONS ⚽️ ",
 			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
 		},
