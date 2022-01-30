@@ -90,7 +90,7 @@
 
 
 			"user": "Canada vs USA SD",
-			"pageUrl": "http://rented2.mireasa.live/cdn/premium125/chunks.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M3.m3u8",
 			"type": "WORLD CUP QUALIFIERS ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhSYqvdCk_HDnbOV-0yPlUWwigxmGgAmtw&usqp=CAU"
 		},
@@ -100,7 +100,7 @@
 
 
 			"user": "Canada vs USA HD(English)",
-			"pageUrl": "http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://rented2.mireasa.live/cdn/premium125/chunks.m3u8",
 			"type": "WORLD CUP QUALIFYING ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhSYqvdCk_HDnbOV-0yPlUWwigxmGgAmtw&usqp=CAU"
 		},
@@ -108,7 +108,7 @@
 
 
 			"user": "Porto vs Marítimo SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNZh161_sphTKkjuZ3wcTFaes7_MvbTknkeA&usqp=CAU"
 		},
