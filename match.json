@@ -31,13 +31,21 @@
 },
 
 
+	    {
+
+
+			"user": "Egypt vs Morocco SD",
+			"pageUrl": "http://194.67.196.19:80/hls/107.m3u8",
+			"type": "AFRICA CUP OF NATIONS ⚽️ ",
+			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
+		},
 
 
 	    {
 
 
 			"user": "Egypt vs Morocco HD1(English)",
-			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
 			"type": "AFRICA CUP OF NATIONS ⚽️ ",
 			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
 		},
@@ -50,20 +58,12 @@
 
 
 			"user": "Egypt vs Morocco HD2(English)",
-			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
+			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8",
 			"type": "AFRICA CUP OF NATIONS ⚽️ ",
 			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
 		},
 
  
-	    {
-
-
-			"user": "Egypt vs Morocco SD",
-			"pageUrl": "http://194.67.196.19:80/hls/107.m3u8",
-			"type": "AFRICA CUP OF NATIONS ⚽️ ",
-			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
-		},
 
 	    {
 
