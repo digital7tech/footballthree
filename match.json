@@ -2,131 +2,13 @@
  
   "hits" : [
 	  
-	   
 
-
-
-
-
-
-
-
-
-
-	    
-
- 
-
-
-
-
-    {
-
-
-			"user": "Bergerac vs Saint-Étienne SD",
-			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
-			"type": "COUP DE FRANCE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
-		},
-
-
-{
-
-
-			"user": "Bergerac vs Saint-Étienne HD",
-			"pageUrl": "https://bal.varcdn1.ru/lb/m2/index.m3u8",
-			"type": "COUP DE FRANCE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
-		},
-
-	    {
-
-
-			"user": "Senegal vs Equatorial Guinea SD",
-			"pageUrl": "http://194.67.196.19:80/hls/107.m3u8",
-			"type": "AFRICA CUP OF NATIONS ⚽️ ",
-			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
-		},
-
-
-    {
-
-
-			"user": "Senegal vs Equatorial Guinea HD(English)",
-			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
-			"type": "AFRICA CUP OF NATIONS ⚽️ ",
-			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
-		},
-
-
-    {
-
-
-			"user": "Senegal vs Equatorial Guinea HD2(English)",
-			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8",
-			"type": "AFRICA CUP OF NATIONS ⚽️ ",
-			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
-		},
-
-    {
-
-
-			"user": "Lens vs Monaco SD",
-			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
-			"type": "COUP DE FRANCE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
-		},
-
-
-{
-
-
-			"user": "Lens vs Monaco HD",
-			"pageUrl": "https://bal.varcdn1.ru/lb/m2/index.m3u8",
-			"type": "COUP DE FRANCE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
-		},
-	    {
-
-
-			"user": "Canada vs USA SD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M3.m3u8",
-			"type": "WORLD CUP QUALIFIERS ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhSYqvdCk_HDnbOV-0yPlUWwigxmGgAmtw&usqp=CAU"
-		},
-
-
-    {
-
-
-			"user": "Canada vs USA HD(English)",
-			"pageUrl": "http://rented2.mireasa.live/cdn/premium125/chunks.m3u8",
-			"type": "WORLD CUP QUALIFYING ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhSYqvdCk_HDnbOV-0yPlUWwigxmGgAmtw&usqp=CAU"
-		},
-{
-
-
-			"user": "Porto vs Marítimo SD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
-			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNZh161_sphTKkjuZ3wcTFaes7_MvbTknkeA&usqp=CAU"
-		},
-
-{
-
-
-			"user": "Porto vs Marítimo HD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNZh161_sphTKkjuZ3wcTFaes7_MvbTknkeA&usqp=CAU"
-		},
 
     {
 
 
 			"user": "Mexico vs Costa Rica HD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
 			"type": "WORLD CUP QUALIFYING ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhSYqvdCk_HDnbOV-0yPlUWwigxmGgAmtw&usqp=CAU"
 		},
@@ -137,7 +19,7 @@
 
 
 			"user": "Panama vs Jamaica HD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/107.m3u8",
 			"type": "WORLD CUP QUALIFYING ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhSYqvdCk_HDnbOV-0yPlUWwigxmGgAmtw&usqp=CAU"
 
