@@ -31,33 +31,13 @@
 },
 
 
-    {
-
-
-			"user": "Reims vs Bastia SD",
-			"pageUrl": "http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per",
-			"type": "COUP DE FRANCE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
-		},
-
-
-{
-
-
-			"user": "Reims vs Bastia HD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8",
-			"type": "COUP DE FRANCE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
-		},
-
-
 	  
 
 
 	    {
 
 
-			"user": "Burkina Faso vs Tunisia SD",
+			"user": "Egypt vs Morocco SD",
 			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "AFRICA CUP OF NATIONS ⚽️ ",
 			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
@@ -67,7 +47,7 @@
     {
 
 
-			"user": "Burkina Faso vs Tunisia HD(English)",
+			"user": "Egypt vs Morocco HD(English)",
 			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "AFRICA CUP OF NATIONS ⚽️ ",
 			"webFormatUrl": "https://storage.allsportdb.com/orig/comp/6d0900b3-a397-428b-8698-a16a6f6b3468"
