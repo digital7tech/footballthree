@@ -3,70 +3,157 @@
 	"hits": [
 		
 
-    {
-		        "user": "Internazionale vs Liverpool  SD",
+     {
+		        "user": "	Barcelona vs Napoli  SD",
 			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
-			"type": "Uefa Champions league ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdKsE9ldXc9SECZZdlz2Uq-3CsQaUDnhNUhwVCAgmqmgXylKWA5qd8vAm&s=10"
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
+		},
+		  {
+		        "user": "	Barcelona vs Napoli  HD1",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
+		},
+		  {
+		        "user": "	Barcelona vs Napoli  HD2",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
+		},
+		 {
+		        "user": "Borussia Dortmund vs Rangers  HD(English)",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
+		},
+		 {
+		        "user": "Sheriff vs Sporting Braga SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
+		},
+		 {
+		        "user": "Sheriff vs Sporting Braga HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
+		},
+		 {
+		        "user": "Zenit vs Real Betis  SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
+		},
+		 {
+		        "user": "Zenit vs Real Betis HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
+		},
+		 {
+		        "user": "PSV vs Maccabi Tel Aviv HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://groundhopperguides.com/wp-content/uploads/2021/03/UECL-970x545.png"
+		},
+		 {
+		        "user": "Fenerbahçe vs Slavia Praha HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://groundhopperguides.com/wp-content/uploads/2021/03/UECL-970x545.png"
+		},
+		 {
+		        "user": "Rapid Wien vs Vitesse HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://groundhopperguides.com/wp-content/uploads/2021/03/UECL-970x545.png"
+		},
+		 {
+		        "user": "Midtjylland vs PAOK HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://groundhopperguides.com/wp-content/uploads/2021/03/UECL-970x545.png"
 		},
 
-
-    {
-		        "user": "Internazionale vs Liverpool  HD1(English)",
-			"pageUrl": "http://185.53.89.183/hls/bt2.m3u8",
-			"type": "Uefa Champions league ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdKsE9ldXc9SECZZdlz2Uq-3CsQaUDnhNUhwVCAgmqmgXylKWA5qd8vAm&s=10"
+{
+		        "user": "Porto vs Lazio  SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
-
-
-    {
-		        "user": "Internazionale vs Liverpool  HD2",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8",
-			"type": "Uefa Champions league ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdKsE9ldXc9SECZZdlz2Uq-3CsQaUDnhNUhwVCAgmqmgXylKWA5qd8vAm&s=10"
+		  {
+		        "user": "Porto vs Lazio  HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
-
-
-    {
-		        "user": "Internazionale vs Liverpool  HD3",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
-			"type": "Uefa Champions league ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdKsE9ldXc9SECZZdlz2Uq-3CsQaUDnhNUhwVCAgmqmgXylKWA5qd8vAm&s=10"
+		{
+		        "user": "Atalanta vs Olympiakos Piraeus  SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
-
-
-    {
-		        "user": "Salzburg vs Bayern München SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Uefa Champions league ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdKsE9ldXc9SECZZdlz2Uq-3CsQaUDnhNUhwVCAgmqmgXylKWA5qd8vAm&s=10"
+		  {
+		        "user": "Atalanta vs Olympiakos Piraeus  HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
-
-
-    {
-		        "user": "Salzburg vs Bayern München HD1",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8",
-			"type": "Uefa Champions league ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdKsE9ldXc9SECZZdlz2Uq-3CsQaUDnhNUhwVCAgmqmgXylKWA5qd8vAm&s=10"
+		{
+		        "user": "RB Leipzig vs Real Sociedad  SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
-
-
-    {
-		        "user": "Salzburg vs Bayern München HD2(English)",
-			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
-			"type": "Uefa Champions league ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdKsE9ldXc9SECZZdlz2Uq-3CsQaUDnhNUhwVCAgmqmgXylKWA5qd8vAm&s=10"
+		  {
+		        "user": "RB Leipzig vs Real Sociedad  HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
-
-
-
-    {
-		        "user": "Salzburg vs Bayern München HD3",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
-			"type": "Uefa Champions league ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdKsE9ldXc9SECZZdlz2Uq-3CsQaUDnhNUhwVCAgmqmgXylKWA5qd8vAm&s=10"
+		{
+		        "user": "Sevilla vs Dinamo Zagreb  SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
-
+		  {
+		        "user": "Sevilla vs Dinamo Zagreb  HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
+		},
+		 {
+		        "user": "Leicester City vs Randers SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://groundhopperguides.com/wp-content/uploads/2021/03/UECL-970x545.png"
+		},
+		 {
+		        "user": "Leicester City vs Randers HD(English)",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://groundhopperguides.com/wp-content/uploads/2021/03/UECL-970x545.png"
+		},
+		 {
+		        "user": "Olympique Marseille vs Qarabağ HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://groundhopperguides.com/wp-content/uploads/2021/03/UECL-970x545.png"
+		},
+		 {
+		        "user": "Celtic vs Bodø / Glimt HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://groundhopperguides.com/wp-content/uploads/2021/03/UECL-970x545.png"
+		},
+		 {
+		        "user": "Sparta Praha vs Partizan HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://groundhopperguides.com/wp-content/uploads/2021/03/UECL-970x545.png"
+		},
     {
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
