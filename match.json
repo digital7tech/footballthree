@@ -1,35 +1,85 @@
 {
 
 	"hits": [
-		{
-		        "user": "Real Betis  vs Rayo  Vallecano HD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Spain - Copa del Rey ⚽️ ",
-			"webFormatUrl": "https://pngset.com/images/logo-copa-del-rey-text-alphabet-label-word-transparent-png-1578519.png"
+
+{
+
+
+			"user": "Arminia Bielefeld vs Augsburg SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
 
 {
-		        "user": "Real Betis  vs Rayo  Vallecano HD",
-			"pageUrl": "https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8",
-			"type": "Spain - Copa del Rey ⚽️ ",
-			"webFormatUrl": "https://pngset.com/images/logo-copa-del-rey-text-alphabet-label-word-transparent-png-1578519.png"
+
+
+			"user": "Arminia Bielefeld vs Augsburg HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+
+{
+
+
+			"user": "Inter vs Sassuolo HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
 		},
 		{
-		        "user": "Everton vs Boreham Wood SD",
-			"pageUrl": "http://45.127.244.7:8080/hls/channel5.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+
+
+			"user": "Inter vs Sassuolo HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
 		},
-				
-		{
-		        "user": "Everton vs Boreham Wood SD(English)",
-			"pageUrl": "http://45.127.244.7:8080/hls/channel5.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
+
+{
+
+
+			"user": "Lorient vs Lyon",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
+		},	
 
 
 		
+	
+
+		
+
+		
+
+{
+
+
+			"user": "Deportivo  Alavés vs Sevilla SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		{
+
+
+			"user": "Deportivo Alavés vs Sevilla HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		
+	
+{
+
+
+			"user" : "Gil Vicente vs Estoril",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+		},	
 {
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
