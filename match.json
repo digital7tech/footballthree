@@ -13,8 +13,8 @@
 		{
 
 
-			"user": "Sevilla vs West Ham United HD",
-			"pageUrl": "http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8",
+			"user": "Sevilla vs West Ham United HD(English)",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -49,6 +49,15 @@
 
 			"user": "Vitesse vs Roma HD",
 			"pageUrl": "http://cdn.only4.tv/5589/video.m3u8?token=wKzMt243wK",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png"
+		},
+
+{
+
+
+			"user": "Vitesse vs Roma HD2",
+			"pageUrl": "http://103.166.253.222/hls/sonyten1.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png"
 		},
