@@ -99,42 +99,36 @@
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
+
+{
+
+
+			"user": "Arsenal vs Liverpool SD(English)",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 {
 
 
 			"user": "Arsenal vs Liverpool SD1",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},	
 		
-		{
-
-
-			"user": "Arsenal vs Liverpool SD(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
+		
 	
 		{
 
 
 			"user": "Arsenal vs Liverpool HD1",
-			"pageUrl": "https://16live00.akamaized.net/SKY_SPORTSMAIN/index.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4/chunks.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
 	
-		{
-
-
-			"user": "Arsenal vs Liverpool HD2(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
 	
 		{
 
