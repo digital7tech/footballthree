@@ -2,87 +2,128 @@
 
 	"hits": [
 	
-	
 {
-		        "user": "Manchester United vs Atlético Madrid SD (English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
-		},	
-
-	
-{
-		        "user": "Manchester United vs Atlético Madrid SD2",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
-		},	
-
-	
-{
-		        "user": "Manchester United vs Atlético Madrid HD1(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
-		},	
-
-	
-{
-		        "user": "Manchester United vs Atlético Madrid HD2(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
-		},	
-
-	
-{
-		        "user": "Manchester United vs Atlético Madrid HD3",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar1/index.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
-		},	
-	
-		
-{
-		        "user": "Ajax vs Benfica SD",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
-		},	
-
-		
-{
-		        "user": "Ajax vs Benfica HD1",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2_480p/live/b-2/chunks.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
-		},	
 
 
-		
-{
-		        "user": "Ajax vs Benfica HD2",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
+			"user": "Mainz 05 vs Borussia Dortmund HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
-
-
-			
 {
-		        "user": "Ajax vs Benfica HD3",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
-		},
 
-			
-{
-		        "user": "WestBrom vs Fulham",
-			"pageUrl": "http://103.149.130.122:8089/73/index.m3u8",
-			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBRcBngLouYtWVjeEwtj-Y2zyt6VfrufZzA&usqp=CAU"
+
+			"user": "Mainz 05 vs Borussia Dortmund HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
+		{
+
+
+			"user": "Brighton vs Tottenham Hotspur SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},	
+		{
+
+
+			"user": "Brighton vs Tottenham Hotspur HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},	
+		{
+
+
+			"user": "Lille vs Chelsea SD(English)",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+		{
+
+
+			"user": "Lille vs Chelsea SD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+		{
+
+
+			"user": "Lille vs Chelsea HD1(English)",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+		{
+
+
+			"user": "Lille vs Chelsea HD2(English)",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+		{
+
+
+			"user": "Juventus vs Villarreal SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+		{
+
+
+			"user": "Juventus vs Villarreal HD1",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+		{
+
+
+			"user": "Juventus vs Villarreal HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+		
+		{
+
+
+			"user": "Arsenal vs Liverpool SD(English)",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Arsenal vs Liverpool SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},	
+		{
+
+
+			"user": "Arsenal vs Liverpool HD1(English)",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},	
+		{
+
+
+			"user": "Arsenal vs Liverpool HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},	
+		
 {
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://103.149.130.122:8089/73/index.m3u8",
