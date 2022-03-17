@@ -1,143 +1,235 @@
 {
 
 	"hits": [
-	
-
 {
 
 
-			"user": "Brighton vs Tottenham Hotspur SD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar4/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
-		{
-
-
-			"user": "Brighton vs Tottenham Hotspur SD1(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3_480p/chunks.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
-
-		{
-
-
-			"user": "Brighton vs Tottenham Hotspur HD(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3/chunks.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+			"user": "Galatasaray vs Barcelona SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
+		{
 
-{
 
-
-			"user": "Lille vs Chelsea SD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar2/index.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+			"user": "Galatasaray vs Barcelona HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},	
 		{
 
 
-			"user": "Lille vs Chelsea SD(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+			"user": "Crvena Zvezda vs Rangers SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},	
+		{
+
+
+			"user": "Crvena Zvezda vs Rangers HD(Enlish)",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},	
+		{
+
+
+			"user": "Bayer Leverkusen vs Atalanta SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+		{
+
+
+			"user": "Bayer Leverkusen vs Atalanta HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+		{
+
+
+			"user": "Monaco vs Sporting Braga SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},	
+		{
+
+
+			"user": "Monaco vs Sporting Braga HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+		{
+
+
+			"user": "Rennes vs Leicester City SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+
+			"user": "Rennes vs Leicester City HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+
+			"user": "Basel vs Olympique Marseille HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+
+			"user": "København vs PSV HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+
+			"user": "AZ vs Bodø / Glimt HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
 		
 		{
 
 
-			"user": "Lille vs Chelsea HD1(English)",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS2/index.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+			"user": "Southampton vs Norwich City SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-		{
-
-
-			"user": "Lille vs Chelsea HD2(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
-
-{
-
-
-			"user": "Juventus vs Villarreal SD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar1/index.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
-		{
-
-
-			"user": "Juventus vs Villarreal SD1",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
-
-
 		
+	
+		{
 
-{
 
-
-			"user": "Juventus vs Villarreal HD1",
-			"pageUrl": "https://hll.hnzzdf.com.cn/live/H102772.m3u8?txSecret=94110cb10444952d5da70f371508f218&txTime=62336A3F&_s=stream",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+			"user": "Southampton vs Norwich City HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
 
-			"user": "Juventus vs Villarreal HD2",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS3/index.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
-
-{
-
-
-			"user": "Arsenal vs Liverpool SD(English)",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"user": "Southampton vs Norwich City HD (English)",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-{
+		{
 
 
-			"user": "Arsenal vs Liverpool SD1",
-			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8",
+			"user": "Southampton vs Norwich City HD2",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "West Ham United vs Sevilla SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+		{
+
+
+			"user": "West Ham United vs Sevilla HD(English)",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},	
+		{
+
+
+			"user": "Olympique Lyonnais vs Porto SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+		{
+
+
+			"user": "Olympique Lyonnais vs Porto HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},	
+		{
+
+
+			"user": "Eintracht Frankfurt vs Real Betis SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+		{
+
+
+			"user": "Eintracht Frankfurt vs Real Betis HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},	
 		
-		
-	
 		{
 
 
-			"user": "Arsenal vs Liverpool HD1",
-			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4/chunks.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+			"user": "Roma vs Vitesse SD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
-
-	
-	
 		{
 
 
-			"user": "Arsenal vs Liverpool HD3",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},		
+			"user": "Roma vs Vitesse HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+
+			"user": "Feyenoord vs Partizan HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+
+			"user": "Gent vs PAOK HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+
+			"user": "LASK Linz vs Slavia Praha HD",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		
 {
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://103.149.130.122:8089/73/index.m3u8",
