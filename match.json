@@ -6,50 +6,8 @@
 		
 
 
-		{
-
-
-			"user": "Nottingham Forest vs Liverpool SD ",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-		
-		{
-
-
-			"user": "Nottingham Forest vs Liverpool HD1 (English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-		
-		{
-
-
-			"user": "Nottingham Forest vs Liverpool HD2",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar1/index.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
 		
 	
-		{
-
-
-			"user": "Köln vs Borussia Dortmund HD1",
-			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Köln vs Borussia Dortmund HD2",
-			"pageUrl": "http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
 		{
 
 
@@ -75,19 +33,12 @@
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
 		},
+		
 		{
 
 
 			"user": "Real Madrid vs Barcelona SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-		{
-
-
-			"user": "Real Madrid vs Barcelona SD (English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar5/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -95,7 +46,7 @@
 
 
 			"user": "Real Madrid vs Barcelona HD1 (English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -120,7 +71,7 @@
 
 
 			"user": "Boavista vs Porto CP",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar1/index.m3u8",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar4/index.m3u8",
 			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
 		},
