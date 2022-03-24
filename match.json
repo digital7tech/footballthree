@@ -9,10 +9,13 @@
 		
 	
 		
+	
+
+		
 		{
 
 
-			"user": "Australia vs Japan",
+			"user": "Italy vs North Macedonia SD",
 			"pageUrl": "http://78.129.253.15:8030/Fuchar4/index.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
@@ -20,72 +23,17 @@
 		{
 
 
-			"user": "Korea Republic vs Iran",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar5/index.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-		{
-
-
-			"user": "Lebanon vs Syria",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-		{
-
-
-			"user": "China vs Saudi Arabia",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-		{
-
-
-			"user": "Iraq vs United Arab Emirates",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-		{
-
-
-			"user": "Hungary vs Serbia HD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
-		},
-		{
-
-
-			"user": "Italy vs North Macedonia SD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-		{
-
-
-			"user": "Italy vs North Macedonia SD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-		{
-
-
 			"user": "Italy vs North Macedonia HD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
+	
 		{
 
 
 			"user": "Portugal vs Turkey SD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
@@ -93,7 +41,7 @@
 
 
 			"user": "Portugal vs Turkey HD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
@@ -101,15 +49,15 @@
 
 
 			"user": "Wales vs Austria SD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
 		{
 
 
-			"user": "Wales vs Austria HD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"user": "Wales vs Austria HD(English)",
+			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
@@ -117,7 +65,7 @@
 
 
 			"user": "Sweden vs Czech Republic SD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar6/index.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
@@ -125,21 +73,100 @@
 
 
 			"user": "Sweden vs Czech Republic HD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
 		{
 
 
-			"user": "Sweden vs Czech Republic HD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"user": "Scotland vs Poland HD",
+			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
 		},
 		
 		
-		
+		{
+
+
+			"user": "Jamaica vs El Salvador HD",
+			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
+		},
+		{
+
+
+			"user": "Colombia vs Bolivia HD",
+			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
+		},
+		{
+
+
+			"user": "Paraguay vs Ecuador HD",
+			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
+		},
+		{
+
+
+			"user": "Uruguay vs Peru HD",
+			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
+		},
+		{
+
+
+			"user": "Brazil vs Chile SD",
+			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
+		},
+		{
+
+
+			"user": "Brazil vs Chile HD",
+			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
+		},
+		{
+
+
+			"user": "Panama vs Honduras SD",
+			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
+		},
+		{
+
+
+			"user": "Mexico vs USA SD",
+			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
+		},
+		{
+
+
+			"user": "Mexico vs USA HD",
+			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
+		},
+		{
+
+
+			"user": "Costa Rica vs Canada HD",
+			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
+		},
 		
 		
 		
