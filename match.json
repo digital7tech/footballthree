@@ -3,171 +3,77 @@
 
 	"hits": [
 
-	{
+	
 
 
-			"user": "Japan vs Vietnam HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},	
 		{
 
 
-			"user": "UAE vs Korea Republic HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"user": "Bolivia vs Brazil SD",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
 		{
 
 
-			"user": "Oman vs China HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"user": "Bolivia vs Brazil HD",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
 		{
 
 
-			"user": "Denmark vs Serbia HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
-		},
-{
-
-
-			"user": "Switzerland vs Kosovo HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
-		},
-
-	{
-
-
-			"user": "Senegal vs Egypt HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"user": "Ecuador vs Argentina SD",
+			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
 		{
 
 
-			"user": "Nigeria vs Ghana HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"user": "Ecuador vs Argentina HD",
+			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
 		{
 
 
-			"user": "Saudi Arabia vs Australia HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"user": "Chile vs Uruguay SD",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
 		{
 
 
-			"user": "Portugal vs North Macedonia SD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"user": "Chile vs Uruguay HD",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
 		{
 
 
-			"user": "Portugal vs North Macedonia HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"user": "Peru vs Paraguay SD",
+			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
 		{
 
 
-			"user": "Poland vs Sweden HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"user": "Peru vs Paraguay HD",
+			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
 		{
 
 
-			"user": "Poland vs Sweden HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-		{
-
-
-			"user": "Spain vs Iceland SD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
-		},
-		{
-
-
-			"user": "Spain vs Iceland HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
-		},
-		{
-
-
-			"user": "Netherlands vs Germany SD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
-		},
-		{
-
-
-			"user": "Netherlands vs Germany HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
-		},
-		{
-
-
-			"user": "Turkey vs Italy SD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
-		},
-		{
-
-
-			"user": "Turkey vs Italy HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
-		},
-		{
-
-
-			"user": "Algeria vs Cameroon HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-		{
-
-
-			"user": "Morocco vs Congo DR HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-		{
-
-
-			"user": "Tunisia vs Mali HD",
+			"user": "Venezuela vs Colombia HD",
 			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
