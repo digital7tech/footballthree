@@ -4,35 +4,11 @@
 	"hits": [
 
 
-		{
-
-
-			"user": "Strasbourg vs Lens",
-			"pageUrl": "https://16live00.akamaized.net/BEIN_SPORTSSD/index.m3u8",
-			"type": "France - Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-{
-
-
-			"user": "Athletic Club vs Elche SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": " ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipediommons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
-		{
-
-
-			"user": "Athletic Club vs Elche HD",
-			"pageUrl": "http://188.34.177.35/xls/ligota/index.m3u8",
-			"type": "⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.orkipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
 	{
 
 
 			"user": "West Ham United vs Everton SD1",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -96,55 +72,25 @@
 
 
 			"user": "Metz vs Monaco",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://16live00.akamaized.net/BEIN_SPORTSSD/index.m3u8",
 			"type": "France - Ligue 1 ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
+		
 		{
 
 
-			"user": "Montpellier vs Brest",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "France - Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Troyes vs Reims",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "France - Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Clermont vs Nantes",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "France - Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Augsburg vs Wolfsburg HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Augsburg vs Wolfsburg HD",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
-		{
-
-
-			"user": "Augsburg vs Wolfsburg HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
+		
 		{
 
 
 			"user": "Real Betis vs Osasuna SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": " ⚽️ ",
 			"webFormatUrl": "httpupload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -152,7 +98,7 @@
 
 
 			"user": "Real Betis vs Osasuna HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://188.34.177.35/xls/ligota/index.m3u8",
 			"type": " ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.orikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
