@@ -5,108 +5,86 @@
 
 
 
-
-
 {
-
-
-			"user": "Milan vs Bologna HD1",
-			"pageUrl": "http://217.174.225.146/hls/ch004_720/index.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
+		        "user": "Manchester City vs Athletico Madrid SD",
+			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 
 {
-
-
-			"user": "Milan vs Bologna HD2",
-			"pageUrl": "http://135.181.178.91/vmedia_live/1/tracks-v1a1/index.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
-		},
-		{
-
-
-			"user": "Milan vs Bologna HD3",
-			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV3.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
-		},
-
-
-{
-
-
-			"user": "Crystal Palace vs Arsenal SD",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		        "user": "Manchester City vs Athletico Madrid SD2(English)",
+			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 
 {
+		        "user": "Manchester City vs Athletico Madrid HD1(English)",
+			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
 
-
-			"user": "Crystal Palace vs Arsenal SD1 (English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+{
+		        "user": "Manchester City vs Athletico Madrid HD2 (English)",
+			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 
 
 {
-
-
-			"user": "Crystal Palace vs Arsenal HD1 (English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-{
-
-
-			"user": "Crystal Palace vs Arsenal HD2 (English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-{
-
-
-			"user": "Crystal Palace vs Arsenal HD3 (English)",
-			"pageUrl": "https://16live00.akamaized.net/SKY_SPORTSMAIN/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		        "user": "Manchester City vs Athletico Madrid HD3",
+			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 
 
 
 {
-
-
-			"user": "Real Sociedad vs Espanyol SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		        "user": "Benfica vs Liverpool SD1",
+			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
-		
-		
-
-{
-
-
-			"user": "Porto vs Santa Clara",
-			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
-		},	
 	
-	
+{
+		        "user": "Benfica vs Liverpool SD2 (English)",
+			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+
+{
+		        "user": "Benfica vs Liverpool HD1 (English)",
+			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+{
+		        "user": "Benfica vs Liverpool HD2 (English)",
+			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+
+{
+		        "user": "Benfica vs Liverpool HD3 (English)",
+			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+
+
 {
 		        "user": "Football",
-			"pageUrl": "http://103.149.130.122:8089/73/index.m3u8",
+			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
