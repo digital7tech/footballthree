@@ -4,123 +4,175 @@
 	"hits": [
 
 
-
-
-	{
-
-
-			"user": "Burnley vs Everton HD1 (English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
-		{
-
-
-			"user": "Burnley vs Everton HD2 (English)",
-			"pageUrl": "https://16live00.akamaized.net/SKY_SPORTSMAIN/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
-	{
-
-
-			"user": "Burnley vs Everton HD3",
-			"pageUrl": "http://185.152.66.132/98774/tracks-v1a1/mono.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
-	{
-
-
-			"user": "Chelsea vs Real Madrid SD1 (English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},	
-
 {
 
+		        "user": "RB Leipzig vs Atalanta HD1",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
+		},
 
-			"user": "Chelsea vs Real Madrid HD1",
-			"pageUrl": "http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},	
-
-	{
-
-
-			"user": "Chelsea vs Real Madrid HD2 (English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},	
 
 
 {
 
-
-			"user": "Chelsea vs Real Madrid HD3 (English)",
-			"pageUrl": "https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/WBhfaat5qmVZmhslRDJFhHorLdbIqQyjnBcDvCaVBizsu6PxQa0LwGg8NznuRGsf0nwESrKXwpxIpCiOOkX-RA/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},	
-
-{
-
-
-			"user": "Chelsea vs Real Madrid HD4",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},	
+		        "user": "RB Leipzig vs Atalanta HD2",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
+		},
 
 
 {
 
-
-			"user": "Villarreal vs Bayern München SD",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},	
-
-
-
-	
-{
-
-
-			"user": "Villarreal vs Bayern München HD1",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS3/index.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},	
+		        "user": "Feyenoord vs Slavia Praha",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA CONFERENCE  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
 
 
 {
 
-
-			"user": "Villarreal vs Bayern München HD2",
-			"pageUrl": "http://51.195.234.238:8080/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},		
+		        "user": "Eintracht Frankfurt vs Barcelona SD",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
+		},
 
 
 {
 
+		        "user": "Eintracht Frankfurt vs Barcelona HD1",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
+		},
 
-			"user": "Villarreal vs Bayern München HD3",
-			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/kFBU30skLVVKc0FaAQGTpmRkptZzIS6nKFg2olRPCfUxRYEy5wpbmvFPWQYNgBR682KgS2GnC1gPFLh6EsZqAw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/dynamic_highlatency.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},			
 
 {
+
+		        "user": "Eintracht Frankfurt vs Barcelona HD2",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
+		},
+
+{
+
+		        "user": "WestHam vs Olympique Lyonnais SD",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
+		},
+
+
+
+{
+
+		        "user": "WestHam vs Olympique Lyonnais HD(English)",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
+		},
+
+{
+
+		        "user": "WestHam vs Olympique Lyonnais HD2",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
+		},
+
+{
+
+		        "user": "Sporting Braga vs Rangers SD",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
+		},
+
+
+
+{
+
+		        "user": "Sporting Braga vs Rangers HD(English)",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
+		},
+
+
+
+{
+
+		        "user": "RB Leipzig vs Atalanta HD1",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
+		},
+
+{
+
+		        "user": "Leicester City vs PSV SD",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA CONFERENCE  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+
+
+
+{
+
+		        "user": "Leicester City vs PSV HD(English)",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA CONFERENCE  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+
+
+
+
+{
+
+		        "user": "Bodø/Glimt vs AS Roma SD",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA CONFERENCE  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+
+
+{
+
+		        "user": "Bodø/Glimt vs AS Roma HD",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA CONFERENCE  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+
+{
+
+		        "user": "Olympique Marseille vs PAOK",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"type": "UEFA CONFERENCE  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+
+
+{
+
 		        "user": "Football",
-			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"pageUrl": "https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+		},
+
+{
+
+
+
+		        "user": "Football",
+			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
