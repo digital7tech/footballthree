@@ -2,58 +2,36 @@
 
 	"hits": [
 
-		{
-
-
-			"user": "Bayer Leverkusen vs RB Leipzig HD",
-			"pageUrl": "http://194.67.196.19:80/hls/109.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		
-		
-		
-		{
-
-
-			"user": "PSG vs Olympique Marseille HD1",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "PSG vs Olympique Marseille HD2",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Sevilla vs Real Madrid",
-			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3_480p/chunks.m3u8",
-			"type": "Spain - La Liga⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia//thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-{
-
-
-			"user": "Sporting CP vs Benfica HD1",
-			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
-		},
 
 {
 
 
-			"user": "Sporting CP vs Benfica HD2",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt2.m3u8",
-			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+			"user": "Napoli vs Roma HD1",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
+
+
+{
+
+
+			"user": "Napoli vs Roma HD2",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+
+
+{
+
+
+			"user": "Napoli vs Roma HD3",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+
 {
 
 			"user": "Football",
