@@ -30,7 +30,7 @@
 
 
 			"user": "Internazionale vs Roma HD1",
-			"pageUrl": "http://78.47.248.131/live/abr_s-4/live/s-4_480p/chunks.m3u8?wmsAuthSign=",
+			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/OlcipgrIfTE7L3mwcec2PiSLTXlv_QR3Zvsk068AvE5kDvm-LBtTLFpBrtbPEwFZIzsDCuVDFWqcxDJOH3imiA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
@@ -54,7 +54,7 @@
 {
 
 			"user": "Brentford vs Tottenham SD",
-			"pageUrl": "http://d15lu18nqja5ij.cloudfront.net/stream/NDAwOA==/1080p.m3u8",
+			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/OItL912B6VCKbiCf6LAtp9VLtskcJuZm25kq0MYSwK2L5sQGw7y7C3YKiSvdQPqfVcIOzybzDmnCfEGIFuLsBQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -62,7 +62,7 @@
 
 
 			"user": "Brentford vs Tottenham SD(English)",
-			"pageUrl": "78.47.248.131/live/abr_s-1/live/s-1_480p/chunks.m3u8?wmsAuthSi",
+			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/OItL912B6VCKbiCf6LAtp9VLtskcJuZm25kq0MYSwK2L5sQGw7y7C3YKiSvdQPqfVcIOzybzDmnCfEGIFuLsBQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -78,7 +78,7 @@
 
 
 			"user": "Brentford vs Tottenham HD2(English)",
-			"pageUrl": "78.47.248.131/live/abr_s-1/live/s-1_480p/chunks.m3u8?wmsAuthSi",
+			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/OItL912B6VCKbiCf6LAtp9VLtskcJuZm25kq0MYSwK2L5sQGw7y7C3YKiSvdQPqfVcIOzybzDmnCfEGIFuLsBQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
