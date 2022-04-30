@@ -5,46 +5,7 @@
 
 	
 	
-{
 
-
-			"user": "Newcastle vs Liverpool SD1(English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Newcastle vs Liverpool SD2(English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Newcastle vs Liverpool HD1(English)",
-			"pageUrl": "http://d3pkil6wp1amn5.cloudfront.net/stream/NDA4MQ==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Newcastle vs Liverpool HD2(English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Newcastle vs Liverpool HD3(English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
 		{
 
 
@@ -89,7 +50,7 @@
 
 
 			"user": "Mainz 05 vs Bayern München HD1",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/626d321886430c001c9a708b/626d321886430c001c9a708b.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -97,7 +58,7 @@
 
 
 			"user": "Mainz 05 vs Bayern München HD2",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/626d321886430c001c9a708b/626d321886430c001c9a708b.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -105,7 +66,7 @@
 
 
 			"user": "Borussia Dortmund vs Bochum",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/0hDHbXONeT8KvKHWHP22VK4BwI2jqqdKpjGLp8Q0E9SO_llSHKP9DQs4EdXqusAXHJ-UotOKC0ytsZLO3D4alQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -121,7 +82,7 @@
 
 
 			"user": "Augsburg vs Köln",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/109.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -129,16 +90,24 @@
 
 
 			"user": "Arminia Bielefeld vs Hertha BSC",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
 		{
 
 
+			"user": "Aston Villa vs Norwich SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+		         "type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
 			"user": "Aston Villa vs Norwich SD(English)",
 			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
-		"type": "England - Premier League ⚽️ ",
+		         "type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
@@ -153,6 +122,14 @@
 
 
 			"user": "Aston Villa vs Norwich HD2(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Southampton vs Crystal Palace SD",
 			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -184,9 +161,17 @@
 		{
 
 
+			"user": "Watford vs Burnley SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+		      "type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
 			"user": "Watford vs Burnley SD(English)",
 			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
-		"type": "England - Premier League ⚽️ ",
+		      "type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
@@ -201,6 +186,14 @@
 
 
 			"user": "Watford vs Burnley HD2(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Wolves vs Brighton SD",
 			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
