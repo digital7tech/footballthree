@@ -8,7 +8,7 @@
 
 
 			"user": "Bayern Leverkusen vs Frankfurt HD",
-			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
+			"pageUrl": "https://video-weaver.hou01.hls.ttvnw.net/v1/playlist/CpcEDdZ4ux9PtPbPvVJwd4P4CLlyV8ICLCxoQdBSmcM-F1_BJWoFq4gF6fJ3Y_uMKhTQwwcY7B9L-POiwuSZhxNYKY8gPxR-B_9EVQJvAmy7NW3vq_omsNTiv8eMB1l8-bOMGVRMCnFw6n7YUD9C1C8r1Ly8oE5gKxL_mmmCMbuOA2Rpkor_H-THLPQ6CBHE8Jt1qUrimblVdbhmiJ8BTf680DE6ZiVhOp6L8b10-pHh2IyB0Fc4rTTsQ6Hr3LyRMDK8CbLrNHArzgAe_50P6yllrPFDCk3zP0v9xO5SLzNJAu0gOs3y__5xGIGKfaBmFnSqVyNJVaHkZZqTGeyqtRCHv8MgpbvwjE209dzYDJof_rerD0WiIoJ8urTCXfaoQwFpNap6Odv_B1nVDG-rOOVYk2fQXAN0chiFd5ayAAOLNOQkJtLcki9lw2sPgr7fl5PSKUsEeLMDKsnhiZrSu6B0lcKvmf7sDIjBSIpvUkrYxLw0NObETE2PEFTEfOlUJ90neeUnhT81eG35vskZexuX6P4FZFQjCT1zB01GxC9LT535va1wpScYYSZRsnsAAM4OxKWuUKMTi4JKj3JbMjyM8VNTulxhJGvAHH7oLc3oM8BoMLeJoUtQESm1bs2f-cfj8HT25pIABSnfMp7sPU6swxkIp4PG_yRm1ospHfZ9I_f99KlTzoMUoibBRTrzqSPfYlCjgMIZbhoM4hBfoOTRDpyHsH7lIAEqCWV1LXdlc3QtMjDPAw.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -18,7 +18,7 @@
 
 
 			"user": "Borussia M'gladbach vs RB Leipzig HD",
-			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
+			"pageUrl": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/inyguoX5Q9ghrrZB_HtEc0aZHjFhWO1q-QPercjQVGz7YXDru0nIcdn4V3C7hunxhF1-hZoQcAFRrV0nSbxJIA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -26,7 +26,7 @@
 
 
 			"user": "Atalanta vs Salernitana HD1",
-			"pageUrl": "http://d3pkil6wp1amn5.cloudfront.net/stream/NDEyMw==/1080p.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
@@ -51,7 +51,7 @@
 
 
 			"user": "Manchester United vs Brentford SD",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -60,7 +60,7 @@
 
 
 			"user": "Manchester United vs Brentford SD2(English)",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -70,7 +70,7 @@
 
 
 			"user": "Manchester United vs Brentford HD1(English)",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -81,7 +81,7 @@
 
 
 			"user": "Manchester United vs Brentford HD2(English)",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -101,7 +101,7 @@
 
 
 			"user": "Getafe vs Real Betis SD",
-			"pageUrl": "htpublic/eyJynamic_highlatency.m3u8?type=live",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
 		},
@@ -109,7 +109,7 @@
 
 
 			"user": "Getafe vs Real Betis HD",
-			"pageUrl": "http://d1td4hzh042thn.cloudfront.net/stream/NDA5MA==/1080p.m3u8",
+			"pageUrl": "http://d3pkil6wp1amn5.cloudfront.net/stream/NDEyNQ==/1080p.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
 		},
