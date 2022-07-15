@@ -10,18 +10,27 @@
 	
 	{
 
-			"user": "France vs Belgium HD1",
+			"user": "Manchester United vs Melbourne Victory HD1",
 			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8 ",
-			"type": "UEFA WOMEN'S EURO ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7V7b_15OQLotIjwT5nqRitLK96XALY5HEag&usqp=CAU"
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60QBY1AuZIvUc9imTQzTeFfgLp11A1OEqIA&usqp=CAU"
 		},
 
 	
+	
+	{
+
+			"user": "Manchester United vs Melbourne Victory HD2",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8 ",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60QBY1AuZIvUc9imTQzTeFfgLp11A1OEqIA&usqp=CAU"
+		},
+
 		
 
 	{
 
-			"user": "France vs Belgium HD2",
+			"user": "France vs Belgium HD",
 			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8",
 			"type": "UEFA WOMEN'S EURO ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7V7b_15OQLotIjwT5nqRitLK96XALY5HEag&usqp=CAU"
