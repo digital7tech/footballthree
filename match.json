@@ -14,7 +14,14 @@
 
 {
 
-			"user": "Switzerland vs Netherlands HD1",
+			"user": "Switzerland vs Netherlands HD (English)",
+			"pageUrl": "https://bb974e2c165d.us-west-2.playback.live-video.net/api/video/v1/us-west-2.280075704671.channel.y9OiwWLC9lvs.m3u8",
+			"type": "UEFA WOMEN'S EURO ⚽️ ",
+			"webFormatUrl": "https://theme.zdassets.com/theme_assets/2086169/fd0ac7e1e45dd1457f98d74551de007394d9531f.pngishing.com/elcomercio/4272KJWTHFAKJEZO2V4AIUPETA.jpg"
+		},
+		{
+
+			"user": "Switzerland vs Netherlands HD2",
 			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8",
 			"type": "UEFA WOMEN'S EURO ⚽️ ",
 			"webFormatUrl": "https://theme.zdassets.com/theme_assets/2086169/fd0ac7e1e45dd1457f98d74551de007394d9531f.pngishing.com/elcomercio/4272KJWTHFAKJEZO2V4AIUPETA.jpg"
@@ -22,13 +29,14 @@
 			
 
 
-{
 
-			"user": "Sweeden vs Portugal HD1",
+		{
+
+			"user": "Sweeden vs Portugal HD",
 			"pageUrl": "https://dl.dropboxusercontent.com/s/owjl5qk2pjhfxf4/.m3u8",
 			"type": "UEFA WOMEN'S EURO ⚽️ ",
 			"webFormatUrl": "https://theme.zdassets.com/theme_assets/2086169/fd0ac7e1e45dd1457f98d74551de007394d9531f.pngishing.com/elcomercio/4272KJWTHFAKJEZO2V4AIUPETA.jpg"
-		},	
+		},
 	
 	{
 
