@@ -1,36 +1,59 @@
-
 {
 
 	"hits": [
-
-
-
-
 		
+	
+{
+
+			"user": "QPR vs Blackpool",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"type": "English Championship ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw6bZ1HZJVUlliqer_KgiR863U-Q6L7ClQ8JUzkiTh24r6kkmhplbcY-X9&s=10"
+		},
 
 
 
-	{
+{
 
-			"user": " Sassuolo vs Vis Pesaro",
-			"pageUrl": "http://138.201.220.51:8030/pt-/tracks-v1a1/mono.m3u8",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4nIPzA8Siu7YyYCxsmj0_lAM_SQWRjhwOQ&usqp=CAU"
-		},	
+			"user": "København vs Trabzonspor HD",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
 
 
-	{
 
-			"user": " AEK Larnaca vs Partizan",
-			"pageUrl": "http://138.201.220.51:8030/pt-/tracks-v1a1/mono.m3u8",
-			"type": "UEFA EUROPA LEAGUE⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},	
 
-		{
+{
 
-			"user": "PTV SPORTS",
-			"pageUrl": "http://138.201.220.51:8030/ptv/index.m3u8",
+			"user": "Rangers vs PSV SD",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+
+{
+
+			"user": "Rangers vs PSV HD",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+
+{
+
+			"user": "Bodø Glimt vs Dinamo Zagreb HD",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+{
+
+			"user": "PTV SPORTS 2",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
