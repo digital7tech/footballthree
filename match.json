@@ -1,280 +1,179 @@
 {
 	"hits": [
+		
+		{
+
+
+			"user": "Genoa vs SPAL",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYU6-DL4ezKh6LGyJCA2GrRLWmiXlgr0m1b1dXtXQtXnc1x_fsIaVzNApzHjkRE2UeNU&usqp=CAU"
+		},
+		{
+
+
+			"user": "Lübeck vs Mainz 05",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Stuttgarter Kickers vs Eintracht Frankfurt",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Waldhof Mannheim vs Nürnberg",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "RB Leipzig vs Hamburger SV",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Lübeck vs Mainz 05",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Lübeck vs Mainz 05",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
+		},
+		
+		{
+
+
+			"user": "Sevilla vs Valencia",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
+		},
+			{
+
+
+			"user": "Getafe vs Athletic Club",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
+		},
+			{
+
+
+			"user": "Brighton vs Nottingham Forest SD",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Brighton vs Nottingham Forest HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		
+		{
+
+
+			"user": "Brighton vs Nottingham Forest (ENG)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		
+		{
+
+
+			"user": "Hoffenheim vs Schalke 04",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Elversberg vs Bochum 04",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Eintracht Braunschweig vs Wolfsburg 04",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Darmstadt 98 vs Borussia M'gladbach 04",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Atlético Madrid vs Rayo Vallecano",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
+		},
+		{
+
+
+			"user": "Torino vs Cittadella",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYU6-DL4ezKh6LGyJCA2GrRLWmiXlgr0m1b1dXtXQtXnc1x_fsIaVzNApzHjkRE2UeNU&usqp=CAU"
+		},
+		{
+
+
+			"user": "Crystal Palace vs Wolves SD",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Crystal Palace vs Wolves HD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		
+		{
+
+
+			"user": "Crystal Palace vs Wolves (ENG)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 	{
-
-			"user": "Bodø / Glimt vs Arsenal SD",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-
-		{
-
-			"user": "Bodø / Glimt vs Arsenal HD1",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-{
-
-			"user": "Bodø / Glimt vs Arsenal HD (English)",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-{
-
-			"user": "Real Betis vs Roma SD",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Real Betis vs Roma HD",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Dynamo Kyiv vs Rennes",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "AEK Larnaca vs Fenerbahçe",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Union Saint-Gilloise vs Sporting Braga",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Feyenoord vs Midtjylland",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Nantes vs Freiburg",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Qarabağ vs Olympiakos Piraeus",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		
-		{
-
-			"user": "Fiorentina vs Hearts",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-{
-
-			"user": "Fİstanbul Başakşehir vs Rīgas FS",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-{
-
-			"user": "Austria Wien vs Villarreal",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-		{
-
-			"user": "Partizan vs Köln",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-		{
-
-			"user": "Apollon vs AZ",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-		{
-
-			"user": "Djurgården vs Gent",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-		{
-
-			"user": "CFR Cluj vs Slavia Praha",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-		{
-
-			"user": "Slovan Bratislava vs Basel",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-		{
-
-			"user": "Manchester United vs Omonia Nicosia SD",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-
-		{
-
-			"user": "Manchester United vs Omonia Nicosia HD1",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-{
-
-			"user": "Manchester United vs Omonia Nicosia HD (English)",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "PSV vs Zürich",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Lazio vs Sturm Graz SD",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Lazio vs Sturm Graz HD",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Trabzonspor vs Monaco",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Ludogorets vs HJK",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Union Berlin vs Malmö FF",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Real Sociedad vs Sheriff",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Ferencváros vs Crvena Zvezda",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "West Ham United vs Anderlecht SD",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-		{
-
-			"user": "West Ham United vs Anderlecht HD",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-		{
-
-			"user": "Hapoel Be'er Sheva vs Lech Poznań",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-		{
-
-			"user": "FCSB vs Silkeborg",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},{
-
-			"user": "Nice vs Slovácko",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},{
-
-			"user": "Vaduz vs Dnipro-1",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},{
-
-			"user": "Shamrock Rovers vs Molde",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-		
-		{
-
-			"user": "Ballkani vs Sivasspor",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-		{
-
-			"user": "Žalgiris vs Pyunik",
-			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-		{
 
 			"user": "PTV SPORTS",
 			"pageUrl": "http://golive.yn.lt/live/champions/03.m3u8  ",
